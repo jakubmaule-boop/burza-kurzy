@@ -1,5 +1,4 @@
 """Stahuje kurzy všech titulů hry Burzovní souboj a zapisuje je do prices.json.
-# spuštění před tahem
 
 Zdroje: Yahoo Finance (chart API) pro světové akcie, indexy, komodity, krypto a měny,
 pse.cz pro pražské akcie. Spouští GitHub Actions každých 15 minut.
@@ -37,11 +36,15 @@ def norm(s):
     return re.sub(r"[^A-Z0-9]", "", s)
 
 def pse(market):
-    try:
-        r = S.get(f"https://www.pse.cz/en/market-data/shares/{market}-market", timeout=20)
-        r.raise_for_status()
-    except Exception as e:
-        errors.append(f"pse {market}: {e}"); return {}
+    r = None
+    for attempt in range(3):
+        try:
+            r = S.get(f"https://www.pse.cz/en/market-data/shares/{market}-market", timeout=30)
+            r.raise_for_status(); break
+        except Exception as e:
+            errors.append(f"pse {market} #{attempt}: {e}"); r = None; time.sleep(5)
+    if r is None:
+        return {}
     out = {}
     for row in re.findall(r"<tr[^>]*>(.*?)</tr>", r.text, re.S):
         txt = html.unescape(re.sub(r"<[^>]+>", " ", row))
@@ -137,6 +140,17 @@ for e in symbols:
         else:
             errors.append(f"yahoo missing {e['s']} ({e['y']})")
         time.sleep(0.15)
+
+# Co se teď nepodařilo, převezmi z minulého běhu (s původním časem platnosti)
+try:
+    prev = json.load(open("prices.json", encoding="utf-8"))
+    for k, v in prev.get("quotes", {}).items():
+        if k not in quotes:
+            quotes[k] = v
+    for k, v in prev.get("fx", {}).items():
+        fx.setdefault(k, v)
+except Exception:
+    pass
 
 res = {"at": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "count": len(quotes), "total": len(symbols),
        "quotes": quotes, "fx": fx, "errors": errors[:40] + errors[-40:]}
