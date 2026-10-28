@@ -140,6 +140,26 @@ for e in symbols:
 res = {"at": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "count": len(quotes), "total": len(symbols),
        "quotes": quotes, "fx": fx, "errors": errors[:40] + errors[-40:]}
 json.dump(res, open("prices.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0, sort_keys=True)
+# Širší seznam (extra.json) jednou za hodinu nebo při ručním spuštění
+import os
+try:
+    old_all = json.load(open("all.json"))
+except Exception:
+    old_all = {}
+if os.path.exists("extra.json") and (now.minute < 15 or os.environ.get("FORCE_EXTRA") or not old_all.get("byg")):
+    extra = json.load(open("extra.json"))
+    ys = [e["y"] for e in extra]
+    YF.clear()
+    for i in range(0, len(ys), 200):
+        yf_batch(ys[i:i + 200]); time.sleep(2)
+    byg = {}
+    for e in extra:
+        if e["y"] in YF:
+            p, a = YF[e["y"]]
+            byg[e["g"]] = {"p": round(p, 6), "at": a}
+    json.dump({"at": res["at"], "count": len(byg), "total": len(extra), "byg": byg}, open("all.json", "w"), sort_keys=True)
+    print(f"extra: {len(byg)}/{len(extra)}")
+
 game = {"at": res["at"], "fx": fx,
         "quotes": {k: {"p": v["p"], "at": v["at"], "t": ("PSE" if v["src"] == "pse" else "Yahoo") + " " + v["at"][:16].replace("T", " ") + " UTC"} for k, v in quotes.items()}}
 json.dump(game, open("game_update.json", "w", encoding="utf-8"), ensure_ascii=False, sort_keys=True)

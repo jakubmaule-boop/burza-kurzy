@@ -2,9 +2,10 @@ name: Kurzy
 on:
   schedule:
     - cron: "7,22,37,52 * * * *"
+    - cron: "3 4 * * 1"
   push:
     branches: [main]
-    paths: [fetch.py, symbols.json, .github/workflows/kurzy.yml]
+    paths: [fetch.py, symbols.json, build_extra.py, .github/workflows/kurzy.yml]
   workflow_dispatch:
 permissions:
   contents: write
@@ -20,13 +21,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests yfinance
+      - run: pip install requests yfinance pandas lxml
+      - name: Extra seznam (týdně)
+        if: github.event_name != 'schedule' || github.event.schedule == '3 4 * * 1' || hashFiles('extra.json') == ''
+        run: python build_extra.py
       - run: python fetch.py
+        env:
+          FORCE_EXTRA: ${{ github.event_name != 'schedule' && '1' || '' }}
       - name: Commit
         run: |
           git config user.name "kurzy-bot"
           git config user.email "kurzy-bot@users.noreply.github.com"
-          git add prices.json game_update.json
+          for f in prices.json game_update.json all.json extra.json extra_log.json; do [ -f "$f" ] && git add "$f"; done
           git commit -m "kurzy $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
           git pull --rebase -X ours || true
           git push
