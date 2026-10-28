@@ -1,0 +1,9082 @@
+[
+{
+"y": "0-9%.L",
+"g": "0-9%:LON"
+},
+{
+"y": "000001.SS",
+"g": "000001:SHA"
+},
+{
+"y": "0001.HK",
+"g": "0001:HKG"
+},
+{
+"y": "0002.HK",
+"g": "0002:HKG"
+},
+{
+"y": "0003.HK",
+"g": "0003:HKG"
+},
+{
+"y": "0005.HK",
+"g": "0005:HKG"
+},
+{
+"y": "0006.HK",
+"g": "0006:HKG"
+},
+{
+"y": "0012.HK",
+"g": "0012:HKG"
+},
+{
+"y": "0016.HK",
+"g": "0016:HKG"
+},
+{
+"y": "0027.HK",
+"g": "0027:HKG"
+},
+{
+"y": "0066.HK",
+"g": "0066:HKG"
+},
+{
+"y": "0101.HK",
+"g": "0101:HKG"
+},
+{
+"y": "0175.HK",
+"g": "0175:HKG"
+},
+{
+"y": "0241.HK",
+"g": "0241:HKG"
+},
+{
+"y": "0267.HK",
+"g": "0267:HKG"
+},
+{
+"y": "0285.HK",
+"g": "0285:HKG"
+},
+{
+"y": "0288.HK",
+"g": "0288:HKG"
+},
+{
+"y": "0291.HK",
+"g": "0291:HKG"
+},
+{
+"y": "0300.HK",
+"g": "0300:HKG"
+},
+{
+"y": "0316.HK",
+"g": "0316:HKG"
+},
+{
+"y": "0322.HK",
+"g": "0322:HKG"
+},
+{
+"y": "0386.HK",
+"g": "0386:HKG"
+},
+{
+"y": "0388.HK",
+"g": "0388:HKG"
+},
+{
+"y": "0669.HK",
+"g": "0669:HKG"
+},
+{
+"y": "0688.HK",
+"g": "0688:HKG"
+},
+{
+"y": "0700.HK",
+"g": "0700:HKG"
+},
+{
+"y": "0762.HK",
+"g": "0762:HKG"
+},
+{
+"y": "0823.HK",
+"g": "0823:HKG"
+},
+{
+"y": "0836.HK",
+"g": "0836:HKG"
+},
+{
+"y": "0857.HK",
+"g": "0857:HKG"
+},
+{
+"y": "0868.HK",
+"g": "0868:HKG"
+},
+{
+"y": "0881.HK",
+"g": "0881:HKG"
+},
+{
+"y": "0883.HK",
+"g": "0883:HKG"
+},
+{
+"y": "0939.HK",
+"g": "0939:HKG"
+},
+{
+"y": "0941.HK",
+"g": "0941:HKG"
+},
+{
+"y": "0960.HK",
+"g": "0960:HKG"
+},
+{
+"y": "0968.HK",
+"g": "0968:HKG"
+},
+{
+"y": "0981.HK",
+"g": "0981:HKG"
+},
+{
+"y": "0992.HK",
+"g": "0992:HKG"
+},
+{
+"y": "1-40%.L",
+"g": "1-40%:LON"
+},
+{
+"y": "1-59%.L",
+"g": "1-59%:LON"
+},
+{
+"y": "1024.HK",
+"g": "1024:HKG"
+},
+{
+"y": "1038.HK",
+"g": "1038:HKG"
+},
+{
+"y": "1044.HK",
+"g": "1044:HKG"
+},
+{
+"y": "1088.HK",
+"g": "1088:HKG"
+},
+{
+"y": "1093.HK",
+"g": "1093:HKG"
+},
+{
+"y": "1099.HK",
+"g": "1099:HKG"
+},
+{
+"y": "11-67%.L",
+"g": "11-67%:LON"
+},
+{
+"y": "1109.HK",
+"g": "1109:HKG"
+},
+{
+"y": "1113.HK",
+"g": "1113:HKG"
+},
+{
+"y": "1177.HK",
+"g": "1177:HKG"
+},
+{
+"y": "1209.HK",
+"g": "1209:HKG"
+},
+{
+"y": "1211.HK",
+"g": "1211:HKG"
+},
+{
+"y": "1299.HK",
+"g": "1299:HKG"
+},
+{
+"y": "1378.HK",
+"g": "1378:HKG"
+},
+{
+"y": "1398.HK",
+"g": "1398:HKG"
+},
+{
+"y": "14-6%.L",
+"g": "14-6%:LON"
+},
+{
+"y": "14-7%.L",
+"g": "14-7%:LON"
+},
+{
+"y": "14-84%.L",
+"g": "14-84%:LON"
+},
+{
+"y": "1810.HK",
+"g": "1810:HKG"
+},
+{
+"y": "1876.HK",
+"g": "1876:HKG"
+},
+{
+"y": "19-49%.L",
+"g": "19-49%:LON"
+},
+{
+"y": "1928.HK",
+"g": "1928:HKG"
+},
+{
+"y": "1929.HK",
+"g": "1929:HKG"
+},
+{
+"y": "1997.HK",
+"g": "1997:HKG"
+},
+{
+"y": "2015.HK",
+"g": "2015:HKG"
+},
+{
+"y": "2020.HK",
+"g": "2020:HKG"
+},
+{
+"y": "2057.HK",
+"g": "2057:HKG"
+},
+{
+"y": "22-5%.L",
+"g": "22-5%:LON"
+},
+{
+"y": "2269.HK",
+"g": "2269:HKG"
+},
+{
+"y": "2313.HK",
+"g": "2313:HKG"
+},
+{
+"y": "2318.HK",
+"g": "2318:HKG"
+},
+{
+"y": "2319.HK",
+"g": "2319:HKG"
+},
+{
+"y": "2331.HK",
+"g": "2331:HKG"
+},
+{
+"y": "2359.HK",
+"g": "2359:HKG"
+},
+{
+"y": "2382.HK",
+"g": "2382:HKG"
+},
+{
+"y": "2388.HK",
+"g": "2388:HKG"
+},
+{
+"y": "24-2%.L",
+"g": "24-2%:LON"
+},
+{
+"y": "25-0%.L",
+"g": "25-0%:LON"
+},
+{
+"y": "26-78%.L",
+"g": "26-78%:LON"
+},
+{
+"y": "2618.HK",
+"g": "2618:HKG"
+},
+{
+"y": "2628.HK",
+"g": "2628:HKG"
+},
+{
+"y": "2688.HK",
+"g": "2688:HKG"
+},
+{
+"y": "27-10%.L",
+"g": "27-10%:LON"
+},
+{
+"y": "28-8%.L",
+"g": "28-8%:LON"
+},
+{
+"y": "2899.HK",
+"g": "2899:HKG"
+},
+{
+"y": "3-7%.L",
+"g": "3-7%:LON"
+},
+{
+"y": "32-75%.L",
+"g": "32-75%:LON"
+},
+{
+"y": "34-40%.L",
+"g": "34-40%:LON"
+},
+{
+"y": "3690.HK",
+"g": "3690:HKG"
+},
+{
+"y": "3692.HK",
+"g": "3692:HKG"
+},
+{
+"y": "3968.HK",
+"g": "3968:HKG"
+},
+{
+"y": "3988.HK",
+"g": "3988:HKG"
+},
+{
+"y": "4-4%.L",
+"g": "4-4%:LON"
+},
+{
+"y": "46-3%.L",
+"g": "46-3%:LON"
+},
+{
+"y": "5-69%.L",
+"g": "5-69%:LON"
+},
+{
+"y": "6-62%.L",
+"g": "6-62%:LON"
+},
+{
+"y": "6618.HK",
+"g": "6618:HKG"
+},
+{
+"y": "6690.HK",
+"g": "6690:HKG"
+},
+{
+"y": "6862.HK",
+"g": "6862:HKG"
+},
+{
+"y": "8-4%.L",
+"g": "8-4%:LON"
+},
+{
+"y": "8-96%.L",
+"g": "8-96%:LON"
+},
+{
+"y": "8TRA.DE",
+"g": "8TRA:ETR"
+},
+{
+"y": "9618.HK",
+"g": "9618:HKG"
+},
+{
+"y": "9633.HK",
+"g": "9633:HKG"
+},
+{
+"y": "9888.HK",
+"g": "9888:HKG"
+},
+{
+"y": "9961.HK",
+"g": "9961:HKG"
+},
+{
+"y": "9988.HK",
+"g": "9988:HKG"
+},
+{
+"y": "9992.HK",
+"g": "9992:HKG"
+},
+{
+"y": "9999.HK",
+"g": "9999:HKG"
+},
+{
+"y": "A",
+"g": "A:US"
+},
+{
+"y": "A2A.MI",
+"g": "A2A:BIT"
+},
+{
+"y": "AA",
+"g": "AA:US"
+},
+{
+"y": "AAF.L",
+"g": "AAF:LON"
+},
+{
+"y": "AAL",
+"g": "AAL:US"
+},
+{
+"y": "AAL.L",
+"g": "AAL:LON"
+},
+{
+"y": "AAMI",
+"g": "AAMI:US"
+},
+{
+"y": "AAON",
+"g": "AAON:US"
+},
+{
+"y": "AAP",
+"g": "AAP:US"
+},
+{
+"y": "AAPL",
+"g": "AAPL:US"
+},
+{
+"y": "AAT",
+"g": "AAT:US"
+},
+{
+"y": "AAVE-USD",
+"g": "AAVE-USD"
+},
+{
+"y": "ABB.ST",
+"g": "ABB:STO"
+},
+{
+"y": "ABBN.SW",
+"g": "ABBN:SWX"
+},
+{
+"y": "ABBV",
+"g": "ABBV:US"
+},
+{
+"y": "ABCB",
+"g": "ABCB:US"
+},
+{
+"y": "ABDN.L",
+"g": "ABDN:LON"
+},
+{
+"y": "ABF.L",
+"g": "ABF:LON"
+},
+{
+"y": "ABG",
+"g": "ABG:US"
+},
+{
+"y": "ABI.BR",
+"g": "ABI:EBR"
+},
+{
+"y": "ABLX.BR",
+"g": "ABLX:EBR"
+},
+{
+"y": "ABM",
+"g": "ABM:US"
+},
+{
+"y": "ABN.AS",
+"g": "ABN:AMS"
+},
+{
+"y": "ABNB",
+"g": "ABNB:US"
+},
+{
+"y": "ABR",
+"g": "ABR:US"
+},
+{
+"y": "ABT",
+"g": "ABT:US"
+},
+{
+"y": "AC.PA",
+"g": "AC:EPA"
+},
+{
+"y": "ACA",
+"g": "ACA:US"
+},
+{
+"y": "ACA.PA",
+"g": "ACA:EPA"
+},
+{
+"y": "ACAD",
+"g": "ACAD:US"
+},
+{
+"y": "ACGL",
+"g": "ACGL:US"
+},
+{
+"y": "ACHC",
+"g": "ACHC:US"
+},
+{
+"y": "ACI",
+"g": "ACI:US"
+},
+{
+"y": "ACIW",
+"g": "ACIW:US"
+},
+{
+"y": "ACLS",
+"g": "ACLS:US"
+},
+{
+"y": "ACM",
+"g": "ACM:US"
+},
+{
+"y": "ACMR",
+"g": "ACMR:US"
+},
+{
+"y": "ACN",
+"g": "ACN:US"
+},
+{
+"y": "ACS.MC",
+"g": "ACS:BME"
+},
+{
+"y": "ACT",
+"g": "ACT:US"
+},
+{
+"y": "ACX.MC",
+"g": "ACX:BME"
+},
+{
+"y": "AD.AS",
+"g": "AD:AMS"
+},
+{
+"y": "AD.BR",
+"g": "AD:EBR"
+},
+{
+"y": "ADA-USD",
+"g": "ADA-USD"
+},
+{
+"y": "ADAM",
+"g": "ADAM:US"
+},
+{
+"y": "ADBE",
+"g": "ADBE:US"
+},
+{
+"y": "ADC",
+"g": "ADC:US"
+},
+{
+"y": "ADDT-B.ST",
+"g": "ADDT-B:STO"
+},
+{
+"y": "ADEA",
+"g": "ADEA:US"
+},
+{
+"y": "ADI",
+"g": "ADI:US"
+},
+{
+"y": "ADIG",
+"g": "ADIG:US"
+},
+{
+"y": "ADM",
+"g": "ADM:US"
+},
+{
+"y": "ADM.L",
+"g": "ADM:LON"
+},
+{
+"y": "ADMA",
+"g": "ADMA:US"
+},
+{
+"y": "ADNT",
+"g": "ADNT:US"
+},
+{
+"y": "ADP",
+"g": "ADP:US"
+},
+{
+"y": "ADS.DE",
+"g": "ADS:ETR"
+},
+{
+"y": "ADSK",
+"g": "ADSK:US"
+},
+{
+"y": "ADT",
+"g": "ADT:US"
+},
+{
+"y": "ADUS",
+"g": "ADUS:US"
+},
+{
+"y": "ADYEN.AS",
+"g": "ADYEN:AMS"
+},
+{
+"y": "AEE",
+"g": "AEE:US"
+},
+{
+"y": "AEIS",
+"g": "AEIS:US"
+},
+{
+"y": "AENA.MC",
+"g": "AENA:BME"
+},
+{
+"y": "AEO",
+"g": "AEO:US"
+},
+{
+"y": "AEP",
+"g": "AEP:US"
+},
+{
+"y": "AES",
+"g": "AES:US"
+},
+{
+"y": "AESI",
+"g": "AESI:US"
+},
+{
+"y": "AFG",
+"g": "AFG:US"
+},
+{
+"y": "AFL",
+"g": "AFL:US"
+},
+{
+"y": "AFX.DE",
+"g": "AFX:ETR"
+},
+{
+"y": "AGCO",
+"g": "AGCO:US"
+},
+{
+"y": "AGFB.BR",
+"g": "AGFB:EBR"
+},
+{
+"y": "AGN.AS",
+"g": "AGN:AMS"
+},
+{
+"y": "AGNC",
+"g": "AGNC:US"
+},
+{
+"y": "AGNT",
+"g": "AGNT:US"
+},
+{
+"y": "AGO",
+"g": "AGO:US"
+},
+{
+"y": "AGX",
+"g": "AGX:US"
+},
+{
+"y": "AGYS",
+"g": "AGYS:US"
+},
+{
+"y": "AHCO",
+"g": "AHCO:US"
+},
+{
+"y": "AHR",
+"g": "AHR:US"
+},
+{
+"y": "AI.PA",
+"g": "AI:EPA"
+},
+{
+"y": "AIG",
+"g": "AIG:US"
+},
+{
+"y": "AIN",
+"g": "AIN:US"
+},
+{
+"y": "AIR",
+"g": "AIR:US"
+},
+{
+"y": "AIR.PA",
+"g": "AIR:EPA"
+},
+{
+"y": "AIT",
+"g": "AIT:US"
+},
+{
+"y": "AIXA.DE",
+"g": "AIXA:ETR"
+},
+{
+"y": "AIZ",
+"g": "AIZ:US"
+},
+{
+"y": "AJG",
+"g": "AJG:US"
+},
+{
+"y": "AKAM",
+"g": "AKAM:US"
+},
+{
+"y": "AKR",
+"g": "AKR:US"
+},
+{
+"y": "AKZA.AS",
+"g": "AKZA:AMS"
+},
+{
+"y": "ALB",
+"g": "ALB:US"
+},
+{
+"y": "ALC.SW",
+"g": "ALC:SWX"
+},
+{
+"y": "ALFA.ST",
+"g": "ALFA:STO"
+},
+{
+"y": "ALG",
+"g": "ALG:US"
+},
+{
+"y": "ALGM",
+"g": "ALGM:US"
+},
+{
+"y": "ALGN",
+"g": "ALGN:US"
+},
+{
+"y": "ALGO-USD",
+"g": "ALGO-USD"
+},
+{
+"y": "ALGT",
+"g": "ALGT:US"
+},
+{
+"y": "ALHC",
+"g": "ALHC:US"
+},
+{
+"y": "ALK",
+"g": "ALK:US"
+},
+{
+"y": "ALKS",
+"g": "ALKS:US"
+},
+{
+"y": "ALL",
+"g": "ALL:US"
+},
+{
+"y": "ALL.AX",
+"g": "ALL:ASX"
+},
+{
+"y": "ALLE",
+"g": "ALLE:US"
+},
+{
+"y": "ALLY",
+"g": "ALLY:US"
+},
+{
+"y": "ALRM",
+"g": "ALRM:US"
+},
+{
+"y": "ALSN",
+"g": "ALSN:US"
+},
+{
+"y": "ALSYDB.CO",
+"g": "ALSYDB:CPH"
+},
+{
+"y": "ALV",
+"g": "ALV:US"
+},
+{
+"y": "ALV.DE",
+"g": "ALV:ETR"
+},
+{
+"y": "ALW.L",
+"g": "ALW:LON"
+},
+{
+"y": "AM",
+"g": "AM:US"
+},
+{
+"y": "AMAT",
+"g": "AMAT:US"
+},
+{
+"y": "AMC.AX",
+"g": "AMC:ASX"
+},
+{
+"y": "AMCR",
+"g": "AMCR:US"
+},
+{
+"y": "AMD",
+"g": "AMD:US"
+},
+{
+"y": "AME",
+"g": "AME:US"
+},
+{
+"y": "AMG",
+"g": "AMG:US"
+},
+{
+"y": "AMGN",
+"g": "AMGN:US"
+},
+{
+"y": "AMH",
+"g": "AMH:US"
+},
+{
+"y": "AMKR",
+"g": "AMKR:US"
+},
+{
+"y": "AMN",
+"g": "AMN:US"
+},
+{
+"y": "AMP",
+"g": "AMP:US"
+},
+{
+"y": "AMP.MI",
+"g": "AMP:BIT"
+},
+{
+"y": "AMPH",
+"g": "AMPH:US"
+},
+{
+"y": "AMR",
+"g": "AMR:US"
+},
+{
+"y": "AMRX",
+"g": "AMRX:US"
+},
+{
+"y": "AMRZ.SW",
+"g": "AMRZ:SWX"
+},
+{
+"y": "AMS.MC",
+"g": "AMS:BME"
+},
+{
+"y": "AMSF",
+"g": "AMSF:US"
+},
+{
+"y": "AMT",
+"g": "AMT:US"
+},
+{
+"y": "AMTM",
+"g": "AMTM:US"
+},
+{
+"y": "AMZN",
+"g": "AMZN:US"
+},
+{
+"y": "AN",
+"g": "AN:US"
+},
+{
+"y": "ANA.MC",
+"g": "ANA:BME"
+},
+{
+"y": "ANDE",
+"g": "ANDE:US"
+},
+{
+"y": "ANE.MC",
+"g": "ANE:BME"
+},
+{
+"y": "ANET",
+"g": "ANET:US"
+},
+{
+"y": "ANF",
+"g": "ANF:US"
+},
+{
+"y": "ANIP",
+"g": "ANIP:US"
+},
+{
+"y": "ANTO.L",
+"g": "ANTO:LON"
+},
+{
+"y": "ANZ.AX",
+"g": "ANZ:ASX"
+},
+{
+"y": "AON",
+"g": "AON:US"
+},
+{
+"y": "AORT",
+"g": "AORT:US"
+},
+{
+"y": "AOS",
+"g": "AOS:US"
+},
+{
+"y": "AOSL",
+"g": "AOSL:US"
+},
+{
+"y": "APA",
+"g": "APA:US"
+},
+{
+"y": "APAM",
+"g": "APAM:US"
+},
+{
+"y": "APD",
+"g": "APD:US"
+},
+{
+"y": "APG",
+"g": "APG:US"
+},
+{
+"y": "APH",
+"g": "APH:US"
+},
+{
+"y": "APLE",
+"g": "APLE:US"
+},
+{
+"y": "APO",
+"g": "APO:US"
+},
+{
+"y": "APOG",
+"g": "APOG:US"
+},
+{
+"y": "APP",
+"g": "APP:US"
+},
+{
+"y": "APPF",
+"g": "APPF:US"
+},
+{
+"y": "APT-USD",
+"g": "APT-USD"
+},
+{
+"y": "APTV",
+"g": "APTV:US"
+},
+{
+"y": "AR",
+"g": "AR:US"
+},
+{
+"y": "ARB-USD",
+"g": "ARB-USD"
+},
+{
+"y": "ARCB",
+"g": "ARCB:US"
+},
+{
+"y": "ARE",
+"g": "ARE:US"
+},
+{
+"y": "ARES",
+"g": "ARES:US"
+},
+{
+"y": "ARGX.BR",
+"g": "ARGX:EBR"
+},
+{
+"y": "ARKG",
+"g": "ARKG:US"
+},
+{
+"y": "ARKK",
+"g": "ARKK:US"
+},
+{
+"y": "ARLO",
+"g": "ARLO:US"
+},
+{
+"y": "ARMK",
+"g": "ARMK:US"
+},
+{
+"y": "AROC",
+"g": "AROC:US"
+},
+{
+"y": "ARR",
+"g": "ARR:US"
+},
+{
+"y": "ARW",
+"g": "ARW:US"
+},
+{
+"y": "ARWR",
+"g": "ARWR:US"
+},
+{
+"y": "ASB",
+"g": "ASB:US"
+},
+{
+"y": "ASH",
+"g": "ASH:US"
+},
+{
+"y": "ASM.AS",
+"g": "ASM:AMS"
+},
+{
+"y": "ASML.AS",
+"g": "ASML:AMS"
+},
+{
+"y": "ASO",
+"g": "ASO:US"
+},
+{
+"y": "ASRNL.AS",
+"g": "ASRNL:AMS"
+},
+{
+"y": "ASSA-B.ST",
+"g": "ASSA-B:STO"
+},
+{
+"y": "ASTE",
+"g": "ASTE:US"
+},
+{
+"y": "ASTH",
+"g": "ASTH:US"
+},
+{
+"y": "AT1.DE",
+"g": "AT1:ETR"
+},
+{
+"y": "ATCO-A.ST",
+"g": "ATCO-A:STO"
+},
+{
+"y": "ATEN",
+"g": "ATEN:US"
+},
+{
+"y": "ATI",
+"g": "ATI:US"
+},
+{
+"y": "ATMU",
+"g": "ATMU:US"
+},
+{
+"y": "ATO",
+"g": "ATO:US"
+},
+{
+"y": "ATOM-USD",
+"g": "ATOM-USD"
+},
+{
+"y": "ATR",
+"g": "ATR:US"
+},
+{
+"y": "AUB",
+"g": "AUB:US"
+},
+{
+"y": "AUTO.L",
+"g": "AUTO:LON"
+},
+{
+"y": "AV.L",
+"g": "AV:LON"
+},
+{
+"y": "AVA",
+"g": "AVA:US"
+},
+{
+"y": "AVAV",
+"g": "AVAV:US"
+},
+{
+"y": "AVAX-USD",
+"g": "AVAX-USD"
+},
+{
+"y": "AVGO",
+"g": "AVGO:US"
+},
+{
+"y": "AVIO.MI",
+"g": "AVIO:BIT"
+},
+{
+"y": "AVNT",
+"g": "AVNT:US"
+},
+{
+"y": "AVT",
+"g": "AVT:US"
+},
+{
+"y": "AVTR",
+"g": "AVTR:US"
+},
+{
+"y": "AVY",
+"g": "AVY:US"
+},
+{
+"y": "AWI",
+"g": "AWI:US"
+},
+{
+"y": "AWK",
+"g": "AWK:US"
+},
+{
+"y": "AWR",
+"g": "AWR:US"
+},
+{
+"y": "AX",
+"g": "AX:US"
+},
+{
+"y": "AXON",
+"g": "AXON:US"
+},
+{
+"y": "AXP",
+"g": "AXP:US"
+},
+{
+"y": "AXTA",
+"g": "AXTA:US"
+},
+{
+"y": "AYI",
+"g": "AYI:US"
+},
+{
+"y": "AZM.MI",
+"g": "AZM:BIT"
+},
+{
+"y": "AZN.L",
+"g": "AZN:LON"
+},
+{
+"y": "AZN.ST",
+"g": "AZN:STO"
+},
+{
+"y": "AZO",
+"g": "AZO:US"
+},
+{
+"y": "AZTA",
+"g": "AZTA:US"
+},
+{
+"y": "AZZ",
+"g": "AZZ:US"
+},
+{
+"y": "BA",
+"g": "BA:US"
+},
+{
+"y": "BA.L",
+"g": "BA:LON"
+},
+{
+"y": "BAB.L",
+"g": "BAB:LON"
+},
+{
+"y": "BAC",
+"g": "BAC:US"
+},
+{
+"y": "BAH",
+"g": "BAH:US"
+},
+{
+"y": "BALL",
+"g": "BALL:US"
+},
+{
+"y": "BAMI.MI",
+"g": "BAMI:BIT"
+},
+{
+"y": "BANC",
+"g": "BANC:US"
+},
+{
+"y": "BANF",
+"g": "BANF:US"
+},
+{
+"y": "BANR",
+"g": "BANR:US"
+},
+{
+"y": "BAR.BR",
+"g": "BAR:EBR"
+},
+{
+"y": "BARC.L",
+"g": "BARC:LON"
+},
+{
+"y": "BAS.DE",
+"g": "BAS:ETR"
+},
+{
+"y": "BATS.L",
+"g": "BATS:LON"
+},
+{
+"y": "BAX",
+"g": "BAX:US"
+},
+{
+"y": "BAYN.DE",
+"g": "BAYN:ETR"
+},
+{
+"y": "BBOX.L",
+"g": "BBOX:LON"
+},
+{
+"y": "BBT",
+"g": "BBT:US"
+},
+{
+"y": "BBVA.MC",
+"g": "BBVA:BME"
+},
+{
+"y": "BBWI",
+"g": "BBWI:US"
+},
+{
+"y": "BBY",
+"g": "BBY:US"
+},
+{
+"y": "BBY.L",
+"g": "BBY:LON"
+},
+{
+"y": "BC",
+"g": "BC:US"
+},
+{
+"y": "BC.MI",
+"g": "BC:BIT"
+},
+{
+"y": "BC8.DE",
+"g": "BC8:ETR"
+},
+{
+"y": "BCC",
+"g": "BCC:US"
+},
+{
+"y": "BCH-USD",
+"g": "BCH-USD"
+},
+{
+"y": "BCO",
+"g": "BCO:US"
+},
+{
+"y": "BCPC",
+"g": "BCPC:US"
+},
+{
+"y": "BDC",
+"g": "BDC:US"
+},
+{
+"y": "BDX",
+"g": "BDX:US"
+},
+{
+"y": "BE",
+"g": "BE:US"
+},
+{
+"y": "BEFB.BR",
+"g": "BEFB:EBR"
+},
+{
+"y": "BEI.DE",
+"g": "BEI:ETR"
+},
+{
+"y": "BEKB.BR",
+"g": "BEKB:EBR"
+},
+{
+"y": "BEN",
+"g": "BEN:US"
+},
+{
+"y": "BESI.AS",
+"g": "BESI:AMS"
+},
+{
+"y": "BF-B",
+"g": "BF.B:US"
+},
+{
+"y": "BFAM",
+"g": "BFAM:US"
+},
+{
+"y": "BFH",
+"g": "BFH:US"
+},
+{
+"y": "BFS",
+"g": "BFS:US"
+},
+{
+"y": "BFSA.DE",
+"g": "BFSA:ETR"
+},
+{
+"y": "BG",
+"g": "BG:US"
+},
+{
+"y": "BGC",
+"g": "BGC:US"
+},
+{
+"y": "BGEO.L",
+"g": "BGEO:LON"
+},
+{
+"y": "BHE",
+"g": "BHE:US"
+},
+{
+"y": "BHF",
+"g": "BHF:US"
+},
+{
+"y": "BHP.AX",
+"g": "BHP:ASX"
+},
+{
+"y": "BIIB",
+"g": "BIIB:US"
+},
+{
+"y": "BILL",
+"g": "BILL:US"
+},
+{
+"y": "BIO",
+"g": "BIO:US"
+},
+{
+"y": "BITO",
+"g": "BITO:US"
+},
+{
+"y": "BJ",
+"g": "BJ:US"
+},
+{
+"y": "BJRI",
+"g": "BJRI:US"
+},
+{
+"y": "BKE",
+"g": "BKE:US"
+},
+{
+"y": "BKH",
+"g": "BKH:US"
+},
+{
+"y": "BKNG",
+"g": "BKNG:US"
+},
+{
+"y": "BKR",
+"g": "BKR:US"
+},
+{
+"y": "BKT.MC",
+"g": "BKT:BME"
+},
+{
+"y": "BKU",
+"g": "BKU:US"
+},
+{
+"y": "BL",
+"g": "BL:US"
+},
+{
+"y": "BLFS",
+"g": "BLFS:US"
+},
+{
+"y": "BLK",
+"g": "BLK:US"
+},
+{
+"y": "BLKB",
+"g": "BLKB:US"
+},
+{
+"y": "BLND.L",
+"g": "BLND:LON"
+},
+{
+"y": "BMED.MI",
+"g": "BMED:BIT"
+},
+{
+"y": "BMI",
+"g": "BMI:US"
+},
+{
+"y": "BMPS.MI",
+"g": "BMPS:BIT"
+},
+{
+"y": "BMRN",
+"g": "BMRN:US"
+},
+{
+"y": "BMW.DE",
+"g": "BMW:ETR"
+},
+{
+"y": "BMY",
+"g": "BMY:US"
+},
+{
+"y": "BN.PA",
+"g": "BN:EPA"
+},
+{
+"y": "BNB-USD",
+"g": "BNB-USD"
+},
+{
+"y": "BNL",
+"g": "BNL:US"
+},
+{
+"y": "BNO",
+"g": "BNO:US"
+},
+{
+"y": "BNP.PA",
+"g": "BNP:EPA"
+},
+{
+"y": "BNR.DE",
+"g": "BNR:ETR"
+},
+{
+"y": "BNY",
+"g": "BNY:US"
+},
+{
+"y": "BNZL.L",
+"g": "BNZL:LON"
+},
+{
+"y": "BOH",
+"g": "BOH:US"
+},
+{
+"y": "BOL.ST",
+"g": "BOL:STO"
+},
+{
+"y": "BOOT",
+"g": "BOOT:US"
+},
+{
+"y": "BOSS.DE",
+"g": "BOSS:ETR"
+},
+{
+"y": "BOX",
+"g": "BOX:US"
+},
+{
+"y": "BP.L",
+"g": "BP:LON"
+},
+{
+"y": "BPE.MI",
+"g": "BPE:BIT"
+},
+{
+"y": "BPOST.BR",
+"g": "BPOST:EBR"
+},
+{
+"y": "BR",
+"g": "BR:US"
+},
+{
+"y": "BRBY.L",
+"g": "BRBY:LON"
+},
+{
+"y": "BRC",
+"g": "BRC:US"
+},
+{
+"y": "BRK-B",
+"g": "BRK.B:US"
+},
+{
+"y": "BRKR",
+"g": "BRKR:US"
+},
+{
+"y": "BRO",
+"g": "BRO:US"
+},
+{
+"y": "BROS",
+"g": "BROS:US"
+},
+{
+"y": "BRX",
+"g": "BRX:US"
+},
+{
+"y": "BSX",
+"g": "BSX:US"
+},
+{
+"y": "BSY",
+"g": "BSY:US"
+},
+{
+"y": "BT-A.L",
+"g": "BT-A:LON"
+},
+{
+"y": "BTC-USD",
+"g": "BTC-USD"
+},
+{
+"y": "BTRW.L",
+"g": "BTRW:LON"
+},
+{
+"y": "BTSG",
+"g": "BTSG:US"
+},
+{
+"y": "BTU",
+"g": "BTU:US"
+},
+{
+"y": "BURL",
+"g": "BURL:US"
+},
+{
+"y": "BVI.PA",
+"g": "BVI:EPA"
+},
+{
+"y": "BWA",
+"g": "BWA:US"
+},
+{
+"y": "BWXT",
+"g": "BWXT:US"
+},
+{
+"y": "BX",
+"g": "BX:US"
+},
+{
+"y": "BXB.AX",
+"g": "BXB:ASX"
+},
+{
+"y": "BXMT",
+"g": "BXMT:US"
+},
+{
+"y": "BXP",
+"g": "BXP:US"
+},
+{
+"y": "BYD",
+"g": "BYD:US"
+},
+{
+"y": "BZ=F",
+"g": "BZW00:NYMEX"
+},
+{
+"y": "BZU.MI",
+"g": "BZU:BIT"
+},
+{
+"y": "C",
+"g": "C:US"
+},
+{
+"y": "CA.PA",
+"g": "CA:EPA"
+},
+{
+"y": "CABK.MC",
+"g": "CABK:BME"
+},
+{
+"y": "CACC",
+"g": "CACC:US"
+},
+{
+"y": "CACI",
+"g": "CACI:US"
+},
+{
+"y": "CAG",
+"g": "CAG:US"
+},
+{
+"y": "CAH",
+"g": "CAH:US"
+},
+{
+"y": "CAKE",
+"g": "CAKE:US"
+},
+{
+"y": "CALM",
+"g": "CALM:US"
+},
+{
+"y": "CALX",
+"g": "CALX:US"
+},
+{
+"y": "CALY",
+"g": "CALY:US"
+},
+{
+"y": "CAP.PA",
+"g": "CAP:EPA"
+},
+{
+"y": "CAR",
+"g": "CAR:US"
+},
+{
+"y": "CAR.AX",
+"g": "CAR:ASX"
+},
+{
+"y": "CARG",
+"g": "CARG:US"
+},
+{
+"y": "CARR",
+"g": "CARR:US"
+},
+{
+"y": "CART",
+"g": "CART:US"
+},
+{
+"y": "CASH",
+"g": "CASH:US"
+},
+{
+"y": "CASY",
+"g": "CASY:US"
+},
+{
+"y": "CAT",
+"g": "CAT:US"
+},
+{
+"y": "CATY",
+"g": "CATY:US"
+},
+{
+"y": "CAVA",
+"g": "CAVA:US"
+},
+{
+"y": "CB",
+"g": "CB:US"
+},
+{
+"y": "CBA.AX",
+"g": "CBA:ASX"
+},
+{
+"y": "CBK.DE",
+"g": "CBK:ETR"
+},
+{
+"y": "CBOE",
+"g": "CBOE:US"
+},
+{
+"y": "CBRE",
+"g": "CBRE:US"
+},
+{
+"y": "CBRL",
+"g": "CBRL:US"
+},
+{
+"y": "CBSH",
+"g": "CBSH:US"
+},
+{
+"y": "CBT",
+"g": "CBT:US"
+},
+{
+"y": "CBU",
+"g": "CBU:US"
+},
+{
+"y": "CC",
+"g": "CC:US"
+},
+{
+"y": "CC=F",
+"g": "CCW00:NYBOT"
+},
+{
+"y": "CCC.L",
+"g": "CCC:LON"
+},
+{
+"y": "CCEP.L",
+"g": "CCEP:LON"
+},
+{
+"y": "CCH.L",
+"g": "CCH:LON"
+},
+{
+"y": "CCI",
+"g": "CCI:US"
+},
+{
+"y": "CCK",
+"g": "CCK:US"
+},
+{
+"y": "CCL",
+"g": "CCL:US"
+},
+{
+"y": "CCOI",
+"g": "CCOI:US"
+},
+{
+"y": "CCS",
+"g": "CCS:US"
+},
+{
+"y": "CDE",
+"g": "CDE:US"
+},
+{
+"y": "CDNS",
+"g": "CDNS:US"
+},
+{
+"y": "CDP",
+"g": "CDP:US"
+},
+{
+"y": "CDW",
+"g": "CDW:US"
+},
+{
+"y": "CE",
+"g": "CE:US"
+},
+{
+"y": "CEG",
+"g": "CEG:US"
+},
+{
+"y": "CELH",
+"g": "CELH:US"
+},
+{
+"y": "CENT",
+"g": "CENT:US"
+},
+{
+"y": "CENTA",
+"g": "CENTA:US"
+},
+{
+"y": "CENX",
+"g": "CENX:US"
+},
+{
+"y": "CERT",
+"g": "CERT:US"
+},
+{
+"y": "CF",
+"g": "CF:US"
+},
+{
+"y": "CFFN",
+"g": "CFFN:US"
+},
+{
+"y": "CFG",
+"g": "CFG:US"
+},
+{
+"y": "CFR",
+"g": "CFR:US"
+},
+{
+"y": "CFR.SW",
+"g": "CFR:SWX"
+},
+{
+"y": "CG",
+"g": "CG:US"
+},
+{
+"y": "CGNX",
+"g": "CGNX:US"
+},
+{
+"y": "CHCO",
+"g": "CHCO:US"
+},
+{
+"y": "CHD",
+"g": "CHD:US"
+},
+{
+"y": "CHDN",
+"g": "CHDN:US"
+},
+{
+"y": "CHE",
+"g": "CHE:US"
+},
+{
+"y": "CHEF",
+"g": "CHEF:US"
+},
+{
+"y": "CHH",
+"g": "CHH:US"
+},
+{
+"y": "CHRD",
+"g": "CHRD:US"
+},
+{
+"y": "CHRW",
+"g": "CHRW:US"
+},
+{
+"y": "CHTR",
+"g": "CHTR:US"
+},
+{
+"y": "CHWY",
+"g": "CHWY:US"
+},
+{
+"y": "CI",
+"g": "CI:US"
+},
+{
+"y": "CIEN",
+"g": "CIEN:US"
+},
+{
+"y": "CINF",
+"g": "CINF:US"
+},
+{
+"y": "CL",
+"g": "CL:US"
+},
+{
+"y": "CL=F",
+"g": "CLW00:NYMEX"
+},
+{
+"y": "CLF",
+"g": "CLF:US"
+},
+{
+"y": "CLH",
+"g": "CLH:US"
+},
+{
+"y": "CLNX.MC",
+"g": "CLNX:BME"
+},
+{
+"y": "CLSK",
+"g": "CLSK:US"
+},
+{
+"y": "CLX",
+"g": "CLX:US"
+},
+{
+"y": "CMC",
+"g": "CMC:US"
+},
+{
+"y": "CMCSA",
+"g": "CMCSA:US"
+},
+{
+"y": "CME",
+"g": "CME:US"
+},
+{
+"y": "CMG",
+"g": "CMG:US"
+},
+{
+"y": "CMI",
+"g": "CMI:US"
+},
+{
+"y": "CMS",
+"g": "CMS:US"
+},
+{
+"y": "CNA.L",
+"g": "CNA:LON"
+},
+{
+"y": "CNC",
+"g": "CNC:US"
+},
+{
+"y": "CNH",
+"g": "CNH:US"
+},
+{
+"y": "CNK",
+"g": "CNK:US"
+},
+{
+"y": "CNM",
+"g": "CNM:US"
+},
+{
+"y": "CNMD",
+"g": "CNMD:US"
+},
+{
+"y": "CNO",
+"g": "CNO:US"
+},
+{
+"y": "CNP",
+"g": "CNP:US"
+},
+{
+"y": "CNR",
+"g": "CNR:US"
+},
+{
+"y": "CNS",
+"g": "CNS:US"
+},
+{
+"y": "CNX",
+"g": "CNX:US"
+},
+{
+"y": "CNXC",
+"g": "CNXC:US"
+},
+{
+"y": "CNXN",
+"g": "CNXN:US"
+},
+{
+"y": "COCO",
+"g": "COCO:US"
+},
+{
+"y": "COF",
+"g": "COF:US"
+},
+{
+"y": "COH.AX",
+"g": "COH:ASX"
+},
+{
+"y": "COHR",
+"g": "COHR:US"
+},
+{
+"y": "COHU",
+"g": "COHU:US"
+},
+{
+"y": "COIN",
+"g": "COIN:US"
+},
+{
+"y": "COKE",
+"g": "COKE:US"
+},
+{
+"y": "COL.AX",
+"g": "COL:ASX"
+},
+{
+"y": "COL.MC",
+"g": "COL:BME"
+},
+{
+"y": "COLB",
+"g": "COLB:US"
+},
+{
+"y": "COLL",
+"g": "COLL:US"
+},
+{
+"y": "COLM",
+"g": "COLM:US"
+},
+{
+"y": "CON",
+"g": "CON:US"
+},
+{
+"y": "CON.DE",
+"g": "CON:ETR"
+},
+{
+"y": "COO",
+"g": "COO:US"
+},
+{
+"y": "COP",
+"g": "COP:US"
+},
+{
+"y": "COR",
+"g": "COR:US"
+},
+{
+"y": "CORT",
+"g": "CORT:US"
+},
+{
+"y": "COST",
+"g": "COST:US"
+},
+{
+"y": "COTY",
+"g": "COTY:US"
+},
+{
+"y": "CPAY",
+"g": "CPAY:US"
+},
+{
+"y": "CPB",
+"g": "CPB:US"
+},
+{
+"y": "CPER",
+"g": "CPER:US"
+},
+{
+"y": "CPF",
+"g": "CPF:US"
+},
+{
+"y": "CPG.L",
+"g": "CPG:LON"
+},
+{
+"y": "CPK",
+"g": "CPK:US"
+},
+{
+"y": "CPR.MI",
+"g": "CPR:BIT"
+},
+{
+"y": "CPRT",
+"g": "CPRT:US"
+},
+{
+"y": "CPT",
+"g": "CPT:US"
+},
+{
+"y": "CPU.AX",
+"g": "CPU:ASX"
+},
+{
+"y": "CR",
+"g": "CR:US"
+},
+{
+"y": "CRBG",
+"g": "CRBG:US"
+},
+{
+"y": "CRC",
+"g": "CRC:US"
+},
+{
+"y": "CRDA.L",
+"g": "CRDA:LON"
+},
+{
+"y": "CRGY",
+"g": "CRGY:US"
+},
+{
+"y": "CRH",
+"g": "CRH:US"
+},
+{
+"y": "CRI",
+"g": "CRI:US"
+},
+{
+"y": "CRK",
+"g": "CRK:US"
+},
+{
+"y": "CRL",
+"g": "CRL:US"
+},
+{
+"y": "CRM",
+"g": "CRM:US"
+},
+{
+"y": "CROX",
+"g": "CROX:US"
+},
+{
+"y": "CRS",
+"g": "CRS:US"
+},
+{
+"y": "CRSR",
+"g": "CRSR:US"
+},
+{
+"y": "CRUS",
+"g": "CRUS:US"
+},
+{
+"y": "CRVL",
+"g": "CRVL:US"
+},
+{
+"y": "CRWD",
+"g": "CRWD:US"
+},
+{
+"y": "CS.PA",
+"g": "CS:EPA"
+},
+{
+"y": "CSCO",
+"g": "CSCO:US"
+},
+{
+"y": "CSGP",
+"g": "CSGP:US"
+},
+{
+"y": "CSL",
+"g": "CSL:US"
+},
+{
+"y": "CSL.AX",
+"g": "CSL:ASX"
+},
+{
+"y": "CSR",
+"g": "CSR:US"
+},
+{
+"y": "CSW",
+"g": "CSW:US"
+},
+{
+"y": "CSX",
+"g": "CSX:US"
+},
+{
+"y": "CT=F",
+"g": "CTW00:NYBOT"
+},
+{
+"y": "CTAS",
+"g": "CTAS:US"
+},
+{
+"y": "CTEC.L",
+"g": "CTEC:LON"
+},
+{
+"y": "CTRE",
+"g": "CTRE:US"
+},
+{
+"y": "CTS",
+"g": "CTS:US"
+},
+{
+"y": "CTSH",
+"g": "CTSH:US"
+},
+{
+"y": "CTVA",
+"g": "CTVA:US"
+},
+{
+"y": "CUBE",
+"g": "CUBE:US"
+},
+{
+"y": "CUBI",
+"g": "CUBI:US"
+},
+{
+"y": "CURB",
+"g": "CURB:US"
+},
+{
+"y": "CUZ",
+"g": "CUZ:US"
+},
+{
+"y": "CVBF",
+"g": "CVBF:US"
+},
+{
+"y": "CVCO",
+"g": "CVCO:US"
+},
+{
+"y": "CVI",
+"g": "CVI:US"
+},
+{
+"y": "CVLT",
+"g": "CVLT:US"
+},
+{
+"y": "CVNA",
+"g": "CVNA:US"
+},
+{
+"y": "CVS",
+"g": "CVS:US"
+},
+{
+"y": "CVSA",
+"g": "CVSA:US"
+},
+{
+"y": "CVX",
+"g": "CVX:US"
+},
+{
+"y": "CW",
+"g": "CW:US"
+},
+{
+"y": "CWEN",
+"g": "CWEN:US"
+},
+{
+"y": "CWEN-A",
+"g": "CWEN.A:US"
+},
+{
+"y": "CWK",
+"g": "CWK:US"
+},
+{
+"y": "CWST",
+"g": "CWST:US"
+},
+{
+"y": "CWT",
+"g": "CWT:US"
+},
+{
+"y": "CXM",
+"g": "CXM:US"
+},
+{
+"y": "CXT",
+"g": "CXT:US"
+},
+{
+"y": "CXW",
+"g": "CXW:US"
+},
+{
+"y": "CYTK",
+"g": "CYTK:US"
+},
+{
+"y": "CZR",
+"g": "CZR:US"
+},
+{
+"y": "D",
+"g": "D:US"
+},
+{
+"y": "DAL",
+"g": "DAL:US"
+},
+{
+"y": "DAN",
+"g": "DAN:US"
+},
+{
+"y": "DANSKE.CO",
+"g": "DANSKE:CPH"
+},
+{
+"y": "DAR",
+"g": "DAR:US"
+},
+{
+"y": "DASH",
+"g": "DASH:US"
+},
+{
+"y": "DAVE",
+"g": "DAVE:US"
+},
+{
+"y": "DB1.DE",
+"g": "DB1:ETR"
+},
+{
+"y": "DBA",
+"g": "DBA:US"
+},
+{
+"y": "DBC",
+"g": "DBC:US"
+},
+{
+"y": "DBD",
+"g": "DBD:US"
+},
+{
+"y": "DBK.DE",
+"g": "DBK:ETR"
+},
+{
+"y": "DBX",
+"g": "DBX:US"
+},
+{
+"y": "DCC.L",
+"g": "DCC:LON"
+},
+{
+"y": "DCH",
+"g": "DCH:US"
+},
+{
+"y": "DCI",
+"g": "DCI:US"
+},
+{
+"y": "DCOM",
+"g": "DCOM:US"
+},
+{
+"y": "DD",
+"g": "DD:US"
+},
+{
+"y": "DDOG",
+"g": "DDOG:US"
+},
+{
+"y": "DE",
+"g": "DE:US"
+},
+{
+"y": "DEA",
+"g": "DEA:US"
+},
+{
+"y": "DECK",
+"g": "DECK:US"
+},
+{
+"y": "DEI",
+"g": "DEI:US"
+},
+{
+"y": "DELL",
+"g": "DELL:US"
+},
+{
+"y": "DEMANT.CO",
+"g": "DEMANT:CPH"
+},
+{
+"y": "DFH",
+"g": "DFH:US"
+},
+{
+"y": "DFIN",
+"g": "DFIN:US"
+},
+{
+"y": "DG",
+"g": "DG:US"
+},
+{
+"y": "DG.PA",
+"g": "DG:EPA"
+},
+{
+"y": "DGE.L",
+"g": "DGE:LON"
+},
+{
+"y": "DGII",
+"g": "DGII:US"
+},
+{
+"y": "DGX",
+"g": "DGX:US"
+},
+{
+"y": "DHER.DE",
+"g": "DHER:ETR"
+},
+{
+"y": "DHI",
+"g": "DHI:US"
+},
+{
+"y": "DHL.DE",
+"g": "DHL:ETR"
+},
+{
+"y": "DHR",
+"g": "DHR:US"
+},
+{
+"y": "DIA",
+"g": "DIA:US"
+},
+{
+"y": "DIE.BR",
+"g": "DIE:EBR"
+},
+{
+"y": "DINO",
+"g": "DINO:US"
+},
+{
+"y": "DIOD",
+"g": "DIOD:US"
+},
+{
+"y": "DIS",
+"g": "DIS:US"
+},
+{
+"y": "DKS",
+"g": "DKS:US"
+},
+{
+"y": "DL.BR",
+"g": "DL:EBR"
+},
+{
+"y": "DLB",
+"g": "DLB:US"
+},
+{
+"y": "DLR",
+"g": "DLR:US"
+},
+{
+"y": "DLTR",
+"g": "DLTR:US"
+},
+{
+"y": "DLX",
+"g": "DLX:US"
+},
+{
+"y": "DMC",
+"g": "DMC:US"
+},
+{
+"y": "DNOW",
+"g": "DNOW:US"
+},
+{
+"y": "DOC",
+"g": "DOC:US"
+},
+{
+"y": "DOCN",
+"g": "DOCN:US"
+},
+{
+"y": "DOCS",
+"g": "DOCS:US"
+},
+{
+"y": "DOCU",
+"g": "DOCU:US"
+},
+{
+"y": "DOGE-USD",
+"g": "DOGE-USD"
+},
+{
+"y": "DORM",
+"g": "DORM:US"
+},
+{
+"y": "DOT-USD",
+"g": "DOT-USD"
+},
+{
+"y": "DOV",
+"g": "DOV:US"
+},
+{
+"y": "DOW",
+"g": "DOW:US"
+},
+{
+"y": "DPLM.L",
+"g": "DPLM:LON"
+},
+{
+"y": "DPZ",
+"g": "DPZ:US"
+},
+{
+"y": "DRH",
+"g": "DRH:US"
+},
+{
+"y": "DRI",
+"g": "DRI:US"
+},
+{
+"y": "DSFIR.AS",
+"g": "DSFIR:AMS"
+},
+{
+"y": "DSV.CO",
+"g": "DSV:CPH"
+},
+{
+"y": "DSY.PA",
+"g": "DSY:EPA"
+},
+{
+"y": "DT",
+"g": "DT:US"
+},
+{
+"y": "DTE",
+"g": "DTE:US"
+},
+{
+"y": "DTE.DE",
+"g": "DTE:ETR"
+},
+{
+"y": "DTG.DE",
+"g": "DTG:ETR"
+},
+{
+"y": "DTM",
+"g": "DTM:US"
+},
+{
+"y": "DUK",
+"g": "DUK:US"
+},
+{
+"y": "DUOL",
+"g": "DUOL:US"
+},
+{
+"y": "DV",
+"g": "DV:US"
+},
+{
+"y": "DVA",
+"g": "DVA:US"
+},
+{
+"y": "DVN",
+"g": "DVN:US"
+},
+{
+"y": "DXC",
+"g": "DXC:US"
+},
+{
+"y": "DXCM",
+"g": "DXCM:US"
+},
+{
+"y": "DXPE",
+"g": "DXPE:US"
+},
+{
+"y": "DY",
+"g": "DY:US"
+},
+{
+"y": "EAT",
+"g": "EAT:US"
+},
+{
+"y": "EBAY",
+"g": "EBAY:US"
+},
+{
+"y": "EBC",
+"g": "EBC:US"
+},
+{
+"y": "ECG",
+"g": "ECG:US"
+},
+{
+"y": "ECHO",
+"g": "ECHO:US"
+},
+{
+"y": "ECL",
+"g": "ECL:US"
+},
+{
+"y": "ECPG",
+"g": "ECPG:US"
+},
+{
+"y": "ECV.DE",
+"g": "ECV:ETR"
+},
+{
+"y": "ED",
+"g": "ED:US"
+},
+{
+"y": "EDV.L",
+"g": "EDV:LON"
+},
+{
+"y": "EEFT",
+"g": "EEFT:US"
+},
+{
+"y": "EEM",
+"g": "EEM:US"
+},
+{
+"y": "EFA",
+"g": "EFA:US"
+},
+{
+"y": "EFC",
+"g": "EFC:US"
+},
+{
+"y": "EFOR",
+"g": "EFOR:US"
+},
+{
+"y": "EFX",
+"g": "EFX:US"
+},
+{
+"y": "EG",
+"g": "EG:US"
+},
+{
+"y": "EGBN",
+"g": "EGBN:US"
+},
+{
+"y": "EGP",
+"g": "EGP:US"
+},
+{
+"y": "EHC",
+"g": "EHC:US"
+},
+{
+"y": "EIG",
+"g": "EIG:US"
+},
+{
+"y": "EIX",
+"g": "EIX:US"
+},
+{
+"y": "EL",
+"g": "EL:US"
+},
+{
+"y": "EL.PA",
+"g": "EL:EPA"
+},
+{
+"y": "ELAN",
+"g": "ELAN:US"
+},
+{
+"y": "ELE.BR",
+"g": "ELE:EBR"
+},
+{
+"y": "ELE.MC",
+"g": "ELE:BME"
+},
+{
+"y": "ELF",
+"g": "ELF:US"
+},
+{
+"y": "ELISA.HE",
+"g": "ELISA:HEL"
+},
+{
+"y": "ELS",
+"g": "ELS:US"
+},
+{
+"y": "ELV",
+"g": "ELV:US"
+},
+{
+"y": "EME",
+"g": "EME:US"
+},
+{
+"y": "EMN",
+"g": "EMN:US"
+},
+{
+"y": "EMR",
+"g": "EMR:US"
+},
+{
+"y": "EN.PA",
+"g": "EN:EPA"
+},
+{
+"y": "ENEL.MI",
+"g": "ENEL:BIT"
+},
+{
+"y": "ENG.MC",
+"g": "ENG:BME"
+},
+{
+"y": "ENGI.BR",
+"g": "ENGI:EBR"
+},
+{
+"y": "ENGI.PA",
+"g": "ENGI:EPA"
+},
+{
+"y": "ENI.MI",
+"g": "ENI:BIT"
+},
+{
+"y": "ENOV",
+"g": "ENOV:US"
+},
+{
+"y": "ENPH",
+"g": "ENPH:US"
+},
+{
+"y": "ENR",
+"g": "ENR:US"
+},
+{
+"y": "ENR.DE",
+"g": "ENR:ETR"
+},
+{
+"y": "ENS",
+"g": "ENS:US"
+},
+{
+"y": "ENSG",
+"g": "ENSG:US"
+},
+{
+"y": "ENTG",
+"g": "ENTG:US"
+},
+{
+"y": "ENVA",
+"g": "ENVA:US"
+},
+{
+"y": "ENX.PA",
+"g": "ENX:EPA"
+},
+{
+"y": "EOAN.DE",
+"g": "EOAN:ETR"
+},
+{
+"y": "EOG",
+"g": "EOG:US"
+},
+{
+"y": "EPAC",
+"g": "EPAC:US"
+},
+{
+"y": "EPAM",
+"g": "EPAM:US"
+},
+{
+"y": "EPC",
+"g": "EPC:US"
+},
+{
+"y": "EPI-A.ST",
+"g": "EPI-A:STO"
+},
+{
+"y": "EPR",
+"g": "EPR:US"
+},
+{
+"y": "EPRT",
+"g": "EPRT:US"
+},
+{
+"y": "EQH",
+"g": "EQH:US"
+},
+{
+"y": "EQIX",
+"g": "EQIX:US"
+},
+{
+"y": "EQT",
+"g": "EQT:US"
+},
+{
+"y": "EQT.ST",
+"g": "EQT:STO"
+},
+{
+"y": "ERF.PA",
+"g": "ERF:EPA"
+},
+{
+"y": "ERIC-B.ST",
+"g": "ERIC-B:STO"
+},
+{
+"y": "ERIE",
+"g": "ERIE:US"
+},
+{
+"y": "ES",
+"g": "ES:US"
+},
+{
+"y": "ESAB",
+"g": "ESAB:US"
+},
+{
+"y": "ESE",
+"g": "ESE:US"
+},
+{
+"y": "ESI",
+"g": "ESI:US"
+},
+{
+"y": "ESNT",
+"g": "ESNT:US"
+},
+{
+"y": "ESS",
+"g": "ESS:US"
+},
+{
+"y": "ESSITY-B.ST",
+"g": "ESSITY-B:STO"
+},
+{
+"y": "ETC-USD",
+"g": "ETC-USD"
+},
+{
+"y": "ETH-USD",
+"g": "ETH-USD"
+},
+{
+"y": "ETHA",
+"g": "ETHA:US"
+},
+{
+"y": "ETN",
+"g": "ETN:US"
+},
+{
+"y": "ETR",
+"g": "ETR:US"
+},
+{
+"y": "ETSY",
+"g": "ETSY:US"
+},
+{
+"y": "EVD.DE",
+"g": "EVD:ETR"
+},
+{
+"y": "EVK.DE",
+"g": "EVK:ETR"
+},
+{
+"y": "EVN.AX",
+"g": "EVN:ASX"
+},
+{
+"y": "EVO.ST",
+"g": "EVO:STO"
+},
+{
+"y": "EVR",
+"g": "EVR:US"
+},
+{
+"y": "EVRG",
+"g": "EVRG:US"
+},
+{
+"y": "EVT.DE",
+"g": "EVT:ETR"
+},
+{
+"y": "EVTC",
+"g": "EVTC:US"
+},
+{
+"y": "EW",
+"g": "EW:US"
+},
+{
+"y": "EWA",
+"g": "EWA:US"
+},
+{
+"y": "EWBC",
+"g": "EWBC:US"
+},
+{
+"y": "EWC",
+"g": "EWC:US"
+},
+{
+"y": "EWG",
+"g": "EWG:US"
+},
+{
+"y": "EWI",
+"g": "EWI:US"
+},
+{
+"y": "EWJ",
+"g": "EWJ:US"
+},
+{
+"y": "EWL",
+"g": "EWL:US"
+},
+{
+"y": "EWN",
+"g": "EWN:US"
+},
+{
+"y": "EWP",
+"g": "EWP:US"
+},
+{
+"y": "EWQ",
+"g": "EWQ:US"
+},
+{
+"y": "EWT",
+"g": "EWT:US"
+},
+{
+"y": "EWU",
+"g": "EWU:US"
+},
+{
+"y": "EWY",
+"g": "EWY:US"
+},
+{
+"y": "EWZ",
+"g": "EWZ:US"
+},
+{
+"y": "EXC",
+"g": "EXC:US"
+},
+{
+"y": "EXE",
+"g": "EXE:US"
+},
+{
+"y": "EXEL",
+"g": "EXEL:US"
+},
+{
+"y": "EXLS",
+"g": "EXLS:US"
+},
+{
+"y": "EXO.AS",
+"g": "EXO:AMS"
+},
+{
+"y": "EXP",
+"g": "EXP:US"
+},
+{
+"y": "EXPD",
+"g": "EXPD:US"
+},
+{
+"y": "EXPE",
+"g": "EXPE:US"
+},
+{
+"y": "EXPN.L",
+"g": "EXPN:LON"
+},
+{
+"y": "EXPO",
+"g": "EXPO:US"
+},
+{
+"y": "EXR",
+"g": "EXR:US"
+},
+{
+"y": "EXTR",
+"g": "EXTR:US"
+},
+{
+"y": "EYE",
+"g": "EYE:US"
+},
+{
+"y": "EZJ.L",
+"g": "EZJ:LON"
+},
+{
+"y": "EZPW",
+"g": "EZPW:US"
+},
+{
+"y": "EZU",
+"g": "EZU:US"
+},
+{
+"y": "F",
+"g": "F:US"
+},
+{
+"y": "FA",
+"g": "FA:US"
+},
+{
+"y": "FAF",
+"g": "FAF:US"
+},
+{
+"y": "FANG",
+"g": "FANG:US"
+},
+{
+"y": "FAST",
+"g": "FAST:US"
+},
+{
+"y": "FBIN",
+"g": "FBIN:US"
+},
+{
+"y": "FBK",
+"g": "FBK:US"
+},
+{
+"y": "FBK.MI",
+"g": "FBK:BIT"
+},
+{
+"y": "FBNC",
+"g": "FBNC:US"
+},
+{
+"y": "FBP",
+"g": "FBP:US"
+},
+{
+"y": "FBRT",
+"g": "FBRT:US"
+},
+{
+"y": "FBTC",
+"g": "FBTC:US"
+},
+{
+"y": "FCF",
+"g": "FCF:US"
+},
+{
+"y": "FCFS",
+"g": "FCFS:US"
+},
+{
+"y": "FCIT.L",
+"g": "FCIT:LON"
+},
+{
+"y": "FCN",
+"g": "FCN:US"
+},
+{
+"y": "FCPT",
+"g": "FCPT:US"
+},
+{
+"y": "FCT.MI",
+"g": "FCT:BIT"
+},
+{
+"y": "FCX",
+"g": "FCX:US"
+},
+{
+"y": "FDR.MC",
+"g": "FDR:BME"
+},
+{
+"y": "FDS",
+"g": "FDS:US"
+},
+{
+"y": "FDX",
+"g": "FDX:US"
+},
+{
+"y": "FDXF",
+"g": "FDXF:US"
+},
+{
+"y": "FE",
+"g": "FE:US"
+},
+{
+"y": "FELE",
+"g": "FELE:US"
+},
+{
+"y": "FER.MC",
+"g": "FER:BME"
+},
+{
+"y": "FERG",
+"g": "FERG:US"
+},
+{
+"y": "FFBC",
+"g": "FFBC:US"
+},
+{
+"y": "FFIN",
+"g": "FFIN:US"
+},
+{
+"y": "FFIV",
+"g": "FFIV:US"
+},
+{
+"y": "FG",
+"g": "FG:US"
+},
+{
+"y": "FGR.PA",
+"g": "FGR:EPA"
+},
+{
+"y": "FHB",
+"g": "FHB:US"
+},
+{
+"y": "FHI",
+"g": "FHI:US"
+},
+{
+"y": "FHN",
+"g": "FHN:US"
+},
+{
+"y": "FIBK",
+"g": "FIBK:US"
+},
+{
+"y": "FICO",
+"g": "FICO:US"
+},
+{
+"y": "FIL-USD",
+"g": "FIL-USD"
+},
+{
+"y": "FIS",
+"g": "FIS:US"
+},
+{
+"y": "FISV",
+"g": "FISV:US"
+},
+{
+"y": "FITB",
+"g": "FITB:US"
+},
+{
+"y": "FIVE",
+"g": "FIVE:US"
+},
+{
+"y": "FIVN",
+"g": "FIVN:US"
+},
+{
+"y": "FIX",
+"g": "FIX:US"
+},
+{
+"y": "FIZZ",
+"g": "FIZZ:US"
+},
+{
+"y": "FLEX",
+"g": "FLEX:US"
+},
+{
+"y": "FLG",
+"g": "FLG:US"
+},
+{
+"y": "FLO",
+"g": "FLO:US"
+},
+{
+"y": "FLR",
+"g": "FLR:US"
+},
+{
+"y": "FLS",
+"g": "FLS:US"
+},
+{
+"y": "FLS.CO",
+"g": "FLS:CPH"
+},
+{
+"y": "FMC",
+"g": "FMC:US"
+},
+{
+"y": "FME.DE",
+"g": "FME:ETR"
+},
+{
+"y": "FMG.AX",
+"g": "FMG:ASX"
+},
+{
+"y": "FN",
+"g": "FN:US"
+},
+{
+"y": "FNB",
+"g": "FNB:US"
+},
+{
+"y": "FND",
+"g": "FND:US"
+},
+{
+"y": "FNF",
+"g": "FNF:US"
+},
+{
+"y": "FNTN.DE",
+"g": "FNTN:ETR"
+},
+{
+"y": "FORM",
+"g": "FORM:US"
+},
+{
+"y": "FORTUM.HE",
+"g": "FORTUM:HEL"
+},
+{
+"y": "FOUR",
+"g": "FOUR:US"
+},
+{
+"y": "FOX",
+"g": "FOX:US"
+},
+{
+"y": "FOXA",
+"g": "FOXA:US"
+},
+{
+"y": "FOXF",
+"g": "FOXF:US"
+},
+{
+"y": "FPE3.DE",
+"g": "FPE3:ETR"
+},
+{
+"y": "FPH.AX",
+"g": "FPH:ASX"
+},
+{
+"y": "FR",
+"g": "FR:US"
+},
+{
+"y": "FRA.DE",
+"g": "FRA:ETR"
+},
+{
+"y": "FRE.DE",
+"g": "FRE:ETR"
+},
+{
+"y": "FRES.L",
+"g": "FRES:LON"
+},
+{
+"y": "FRPT",
+"g": "FRPT:US"
+},
+{
+"y": "FRT",
+"g": "FRT:US"
+},
+{
+"y": "FSLR",
+"g": "FSLR:US"
+},
+{
+"y": "FSS",
+"g": "FSS:US"
+},
+{
+"y": "FTDR",
+"g": "FTDR:US"
+},
+{
+"y": "FTI",
+"g": "FTI:US"
+},
+{
+"y": "FTNT",
+"g": "FTNT:US"
+},
+{
+"y": "FTRE",
+"g": "FTRE:US"
+},
+{
+"y": "FTSEMIB.MI",
+"g": "FTSEMIB:INDEXFTSE"
+},
+{
+"y": "FTV",
+"g": "FTV:US"
+},
+{
+"y": "FUL",
+"g": "FUL:US"
+},
+{
+"y": "FULT",
+"g": "FULT:US"
+},
+{
+"y": "FUN",
+"g": "FUN:US"
+},
+{
+"y": "FXI",
+"g": "FXI:US"
+},
+{
+"y": "G",
+"g": "G:US"
+},
+{
+"y": "G.MI",
+"g": "G:BIT"
+},
+{
+"y": "G1A.DE",
+"g": "G1A:ETR"
+},
+{
+"y": "G24.DE",
+"g": "G24:ETR"
+},
+{
+"y": "GALD.SW",
+"g": "GALD:SWX"
+},
+{
+"y": "GAP",
+"g": "GAP:US"
+},
+{
+"y": "GATX",
+"g": "GATX:US"
+},
+{
+"y": "GAW.L",
+"g": "GAW:LON"
+},
+{
+"y": "GBCI",
+"g": "GBCI:US"
+},
+{
+"y": "GBF.DE",
+"g": "GBF:ETR"
+},
+{
+"y": "GBX",
+"g": "GBX:US"
+},
+{
+"y": "GC=F",
+"g": "GCW00:COMEX"
+},
+{
+"y": "GD",
+"g": "GD:US"
+},
+{
+"y": "GDDY",
+"g": "GDDY:US"
+},
+{
+"y": "GDX",
+"g": "GDX:US"
+},
+{
+"y": "GDXJ",
+"g": "GDXJ:US"
+},
+{
+"y": "GE",
+"g": "GE:US"
+},
+{
+"y": "GEBN.SW",
+"g": "GEBN:SWX"
+},
+{
+"y": "GEF",
+"g": "GEF:US"
+},
+{
+"y": "GEHC",
+"g": "GEHC:US"
+},
+{
+"y": "GEN",
+"g": "GEN:US"
+},
+{
+"y": "GEO",
+"g": "GEO:US"
+},
+{
+"y": "GEV",
+"g": "GEV:US"
+},
+{
+"y": "GFF",
+"g": "GFF:US"
+},
+{
+"y": "GGG",
+"g": "GGG:US"
+},
+{
+"y": "GHC",
+"g": "GHC:US"
+},
+{
+"y": "GIII",
+"g": "GIII:US"
+},
+{
+"y": "GILD",
+"g": "GILD:US"
+},
+{
+"y": "GIS",
+"g": "GIS:US"
+},
+{
+"y": "GIVN.SW",
+"g": "GIVN:SWX"
+},
+{
+"y": "GKOS",
+"g": "GKOS:US"
+},
+{
+"y": "GL",
+"g": "GL:US"
+},
+{
+"y": "GLD",
+"g": "GLD:US"
+},
+{
+"y": "GLE.PA",
+"g": "GLE:EPA"
+},
+{
+"y": "GLEN.L",
+"g": "GLEN:LON"
+},
+{
+"y": "GLPG.BR",
+"g": "GLPG:EBR"
+},
+{
+"y": "GLPI",
+"g": "GLPI:US"
+},
+{
+"y": "GLW",
+"g": "GLW:US"
+},
+{
+"y": "GM",
+"g": "GM:US"
+},
+{
+"y": "GMAB.CO",
+"g": "GMAB:CPH"
+},
+{
+"y": "GME",
+"g": "GME:US"
+},
+{
+"y": "GMED",
+"g": "GMED:US"
+},
+{
+"y": "GMG.AX",
+"g": "GMG:ASX"
+},
+{
+"y": "GN.CO",
+"g": "GN:CPH"
+},
+{
+"y": "GNL",
+"g": "GNL:US"
+},
+{
+"y": "GNRC",
+"g": "GNRC:US"
+},
+{
+"y": "GNTX",
+"g": "GNTX:US"
+},
+{
+"y": "GNW",
+"g": "GNW:US"
+},
+{
+"y": "GO",
+"g": "GO:US"
+},
+{
+"y": "GOLF",
+"g": "GOLF:US"
+},
+{
+"y": "GOOG",
+"g": "GOOG:US"
+},
+{
+"y": "GOOGL",
+"g": "GOOGL:US"
+},
+{
+"y": "GPC",
+"g": "GPC:US"
+},
+{
+"y": "GPI",
+"g": "GPI:US"
+},
+{
+"y": "GPK",
+"g": "GPK:US"
+},
+{
+"y": "GPN",
+"g": "GPN:US"
+},
+{
+"y": "GPOR",
+"g": "GPOR:US"
+},
+{
+"y": "GRBK",
+"g": "GRBK:US"
+},
+{
+"y": "GRF.MC",
+"g": "GRF:BME"
+},
+{
+"y": "GRMN",
+"g": "GRMN:US"
+},
+{
+"y": "GS",
+"g": "GS:US"
+},
+{
+"y": "GSHD",
+"g": "GSHD:US"
+},
+{
+"y": "GSK.L",
+"g": "GSK:LON"
+},
+{
+"y": "GT",
+"g": "GT:US"
+},
+{
+"y": "GTES",
+"g": "GTES:US"
+},
+{
+"y": "GTM",
+"g": "GTM:US"
+},
+{
+"y": "GTY",
+"g": "GTY:US"
+},
+{
+"y": "GVA",
+"g": "GVA:US"
+},
+{
+"y": "GWRE",
+"g": "GWRE:US"
+},
+{
+"y": "GWW",
+"g": "GWW:US"
+},
+{
+"y": "GXI.DE",
+"g": "GXI:ETR"
+},
+{
+"y": "GXO",
+"g": "GXO:US"
+},
+{
+"y": "H",
+"g": "H:US"
+},
+{
+"y": "HAE",
+"g": "HAE:US"
+},
+{
+"y": "HAFC",
+"g": "HAFC:US"
+},
+{
+"y": "HAG.DE",
+"g": "HAG:ETR"
+},
+{
+"y": "HAL",
+"g": "HAL:US"
+},
+{
+"y": "HALO",
+"g": "HALO:US"
+},
+{
+"y": "HAS",
+"g": "HAS:US"
+},
+{
+"y": "HASI",
+"g": "HASI:US"
+},
+{
+"y": "HAYW",
+"g": "HAYW:US"
+},
+{
+"y": "HBAN",
+"g": "HBAN:US"
+},
+{
+"y": "HBAR-USD",
+"g": "HBAR-USD"
+},
+{
+"y": "HCA",
+"g": "HCA:US"
+},
+{
+"y": "HCC",
+"g": "HCC:US"
+},
+{
+"y": "HCI",
+"g": "HCI:US"
+},
+{
+"y": "HCSG",
+"g": "HCSG:US"
+},
+{
+"y": "HD",
+"g": "HD:US"
+},
+{
+"y": "HE",
+"g": "HE:US"
+},
+{
+"y": "HEI.DE",
+"g": "HEI:ETR"
+},
+{
+"y": "HEIA.AS",
+"g": "HEIA:AMS"
+},
+{
+"y": "HEN3.DE",
+"g": "HEN3:ETR"
+},
+{
+"y": "HER.MI",
+"g": "HER:BIT"
+},
+{
+"y": "HEXA-B.ST",
+"g": "HEXA-B:STO"
+},
+{
+"y": "HFG.DE",
+"g": "HFG:ETR"
+},
+{
+"y": "HFWA",
+"g": "HFWA:US"
+},
+{
+"y": "HG=F",
+"g": "HGW00:COMEX"
+},
+{
+"y": "HGV",
+"g": "HGV:US"
+},
+{
+"y": "HIAB.HE",
+"g": "HIAB:HEL"
+},
+{
+"y": "HIG",
+"g": "HIG:US"
+},
+{
+"y": "HII",
+"g": "HII:US"
+},
+{
+"y": "HIMS",
+"g": "HIMS:US"
+},
+{
+"y": "HIW",
+"g": "HIW:US"
+},
+{
+"y": "HL",
+"g": "HL:US"
+},
+{
+"y": "HLE.DE",
+"g": "HLE:ETR"
+},
+{
+"y": "HLI",
+"g": "HLI:US"
+},
+{
+"y": "HLIT",
+"g": "HLIT:US"
+},
+{
+"y": "HLMA.L",
+"g": "HLMA:LON"
+},
+{
+"y": "HLN.L",
+"g": "HLN:LON"
+},
+{
+"y": "HLNE",
+"g": "HLNE:US"
+},
+{
+"y": "HLT",
+"g": "HLT:US"
+},
+{
+"y": "HLX",
+"g": "HLX:US"
+},
+{
+"y": "HM-B.ST",
+"g": "HM-B:STO"
+},
+{
+"y": "HMN",
+"g": "HMN:US"
+},
+{
+"y": "HNI",
+"g": "HNI:US"
+},
+{
+"y": "HNR1.DE",
+"g": "HNR1:ETR"
+},
+{
+"y": "HO.PA",
+"g": "HO:EPA"
+},
+{
+"y": "HO=F",
+"g": "HOW00:NYMEX"
+},
+{
+"y": "HOG",
+"g": "HOG:US"
+},
+{
+"y": "HOLN.SW",
+"g": "HOLN:SWX"
+},
+{
+"y": "HOMB",
+"g": "HOMB:US"
+},
+{
+"y": "HON",
+"g": "HON:US"
+},
+{
+"y": "HONA",
+"g": "HONA:US"
+},
+{
+"y": "HOOD",
+"g": "HOOD:US"
+},
+{
+"y": "HOPE",
+"g": "HOPE:US"
+},
+{
+"y": "HOT.DE",
+"g": "HOT:ETR"
+},
+{
+"y": "HP",
+"g": "HP:US"
+},
+{
+"y": "HPE",
+"g": "HPE:US"
+},
+{
+"y": "HPQ",
+"g": "HPQ:US"
+},
+{
+"y": "HQY",
+"g": "HQY:US"
+},
+{
+"y": "HR",
+"g": "HR:US"
+},
+{
+"y": "HRB",
+"g": "HRB:US"
+},
+{
+"y": "HRL",
+"g": "HRL:US"
+},
+{
+"y": "HRMY",
+"g": "HRMY:US"
+},
+{
+"y": "HSBA.L",
+"g": "HSBA:LON"
+},
+{
+"y": "HSIC",
+"g": "HSIC:US"
+},
+{
+"y": "HST",
+"g": "HST:US"
+},
+{
+"y": "HSTM",
+"g": "HSTM:US"
+},
+{
+"y": "HSX.L",
+"g": "HSX:LON"
+},
+{
+"y": "HSY",
+"g": "HSY:US"
+},
+{
+"y": "HTH",
+"g": "HTH:US"
+},
+{
+"y": "HTLD",
+"g": "HTLD:US"
+},
+{
+"y": "HTO",
+"g": "HTO:US"
+},
+{
+"y": "HUBB",
+"g": "HUBB:US"
+},
+{
+"y": "HUBG",
+"g": "HUBG:US"
+},
+{
+"y": "HUBS",
+"g": "HUBS:US"
+},
+{
+"y": "HUH1V.HE",
+"g": "HUH1V:HEL"
+},
+{
+"y": "HUM",
+"g": "HUM:US"
+},
+{
+"y": "HWC",
+"g": "HWC:US"
+},
+{
+"y": "HWDN.L",
+"g": "HWDN:LON"
+},
+{
+"y": "HWKN",
+"g": "HWKN:US"
+},
+{
+"y": "HWM",
+"g": "HWM:US"
+},
+{
+"y": "HXL",
+"g": "HXL:US"
+},
+{
+"y": "HYG",
+"g": "HYG:US"
+},
+{
+"y": "HZO",
+"g": "HZO:US"
+},
+{
+"y": "IAG.AX",
+"g": "IAG:ASX"
+},
+{
+"y": "IAG.L",
+"g": "IAG:LON"
+},
+{
+"y": "IAG.MC",
+"g": "IAG:BME"
+},
+{
+"y": "IART",
+"g": "IART:US"
+},
+{
+"y": "IAU",
+"g": "IAU:US"
+},
+{
+"y": "IBB",
+"g": "IBB:US"
+},
+{
+"y": "IBE.MC",
+"g": "IBE:BME"
+},
+{
+"y": "IBIT",
+"g": "IBIT:US"
+},
+{
+"y": "IBKR",
+"g": "IBKR:US"
+},
+{
+"y": "IBM",
+"g": "IBM:US"
+},
+{
+"y": "IBOC",
+"g": "IBOC:US"
+},
+{
+"y": "IBP",
+"g": "IBP:US"
+},
+{
+"y": "ICE",
+"g": "ICE:US"
+},
+{
+"y": "ICG.L",
+"g": "ICG:LON"
+},
+{
+"y": "ICHR",
+"g": "ICHR:US"
+},
+{
+"y": "ICLN",
+"g": "ICLN:US"
+},
+{
+"y": "ICP-USD",
+"g": "ICP-USD"
+},
+{
+"y": "ICUI",
+"g": "ICUI:US"
+},
+{
+"y": "IDA",
+"g": "IDA:US"
+},
+{
+"y": "IDCC",
+"g": "IDCC:US"
+},
+{
+"y": "IDR.MC",
+"g": "IDR:BME"
+},
+{
+"y": "IDXX",
+"g": "IDXX:US"
+},
+{
+"y": "IEF",
+"g": "IEF:US"
+},
+{
+"y": "IEMG",
+"g": "IEMG:US"
+},
+{
+"y": "IESC",
+"g": "IESC:US"
+},
+{
+"y": "IEX",
+"g": "IEX:US"
+},
+{
+"y": "IFF",
+"g": "IFF:US"
+},
+{
+"y": "IFX.DE",
+"g": "IFX:ETR"
+},
+{
+"y": "IG.MI",
+"g": "IG:BIT"
+},
+{
+"y": "IGG.L",
+"g": "IGG:LON"
+},
+{
+"y": "IHG.L",
+"g": "IHG:LON"
+},
+{
+"y": "III.L",
+"g": "III:LON"
+},
+{
+"y": "IIPR",
+"g": "IIPR:US"
+},
+{
+"y": "ILMN",
+"g": "ILMN:US"
+},
+{
+"y": "IMB.L",
+"g": "IMB:LON"
+},
+{
+"y": "IMCD.AS",
+"g": "IMCD:AMS"
+},
+{
+"y": "IMI.L",
+"g": "IMI:LON"
+},
+{
+"y": "INCY",
+"g": "INCY:US"
+},
+{
+"y": "INDA",
+"g": "INDA:US"
+},
+{
+"y": "INDB",
+"g": "INDB:US"
+},
+{
+"y": "INDU-C.ST",
+"g": "INDU-C:STO"
+},
+{
+"y": "INDV",
+"g": "INDV:US"
+},
+{
+"y": "INF.L",
+"g": "INF:LON"
+},
+{
+"y": "INGA.AS",
+"g": "INGA:AMS"
+},
+{
+"y": "INGA.BR",
+"g": "INGA:EBR"
+},
+{
+"y": "INGR",
+"g": "INGR:US"
+},
+{
+"y": "INJ-USD",
+"g": "INJ-USD"
+},
+{
+"y": "INSP",
+"g": "INSP:US"
+},
+{
+"y": "INSW",
+"g": "INSW:US"
+},
+{
+"y": "INTC",
+"g": "INTC:US"
+},
+{
+"y": "INTU",
+"g": "INTU:US"
+},
+{
+"y": "INVA",
+"g": "INVA:US"
+},
+{
+"y": "INVE-B.ST",
+"g": "INVE-B:STO"
+},
+{
+"y": "INVH",
+"g": "INVH:US"
+},
+{
+"y": "INVP.L",
+"g": "INVP:LON"
+},
+{
+"y": "INVX",
+"g": "INVX:US"
+},
+{
+"y": "INW.MI",
+"g": "INW:BIT"
+},
+{
+"y": "IOSP",
+"g": "IOSP:US"
+},
+{
+"y": "IP",
+"g": "IP:US"
+},
+{
+"y": "IPAR",
+"g": "IPAR:US"
+},
+{
+"y": "IPGP",
+"g": "IPGP:US"
+},
+{
+"y": "IQV",
+"g": "IQV:US"
+},
+{
+"y": "IR",
+"g": "IR:US"
+},
+{
+"y": "IRDM",
+"g": "IRDM:US"
+},
+{
+"y": "IRM",
+"g": "IRM:US"
+},
+{
+"y": "IRT",
+"g": "IRT:US"
+},
+{
+"y": "ISP.MI",
+"g": "ISP:BIT"
+},
+{
+"y": "ISRG",
+"g": "ISRG:US"
+},
+{
+"y": "ISS.CO",
+"g": "ISS:CPH"
+},
+{
+"y": "IT",
+"g": "IT:US"
+},
+{
+"y": "ITA",
+"g": "ITA:US"
+},
+{
+"y": "ITGR",
+"g": "ITGR:US"
+},
+{
+"y": "ITH.L",
+"g": "ITH:LON"
+},
+{
+"y": "ITRI",
+"g": "ITRI:US"
+},
+{
+"y": "ITRK.L",
+"g": "ITRK:LON"
+},
+{
+"y": "ITT",
+"g": "ITT:US"
+},
+{
+"y": "ITW",
+"g": "ITW:US"
+},
+{
+"y": "ITX.MC",
+"g": "ITX:BME"
+},
+{
+"y": "IVG.MI",
+"g": "IVG:BIT"
+},
+{
+"y": "IVT",
+"g": "IVT:US"
+},
+{
+"y": "IVV",
+"g": "IVV:US"
+},
+{
+"y": "IVZ",
+"g": "IVZ:US"
+},
+{
+"y": "IWM",
+"g": "IWM:US"
+},
+{
+"y": "J",
+"g": "J:US"
+},
+{
+"y": "JAZZ",
+"g": "JAZZ:US"
+},
+{
+"y": "JBGS",
+"g": "JBGS:US"
+},
+{
+"y": "JBH.AX",
+"g": "JBH:ASX"
+},
+{
+"y": "JBHT",
+"g": "JBHT:US"
+},
+{
+"y": "JBL",
+"g": "JBL:US"
+},
+{
+"y": "JBLU",
+"g": "JBLU:US"
+},
+{
+"y": "JBSS",
+"g": "JBSS:US"
+},
+{
+"y": "JBTM",
+"g": "JBTM:US"
+},
+{
+"y": "JCI",
+"g": "JCI:US"
+},
+{
+"y": "JD.L",
+"g": "JD:LON"
+},
+{
+"y": "JEF",
+"g": "JEF:US"
+},
+{
+"y": "JEN.DE",
+"g": "JEN:ETR"
+},
+{
+"y": "JEPI",
+"g": "JEPI:US"
+},
+{
+"y": "JETS",
+"g": "JETS:US"
+},
+{
+"y": "JHX.AX",
+"g": "JHX:ASX"
+},
+{
+"y": "JJSF",
+"g": "JJSF:US"
+},
+{
+"y": "JKHY",
+"g": "JKHY:US"
+},
+{
+"y": "JLL",
+"g": "JLL:US"
+},
+{
+"y": "JNJ",
+"g": "JNJ:US"
+},
+{
+"y": "JOE",
+"g": "JOE:US"
+},
+{
+"y": "JPM",
+"g": "JPM:US"
+},
+{
+"y": "JUN3.DE",
+"g": "JUN3:ETR"
+},
+{
+"y": "JXN",
+"g": "JXN:US"
+},
+{
+"y": "JYSK.CO",
+"g": "JYSK:CPH"
+},
+{
+"y": "KAI",
+"g": "KAI:US"
+},
+{
+"y": "KALMAR.HE",
+"g": "KALMAR:HEL"
+},
+{
+"y": "KALU",
+"g": "KALU:US"
+},
+{
+"y": "KBH",
+"g": "KBH:US"
+},
+{
+"y": "KBR",
+"g": "KBR:US"
+},
+{
+"y": "KBX.DE",
+"g": "KBX:ETR"
+},
+{
+"y": "KC=F",
+"g": "KCW00:NYBOT"
+},
+{
+"y": "KCR.HE",
+"g": "KCR:HEL"
+},
+{
+"y": "KD",
+"g": "KD:US"
+},
+{
+"y": "KDP",
+"g": "KDP:US"
+},
+{
+"y": "KEMIRA.HE",
+"g": "KEMIRA:HEL"
+},
+{
+"y": "KER.PA",
+"g": "KER:EPA"
+},
+{
+"y": "KESKOB.HE",
+"g": "KESKOB:HEL"
+},
+{
+"y": "KEX",
+"g": "KEX:US"
+},
+{
+"y": "KEY",
+"g": "KEY:US"
+},
+{
+"y": "KEYS",
+"g": "KEYS:US"
+},
+{
+"y": "KFY",
+"g": "KFY:US"
+},
+{
+"y": "KGF.L",
+"g": "KGF:LON"
+},
+{
+"y": "KGS",
+"g": "KGS:US"
+},
+{
+"y": "KGX.DE",
+"g": "KGX:ETR"
+},
+{
+"y": "KHC",
+"g": "KHC:US"
+},
+{
+"y": "KIM",
+"g": "KIM:US"
+},
+{
+"y": "KKR",
+"g": "KKR:US"
+},
+{
+"y": "KLAC",
+"g": "KLAC:US"
+},
+{
+"y": "KLIC",
+"g": "KLIC:US"
+},
+{
+"y": "KMB",
+"g": "KMB:US"
+},
+{
+"y": "KMI",
+"g": "KMI:US"
+},
+{
+"y": "KMPR",
+"g": "KMPR:US"
+},
+{
+"y": "KMT",
+"g": "KMT:US"
+},
+{
+"y": "KMX",
+"g": "KMX:US"
+},
+{
+"y": "KN",
+"g": "KN:US"
+},
+{
+"y": "KNEBV.HE",
+"g": "KNEBV:HEL"
+},
+{
+"y": "KNF",
+"g": "KNF:US"
+},
+{
+"y": "KNSL",
+"g": "KNSL:US"
+},
+{
+"y": "KNTK",
+"g": "KNTK:US"
+},
+{
+"y": "KNX",
+"g": "KNX:US"
+},
+{
+"y": "KO",
+"g": "KO:US"
+},
+{
+"y": "KOJAMO.HE",
+"g": "KOJAMO:HEL"
+},
+{
+"y": "KOP",
+"g": "KOP:US"
+},
+{
+"y": "KPN.AS",
+"g": "KPN:AMS"
+},
+{
+"y": "KR",
+"g": "KR:US"
+},
+{
+"y": "KRC",
+"g": "KRC:US"
+},
+{
+"y": "KRG",
+"g": "KRG:US"
+},
+{
+"y": "KRMN",
+"g": "KRMN:US"
+},
+{
+"y": "KRN.DE",
+"g": "KRN:ETR"
+},
+{
+"y": "KRYS",
+"g": "KRYS:US"
+},
+{
+"y": "KSS",
+"g": "KSS:US"
+},
+{
+"y": "KTB",
+"g": "KTB:US"
+},
+{
+"y": "KTOS",
+"g": "KTOS:US"
+},
+{
+"y": "KVUE",
+"g": "KVUE:US"
+},
+{
+"y": "KWEB",
+"g": "KWEB:US"
+},
+{
+"y": "KWR",
+"g": "KWR:US"
+},
+{
+"y": "L",
+"g": "L:US"
+},
+{
+"y": "LAD",
+"g": "LAD:US"
+},
+{
+"y": "LAMR",
+"g": "LAMR:US"
+},
+{
+"y": "LAND.L",
+"g": "LAND:LON"
+},
+{
+"y": "LAUR",
+"g": "LAUR:US"
+},
+{
+"y": "LAZ",
+"g": "LAZ:US"
+},
+{
+"y": "LBRT",
+"g": "LBRT:US"
+},
+{
+"y": "LCII",
+"g": "LCII:US"
+},
+{
+"y": "LDO.MI",
+"g": "LDO:BIT"
+},
+{
+"y": "LDOS",
+"g": "LDOS:US"
+},
+{
+"y": "LE=F",
+"g": "LEW00:CME"
+},
+{
+"y": "LEA",
+"g": "LEA:US"
+},
+{
+"y": "LECO",
+"g": "LECO:US"
+},
+{
+"y": "LEG",
+"g": "LEG:US"
+},
+{
+"y": "LEG.DE",
+"g": "LEG:ETR"
+},
+{
+"y": "LEN",
+"g": "LEN:US"
+},
+{
+"y": "LEU",
+"g": "LEU:US"
+},
+{
+"y": "LFST",
+"g": "LFST:US"
+},
+{
+"y": "LFUS",
+"g": "LFUS:US"
+},
+{
+"y": "LGEN.L",
+"g": "LGEN:LON"
+},
+{
+"y": "LGIH",
+"g": "LGIH:US"
+},
+{
+"y": "LGND",
+"g": "LGND:US"
+},
+{
+"y": "LH",
+"g": "LH:US"
+},
+{
+"y": "LHA.DE",
+"g": "LHA:ETR"
+},
+{
+"y": "LHX",
+"g": "LHX:US"
+},
+{
+"y": "LIF",
+"g": "LIF:US"
+},
+{
+"y": "LIFCO-B.ST",
+"g": "LIFCO-B:STO"
+},
+{
+"y": "LII",
+"g": "LII:US"
+},
+{
+"y": "LIN",
+"g": "LIN:US"
+},
+{
+"y": "LINK-USD",
+"g": "LINK-USD"
+},
+{
+"y": "LIT",
+"g": "LIT:US"
+},
+{
+"y": "LITE",
+"g": "LITE:US"
+},
+{
+"y": "LIVN",
+"g": "LIVN:US"
+},
+{
+"y": "LKFN",
+"g": "LKFN:US"
+},
+{
+"y": "LKQ",
+"g": "LKQ:US"
+},
+{
+"y": "LLOY.L",
+"g": "LLOY:LON"
+},
+{
+"y": "LLY",
+"g": "LLY:US"
+},
+{
+"y": "LMAT",
+"g": "LMAT:US"
+},
+{
+"y": "LMP.L",
+"g": "LMP:LON"
+},
+{
+"y": "LMT",
+"g": "LMT:US"
+},
+{
+"y": "LNC",
+"g": "LNC:US"
+},
+{
+"y": "LNN",
+"g": "LNN:US"
+},
+{
+"y": "LNT",
+"g": "LNT:US"
+},
+{
+"y": "LNTH",
+"g": "LNTH:US"
+},
+{
+"y": "LOG.MC",
+"g": "LOG:BME"
+},
+{
+"y": "LOGN.SW",
+"g": "LOGN:SWX"
+},
+{
+"y": "LONN.SW",
+"g": "LONN:SWX"
+},
+{
+"y": "LOPE",
+"g": "LOPE:US"
+},
+{
+"y": "LOW",
+"g": "LOW:US"
+},
+{
+"y": "LPG",
+"g": "LPG:US"
+},
+{
+"y": "LPX",
+"g": "LPX:US"
+},
+{
+"y": "LQD",
+"g": "LQD:US"
+},
+{
+"y": "LQDA",
+"g": "LQDA:US"
+},
+{
+"y": "LQDT",
+"g": "LQDT:US"
+},
+{
+"y": "LR.PA",
+"g": "LR:EPA"
+},
+{
+"y": "LRCX",
+"g": "LRCX:US"
+},
+{
+"y": "LRN",
+"g": "LRN:US"
+},
+{
+"y": "LSCC",
+"g": "LSCC:US"
+},
+{
+"y": "LSEG.L",
+"g": "LSEG:LON"
+},
+{
+"y": "LSTR",
+"g": "LSTR:US"
+},
+{
+"y": "LTC",
+"g": "LTC:US"
+},
+{
+"y": "LTC-USD",
+"g": "LTC-USD"
+},
+{
+"y": "LTH",
+"g": "LTH:US"
+},
+{
+"y": "LTMC.MI",
+"g": "LTMC:BIT"
+},
+{
+"y": "LULU",
+"g": "LULU:US"
+},
+{
+"y": "LUMN",
+"g": "LUMN:US"
+},
+{
+"y": "LUV",
+"g": "LUV:US"
+},
+{
+"y": "LVS",
+"g": "LVS:US"
+},
+{
+"y": "LW",
+"g": "LW:US"
+},
+{
+"y": "LXP",
+"g": "LXP:US"
+},
+{
+"y": "LXS.DE",
+"g": "LXS:ETR"
+},
+{
+"y": "LYB",
+"g": "LYB:US"
+},
+{
+"y": "LYC.AX",
+"g": "LYC:ASX"
+},
+{
+"y": "LYFT",
+"g": "LYFT:US"
+},
+{
+"y": "LYV",
+"g": "LYV:US"
+},
+{
+"y": "LZ",
+"g": "LZ:US"
+},
+{
+"y": "LZB",
+"g": "LZB:US"
+},
+{
+"y": "M",
+"g": "M:US"
+},
+{
+"y": "MA",
+"g": "MA:US"
+},
+{
+"y": "MAA",
+"g": "MAA:US"
+},
+{
+"y": "MAC",
+"g": "MAC:US"
+},
+{
+"y": "MAN",
+"g": "MAN:US"
+},
+{
+"y": "MANH",
+"g": "MANH:US"
+},
+{
+"y": "MANTA.HE",
+"g": "MANTA:HEL"
+},
+{
+"y": "MAP.MC",
+"g": "MAP:BME"
+},
+{
+"y": "MAR",
+"g": "MAR:US"
+},
+{
+"y": "MARA",
+"g": "MARA:US"
+},
+{
+"y": "MAS",
+"g": "MAS:US"
+},
+{
+"y": "MAT",
+"g": "MAT:US"
+},
+{
+"y": "MATW",
+"g": "MATW:US"
+},
+{
+"y": "MATX",
+"g": "MATX:US"
+},
+{
+"y": "MB.MI",
+"g": "MB:BIT"
+},
+{
+"y": "MBC",
+"g": "MBC:US"
+},
+{
+"y": "MBG.DE",
+"g": "MBG:ETR"
+},
+{
+"y": "MBGL",
+"g": "MBGL:US"
+},
+{
+"y": "MBIN",
+"g": "MBIN:US"
+},
+{
+"y": "MC",
+"g": "MC:US"
+},
+{
+"y": "MC.PA",
+"g": "MC:EPA"
+},
+{
+"y": "MCD",
+"g": "MCD:US"
+},
+{
+"y": "MCHI",
+"g": "MCHI:US"
+},
+{
+"y": "MCHP",
+"g": "MCHP:US"
+},
+{
+"y": "MCK",
+"g": "MCK:US"
+},
+{
+"y": "MCO",
+"g": "MCO:US"
+},
+{
+"y": "MCRI",
+"g": "MCRI:US"
+},
+{
+"y": "MCY",
+"g": "MCY:US"
+},
+{
+"y": "MD",
+"g": "MD:US"
+},
+{
+"y": "MDLZ",
+"g": "MDLZ:US"
+},
+{
+"y": "MDT",
+"g": "MDT:US"
+},
+{
+"y": "MDU",
+"g": "MDU:US"
+},
+{
+"y": "MEDP",
+"g": "MEDP:US"
+},
+{
+"y": "MET",
+"g": "MET:US"
+},
+{
+"y": "META",
+"g": "META:US"
+},
+{
+"y": "METSO.HE",
+"g": "METSO:HEL"
+},
+{
+"y": "MFP",
+"g": "MFP:US"
+},
+{
+"y": "MGEE",
+"g": "MGEE:US"
+},
+{
+"y": "MGM",
+"g": "MGM:US"
+},
+{
+"y": "MGY",
+"g": "MGY:US"
+},
+{
+"y": "MHK",
+"g": "MHK:US"
+},
+{
+"y": "MHO",
+"g": "MHO:US"
+},
+{
+"y": "MIDD",
+"g": "MIDD:US"
+},
+{
+"y": "MIR",
+"g": "MIR:US"
+},
+{
+"y": "MKC",
+"g": "MKC:US"
+},
+{
+"y": "MKS.L",
+"g": "MKS:LON"
+},
+{
+"y": "MKSI",
+"g": "MKSI:US"
+},
+{
+"y": "MKTX",
+"g": "MKTX:US"
+},
+{
+"y": "ML.PA",
+"g": "ML:EPA"
+},
+{
+"y": "MLI",
+"g": "MLI:US"
+},
+{
+"y": "MLKN",
+"g": "MLKN:US"
+},
+{
+"y": "MLM",
+"g": "MLM:US"
+},
+{
+"y": "MMI",
+"g": "MMI:US"
+},
+{
+"y": "MMM",
+"g": "MMM:US"
+},
+{
+"y": "MMS",
+"g": "MMS:US"
+},
+{
+"y": "MMSI",
+"g": "MMSI:US"
+},
+{
+"y": "MNG.L",
+"g": "MNG:LON"
+},
+{
+"y": "MNST",
+"g": "MNST:US"
+},
+{
+"y": "MO",
+"g": "MO:US"
+},
+{
+"y": "MOG-A",
+"g": "MOG.A:US"
+},
+{
+"y": "MOH",
+"g": "MOH:US"
+},
+{
+"y": "MONC.MI",
+"g": "MONC:BIT"
+},
+{
+"y": "MORN",
+"g": "MORN:US"
+},
+{
+"y": "MOS",
+"g": "MOS:US"
+},
+{
+"y": "MP",
+"g": "MP:US"
+},
+{
+"y": "MPC",
+"g": "MPC:US"
+},
+{
+"y": "MPL.AX",
+"g": "MPL:ASX"
+},
+{
+"y": "MPT",
+"g": "MPT:US"
+},
+{
+"y": "MPWR",
+"g": "MPWR:US"
+},
+{
+"y": "MQG.AX",
+"g": "MQG:ASX"
+},
+{
+"y": "MRCY",
+"g": "MRCY:US"
+},
+{
+"y": "MRK",
+"g": "MRK:US"
+},
+{
+"y": "MRK.DE",
+"g": "MRK:ETR"
+},
+{
+"y": "MRL.MC",
+"g": "MRL:BME"
+},
+{
+"y": "MRNA",
+"g": "MRNA:US"
+},
+{
+"y": "MRO.L",
+"g": "MRO:LON"
+},
+{
+"y": "MRP",
+"g": "MRP:US"
+},
+{
+"y": "MRSH",
+"g": "MRSH:US"
+},
+{
+"y": "MRTN",
+"g": "MRTN:US"
+},
+{
+"y": "MRVL",
+"g": "MRVL:US"
+},
+{
+"y": "MS",
+"g": "MS:US"
+},
+{
+"y": "MSA",
+"g": "MSA:US"
+},
+{
+"y": "MSCI",
+"g": "MSCI:US"
+},
+{
+"y": "MSEX",
+"g": "MSEX:US"
+},
+{
+"y": "MSFT",
+"g": "MSFT:US"
+},
+{
+"y": "MSGS",
+"g": "MSGS:US"
+},
+{
+"y": "MSI",
+"g": "MSI:US"
+},
+{
+"y": "MSM",
+"g": "MSM:US"
+},
+{
+"y": "MT.AS",
+"g": "MT:AMS"
+},
+{
+"y": "MTB",
+"g": "MTB:US"
+},
+{
+"y": "MTCH",
+"g": "MTCH:US"
+},
+{
+"y": "MTD",
+"g": "MTD:US"
+},
+{
+"y": "MTDR",
+"g": "MTDR:US"
+},
+{
+"y": "MTG",
+"g": "MTG:US"
+},
+{
+"y": "MTH",
+"g": "MTH:US"
+},
+{
+"y": "MTLN.L",
+"g": "MTLN:LON"
+},
+{
+"y": "MTN",
+"g": "MTN:US"
+},
+{
+"y": "MTRN",
+"g": "MTRN:US"
+},
+{
+"y": "MTS.MC",
+"g": "MTS:BME"
+},
+{
+"y": "MTSI",
+"g": "MTSI:US"
+},
+{
+"y": "MTUS",
+"g": "MTUS:US"
+},
+{
+"y": "MTX",
+"g": "MTX:US"
+},
+{
+"y": "MTX.DE",
+"g": "MTX:ETR"
+},
+{
+"y": "MTZ",
+"g": "MTZ:US"
+},
+{
+"y": "MU",
+"g": "MU:US"
+},
+{
+"y": "MUR",
+"g": "MUR:US"
+},
+{
+"y": "MUSA",
+"g": "MUSA:US"
+},
+{
+"y": "MUV2.DE",
+"g": "MUV2:ETR"
+},
+{
+"y": "MWA",
+"g": "MWA:US"
+},
+{
+"y": "MXL",
+"g": "MXL:US"
+},
+{
+"y": "MYRG",
+"g": "MYRG:US"
+},
+{
+"y": "MZTI",
+"g": "MZTI:US"
+},
+{
+"y": "NAB.AX",
+"g": "NAB:ASX"
+},
+{
+"y": "NABL",
+"g": "NABL:US"
+},
+{
+"y": "NAT.BR",
+"g": "NAT:EBR"
+},
+{
+"y": "NATL",
+"g": "NATL:US"
+},
+{
+"y": "NAVI",
+"g": "NAVI:US"
+},
+{
+"y": "NBHC",
+"g": "NBHC:US"
+},
+{
+"y": "NBIX",
+"g": "NBIX:US"
+},
+{
+"y": "NBTB",
+"g": "NBTB:US"
+},
+{
+"y": "NCLH",
+"g": "NCLH:US"
+},
+{
+"y": "NDA-FI.HE",
+"g": "NDA-FI:HEL"
+},
+{
+"y": "NDA-SE.ST",
+"g": "NDA-SE:STO"
+},
+{
+"y": "NDA.CO",
+"g": "NDA:CPH"
+},
+{
+"y": "NDA.DE",
+"g": "NDA:ETR"
+},
+{
+"y": "NDAQ",
+"g": "NDAQ:US"
+},
+{
+"y": "NDSN",
+"g": "NDSN:US"
+},
+{
+"y": "NDX1.DE",
+"g": "NDX1:ETR"
+},
+{
+"y": "NE",
+"g": "NE:US"
+},
+{
+"y": "NEAR-USD",
+"g": "NEAR-USD"
+},
+{
+"y": "NEE",
+"g": "NEE:US"
+},
+{
+"y": "NEM",
+"g": "NEM:US"
+},
+{
+"y": "NEM.AX",
+"g": "NEM:ASX"
+},
+{
+"y": "NEM.DE",
+"g": "NEM:ETR"
+},
+{
+"y": "NEO",
+"g": "NEO:US"
+},
+{
+"y": "NEOG",
+"g": "NEOG:US"
+},
+{
+"y": "NESN.SW",
+"g": "NESN:SWX"
+},
+{
+"y": "NESTE.HE",
+"g": "NESTE:HEL"
+},
+{
+"y": "NEU",
+"g": "NEU:US"
+},
+{
+"y": "NEXI.MI",
+"g": "NEXI:BIT"
+},
+{
+"y": "NFG",
+"g": "NFG:US"
+},
+{
+"y": "NFLX",
+"g": "NFLX:US"
+},
+{
+"y": "NG.L",
+"g": "NG:LON"
+},
+{
+"y": "NG=F",
+"g": "NGW00:NYMEX"
+},
+{
+"y": "NGVT",
+"g": "NGVT:US"
+},
+{
+"y": "NHC",
+"g": "NHC:US"
+},
+{
+"y": "NHI",
+"g": "NHI:US"
+},
+{
+"y": "NI",
+"g": "NI:US"
+},
+{
+"y": "NIBE-B.ST",
+"g": "NIBE-B:STO"
+},
+{
+"y": "NIC",
+"g": "NIC:US"
+},
+{
+"y": "NJR",
+"g": "NJR:US"
+},
+{
+"y": "NKE",
+"g": "NKE:US"
+},
+{
+"y": "NKT.CO",
+"g": "NKT:CPH"
+},
+{
+"y": "NLY",
+"g": "NLY:US"
+},
+{
+"y": "NMIH",
+"g": "NMIH:US"
+},
+{
+"y": "NN.AS",
+"g": "NN:AMS"
+},
+{
+"y": "NNN",
+"g": "NNN:US"
+},
+{
+"y": "NOC",
+"g": "NOC:US"
+},
+{
+"y": "NOG",
+"g": "NOG:US"
+},
+{
+"y": "NOKIA.HE",
+"g": "NOKIA:HEL"
+},
+{
+"y": "NOV",
+"g": "NOV:US"
+},
+{
+"y": "NOVN.SW",
+"g": "NOVN:SWX"
+},
+{
+"y": "NOVT",
+"g": "NOVT:US"
+},
+{
+"y": "NOW",
+"g": "NOW:US"
+},
+{
+"y": "NPK",
+"g": "NPK:US"
+},
+{
+"y": "NPO",
+"g": "NPO:US"
+},
+{
+"y": "NRG",
+"g": "NRG:US"
+},
+{
+"y": "NSC",
+"g": "NSC:US"
+},
+{
+"y": "NSIT",
+"g": "NSIT:US"
+},
+{
+"y": "NSP",
+"g": "NSP:US"
+},
+{
+"y": "NSSC",
+"g": "NSSC:US"
+},
+{
+"y": "NST.AX",
+"g": "NST:ASX"
+},
+{
+"y": "NTAP",
+"g": "NTAP:US"
+},
+{
+"y": "NTCT",
+"g": "NTCT:US"
+},
+{
+"y": "NTGY.MC",
+"g": "NTGY:BME"
+},
+{
+"y": "NTNX",
+"g": "NTNX:US"
+},
+{
+"y": "NTRS",
+"g": "NTRS:US"
+},
+{
+"y": "NTST",
+"g": "NTST:US"
+},
+{
+"y": "NUE",
+"g": "NUE:US"
+},
+{
+"y": "NVDA",
+"g": "NVDA:US"
+},
+{
+"y": "NVR",
+"g": "NVR:US"
+},
+{
+"y": "NVST",
+"g": "NVST:US"
+},
+{
+"y": "NVT",
+"g": "NVT:US"
+},
+{
+"y": "NWBI",
+"g": "NWBI:US"
+},
+{
+"y": "NWE",
+"g": "NWE:US"
+},
+{
+"y": "NWG.L",
+"g": "NWG:LON"
+},
+{
+"y": "NWL",
+"g": "NWL:US"
+},
+{
+"y": "NWN",
+"g": "NWN:US"
+},
+{
+"y": "NWS",
+"g": "NWS:US"
+},
+{
+"y": "NWS.AX",
+"g": "NWS:ASX"
+},
+{
+"y": "NWSA",
+"g": "NWSA:US"
+},
+{
+"y": "NX",
+"g": "NX:US"
+},
+{
+"y": "NXPI",
+"g": "NXPI:US"
+},
+{
+"y": "NXRT",
+"g": "NXRT:US"
+},
+{
+"y": "NXST",
+"g": "NXST:US"
+},
+{
+"y": "NXT",
+"g": "NXT:US"
+},
+{
+"y": "NXT.L",
+"g": "NXT:LON"
+},
+{
+"y": "NYR.BR",
+"g": "NYR:EBR"
+},
+{
+"y": "NYT",
+"g": "NYT:US"
+},
+{
+"y": "O",
+"g": "O:US"
+},
+{
+"y": "OBEL.BR",
+"g": "OBEL:EBR"
+},
+{
+"y": "OC",
+"g": "OC:US"
+},
+{
+"y": "ODFL",
+"g": "ODFL:US"
+},
+{
+"y": "OFG",
+"g": "OFG:US"
+},
+{
+"y": "OGE",
+"g": "OGE:US"
+},
+{
+"y": "OGN",
+"g": "OGN:US"
+},
+{
+"y": "OGS",
+"g": "OGS:US"
+},
+{
+"y": "OHI",
+"g": "OHI:US"
+},
+{
+"y": "OI",
+"g": "OI:US"
+},
+{
+"y": "OII",
+"g": "OII:US"
+},
+{
+"y": "OKE",
+"g": "OKE:US"
+},
+{
+"y": "OKTA",
+"g": "OKTA:US"
+},
+{
+"y": "OLED",
+"g": "OLED:US"
+},
+{
+"y": "OLLI",
+"g": "OLLI:US"
+},
+{
+"y": "OMC",
+"g": "OMC:US"
+},
+{
+"y": "OMCL",
+"g": "OMCL:US"
+},
+{
+"y": "OME.BR",
+"g": "OME:EBR"
+},
+{
+"y": "ON",
+"g": "ON:US"
+},
+{
+"y": "ONB",
+"g": "ONB:US"
+},
+{
+"y": "ONTEX.BR",
+"g": "ONTEX:EBR"
+},
+{
+"y": "ONTO",
+"g": "ONTO:US"
+},
+{
+"y": "OP-USD",
+"g": "OP-USD"
+},
+{
+"y": "OPCH",
+"g": "OPCH:US"
+},
+{
+"y": "OPLN",
+"g": "OPLN:US"
+},
+{
+"y": "OR.PA",
+"g": "OR:EPA"
+},
+{
+"y": "ORA",
+"g": "ORA:US"
+},
+{
+"y": "ORA.PA",
+"g": "ORA:EPA"
+},
+{
+"y": "ORCL",
+"g": "ORCL:US"
+},
+{
+"y": "ORG.AX",
+"g": "ORG:ASX"
+},
+{
+"y": "ORI",
+"g": "ORI:US"
+},
+{
+"y": "ORLY",
+"g": "ORLY:US"
+},
+{
+"y": "ORNBV.HE",
+"g": "ORNBV:HEL"
+},
+{
+"y": "ORSTED.CO",
+"g": "ORSTED:CPH"
+},
+{
+"y": "OSIS",
+"g": "OSIS:US"
+},
+{
+"y": "OSK",
+"g": "OSK:US"
+},
+{
+"y": "OSW",
+"g": "OSW:US"
+},
+{
+"y": "OTIS",
+"g": "OTIS:US"
+},
+{
+"y": "OTTR",
+"g": "OTTR:US"
+},
+{
+"y": "OUT",
+"g": "OUT:US"
+},
+{
+"y": "OUT1V.HE",
+"g": "OUT1V:HEL"
+},
+{
+"y": "OVV",
+"g": "OVV:US"
+},
+{
+"y": "OXY",
+"g": "OXY:US"
+},
+{
+"y": "OZK",
+"g": "OZK:US"
+},
+{
+"y": "P",
+"g": "P:US"
+},
+{
+"y": "PA=F",
+"g": "PAW00:NYMEX"
+},
+{
+"y": "PAG",
+"g": "PAG:US"
+},
+{
+"y": "PAH3.DE",
+"g": "PAH3:ETR"
+},
+{
+"y": "PAHC",
+"g": "PAHC:US"
+},
+{
+"y": "PANW",
+"g": "PANW:US"
+},
+{
+"y": "PARR",
+"g": "PARR:US"
+},
+{
+"y": "PATH",
+"g": "PATH:US"
+},
+{
+"y": "PATK",
+"g": "PATK:US"
+},
+{
+"y": "PAYC",
+"g": "PAYC:US"
+},
+{
+"y": "PAYO",
+"g": "PAYO:US"
+},
+{
+"y": "PAYX",
+"g": "PAYX:US"
+},
+{
+"y": "PB",
+"g": "PB:US"
+},
+{
+"y": "PBF",
+"g": "PBF:US"
+},
+{
+"y": "PBH",
+"g": "PBH:US"
+},
+{
+"y": "PBI",
+"g": "PBI:US"
+},
+{
+"y": "PCAR",
+"g": "PCAR:US"
+},
+{
+"y": "PCG",
+"g": "PCG:US"
+},
+{
+"y": "PCRX",
+"g": "PCRX:US"
+},
+{
+"y": "PCT.L",
+"g": "PCT:LON"
+},
+{
+"y": "PCTY",
+"g": "PCTY:US"
+},
+{
+"y": "PDFS",
+"g": "PDFS:US"
+},
+{
+"y": "PEB",
+"g": "PEB:US"
+},
+{
+"y": "PECO",
+"g": "PECO:US"
+},
+{
+"y": "PEG",
+"g": "PEG:US"
+},
+{
+"y": "PEGA",
+"g": "PEGA:US"
+},
+{
+"y": "PEN",
+"g": "PEN:US"
+},
+{
+"y": "PENG",
+"g": "PENG:US"
+},
+{
+"y": "PENN",
+"g": "PENN:US"
+},
+{
+"y": "PEP",
+"g": "PEP:US"
+},
+{
+"y": "PEPE-USD",
+"g": "PEPE-USD"
+},
+{
+"y": "PFBC",
+"g": "PFBC:US"
+},
+{
+"y": "PFE",
+"g": "PFE:US"
+},
+{
+"y": "PFG",
+"g": "PFG:US"
+},
+{
+"y": "PFGC",
+"g": "PFGC:US"
+},
+{
+"y": "PFS",
+"g": "PFS:US"
+},
+{
+"y": "PG",
+"g": "PG:US"
+},
+{
+"y": "PGHN.SW",
+"g": "PGHN:SWX"
+},
+{
+"y": "PGNY",
+"g": "PGNY:US"
+},
+{
+"y": "PGR",
+"g": "PGR:US"
+},
+{
+"y": "PH",
+"g": "PH:US"
+},
+{
+"y": "PHIA.AS",
+"g": "PHIA:AMS"
+},
+{
+"y": "PHIN",
+"g": "PHIN:US"
+},
+{
+"y": "PHM",
+"g": "PHM:US"
+},
+{
+"y": "PI",
+"g": "PI:US"
+},
+{
+"y": "PII",
+"g": "PII:US"
+},
+{
+"y": "PINS",
+"g": "PINS:US"
+},
+{
+"y": "PIPR",
+"g": "PIPR:US"
+},
+{
+"y": "PJT",
+"g": "PJT:US"
+},
+{
+"y": "PK",
+"g": "PK:US"
+},
+{
+"y": "PKG",
+"g": "PKG:US"
+},
+{
+"y": "PL=F",
+"g": "PLW00:NYMEX"
+},
+{
+"y": "PLAB",
+"g": "PLAB:US"
+},
+{
+"y": "PLD",
+"g": "PLD:US"
+},
+{
+"y": "PLMR",
+"g": "PLMR:US"
+},
+{
+"y": "PLNT",
+"g": "PLNT:US"
+},
+{
+"y": "PLTR",
+"g": "PLTR:US"
+},
+{
+"y": "PLUS",
+"g": "PLUS:US"
+},
+{
+"y": "PLXS",
+"g": "PLXS:US"
+},
+{
+"y": "PM",
+"g": "PM:US"
+},
+{
+"y": "PME.AX",
+"g": "PME:ASX"
+},
+{
+"y": "PMT",
+"g": "PMT:US"
+},
+{
+"y": "PNC",
+"g": "PNC:US"
+},
+{
+"y": "PNDORA.CO",
+"g": "PNDORA:CPH"
+},
+{
+"y": "PNFP",
+"g": "PNFP:US"
+},
+{
+"y": "PNR",
+"g": "PNR:US"
+},
+{
+"y": "PNW",
+"g": "PNW:US"
+},
+{
+"y": "PODD",
+"g": "PODD:US"
+},
+{
+"y": "POOL",
+"g": "POOL:US"
+},
+{
+"y": "POR",
+"g": "POR:US"
+},
+{
+"y": "POST",
+"g": "POST:US"
+},
+{
+"y": "POWI",
+"g": "POWI:US"
+},
+{
+"y": "POWL",
+"g": "POWL:US"
+},
+{
+"y": "PPA",
+"g": "PPA:US"
+},
+{
+"y": "PPC",
+"g": "PPC:US"
+},
+{
+"y": "PPG",
+"g": "PPG:US"
+},
+{
+"y": "PPL",
+"g": "PPL:US"
+},
+{
+"y": "PPLI",
+"g": "PPLI:US"
+},
+{
+"y": "PPLT",
+"g": "PPLT:US"
+},
+{
+"y": "PR",
+"g": "PR:US"
+},
+{
+"y": "PRDO",
+"g": "PRDO:US"
+},
+{
+"y": "PRG",
+"g": "PRG:US"
+},
+{
+"y": "PRGO",
+"g": "PRGO:US"
+},
+{
+"y": "PRGS",
+"g": "PRGS:US"
+},
+{
+"y": "PRI",
+"g": "PRI:US"
+},
+{
+"y": "PRIM",
+"g": "PRIM:US"
+},
+{
+"y": "PRK",
+"g": "PRK:US"
+},
+{
+"y": "PRKS",
+"g": "PRKS:US"
+},
+{
+"y": "PRLB",
+"g": "PRLB:US"
+},
+{
+"y": "PRSU",
+"g": "PRSU:US"
+},
+{
+"y": "PRU",
+"g": "PRU:US"
+},
+{
+"y": "PRU.L",
+"g": "PRU:LON"
+},
+{
+"y": "PRVA",
+"g": "PRVA:US"
+},
+{
+"y": "PRX.AS",
+"g": "PRX:AMS"
+},
+{
+"y": "PRY.MI",
+"g": "PRY:BIT"
+},
+{
+"y": "PSA",
+"g": "PSA:US"
+},
+{
+"y": "PSH.L",
+"g": "PSH:LON"
+},
+{
+"y": "PSMT",
+"g": "PSMT:US"
+},
+{
+"y": "PSN",
+"g": "PSN:US"
+},
+{
+"y": "PSON.L",
+"g": "PSON:LON"
+},
+{
+"y": "PST.MI",
+"g": "PST:BIT"
+},
+{
+"y": "PSX",
+"g": "PSX:US"
+},
+{
+"y": "PTC",
+"g": "PTC:US"
+},
+{
+"y": "PTCT",
+"g": "PTCT:US"
+},
+{
+"y": "PTEN",
+"g": "PTEN:US"
+},
+{
+"y": "PTGX",
+"g": "PTGX:US"
+},
+{
+"y": "PTON",
+"g": "PTON:US"
+},
+{
+"y": "PUB.PA",
+"g": "PUB:EPA"
+},
+{
+"y": "PUIG.MC",
+"g": "PUIG:BME"
+},
+{
+"y": "PUM.DE",
+"g": "PUM:ETR"
+},
+{
+"y": "PVH",
+"g": "PVH:US"
+},
+{
+"y": "PWR",
+"g": "PWR:US"
+},
+{
+"y": "PYPL",
+"g": "PYPL:US"
+},
+{
+"y": "PZZA",
+"g": "PZZA:US"
+},
+{
+"y": "Q",
+"g": "Q:US"
+},
+{
+"y": "QAN.AX",
+"g": "QAN:ASX"
+},
+{
+"y": "QBE.AX",
+"g": "QBE:ASX"
+},
+{
+"y": "QCOM",
+"g": "QCOM:US"
+},
+{
+"y": "QDEL",
+"g": "QDEL:US"
+},
+{
+"y": "QIA.DE",
+"g": "QIA:ETR"
+},
+{
+"y": "QLYS",
+"g": "QLYS:US"
+},
+{
+"y": "QNST",
+"g": "QNST:US"
+},
+{
+"y": "QQQ",
+"g": "QQQ:US"
+},
+{
+"y": "QRVO",
+"g": "QRVO:US"
+},
+{
+"y": "QTCOM.HE",
+"g": "QTCOM:HEL"
+},
+{
+"y": "QTWO",
+"g": "QTWO:US"
+},
+{
+"y": "R",
+"g": "R:US"
+},
+{
+"y": "RAA.DE",
+"g": "RAA:ETR"
+},
+{
+"y": "RACE.MI",
+"g": "RACE:BIT"
+},
+{
+"y": "RAL",
+"g": "RAL:US"
+},
+{
+"y": "RAMP",
+"g": "RAMP:US"
+},
+{
+"y": "RAND.AS",
+"g": "RAND:AMS"
+},
+{
+"y": "RB=F",
+"g": "RBW00:NYMEX"
+},
+{
+"y": "RBA",
+"g": "RBA:US"
+},
+{
+"y": "RBC",
+"g": "RBC:US"
+},
+{
+"y": "RBREW.CO",
+"g": "RBREW:CPH"
+},
+{
+"y": "RCL",
+"g": "RCL:US"
+},
+{
+"y": "RCUS",
+"g": "RCUS:US"
+},
+{
+"y": "RDC.DE",
+"g": "RDC:ETR"
+},
+{
+"y": "RDDT",
+"g": "RDDT:US"
+},
+{
+"y": "RDN",
+"g": "RDN:US"
+},
+{
+"y": "RDNT",
+"g": "RDNT:US"
+},
+{
+"y": "REA.AX",
+"g": "REA:ASX"
+},
+{
+"y": "REC.BR",
+"g": "REC:EBR"
+},
+{
+"y": "REC.MI",
+"g": "REC:BIT"
+},
+{
+"y": "RED.MC",
+"g": "RED:BME"
+},
+{
+"y": "REG",
+"g": "REG:US"
+},
+{
+"y": "REGN",
+"g": "REGN:US"
+},
+{
+"y": "REL.L",
+"g": "REL:LON"
+},
+{
+"y": "RELY",
+"g": "RELY:US"
+},
+{
+"y": "REN.AS",
+"g": "REN:AMS"
+},
+{
+"y": "REP.MC",
+"g": "REP:BME"
+},
+{
+"y": "RES",
+"g": "RES:US"
+},
+{
+"y": "REX",
+"g": "REX:US"
+},
+{
+"y": "REXR",
+"g": "REXR:US"
+},
+{
+"y": "REYN",
+"g": "REYN:US"
+},
+{
+"y": "REZI",
+"g": "REZI:US"
+},
+{
+"y": "RF",
+"g": "RF:US"
+},
+{
+"y": "RGA",
+"g": "RGA:US"
+},
+{
+"y": "RGEN",
+"g": "RGEN:US"
+},
+{
+"y": "RGLD",
+"g": "RGLD:US"
+},
+{
+"y": "RH",
+"g": "RH:US"
+},
+{
+"y": "RHI",
+"g": "RHI:US"
+},
+{
+"y": "RHM.DE",
+"g": "RHM:ETR"
+},
+{
+"y": "RHP",
+"g": "RHP:US"
+},
+{
+"y": "RI.PA",
+"g": "RI:EPA"
+},
+{
+"y": "RIO.AX",
+"g": "RIO:ASX"
+},
+{
+"y": "RIO.L",
+"g": "RIO:LON"
+},
+{
+"y": "RITM",
+"g": "RITM:US"
+},
+{
+"y": "RJF",
+"g": "RJF:US"
+},
+{
+"y": "RKT.L",
+"g": "RKT:LON"
+},
+{
+"y": "RL",
+"g": "RL:US"
+},
+{
+"y": "RLI",
+"g": "RLI:US"
+},
+{
+"y": "RMBS",
+"g": "RMBS:US"
+},
+{
+"y": "RMD",
+"g": "RMD:US"
+},
+{
+"y": "RMD.AX",
+"g": "RMD:ASX"
+},
+{
+"y": "RMS.PA",
+"g": "RMS:EPA"
+},
+{
+"y": "RNDR-USD",
+"g": "RNDR-USD"
+},
+{
+"y": "RNG",
+"g": "RNG:US"
+},
+{
+"y": "RNO.PA",
+"g": "RNO:EPA"
+},
+{
+"y": "RNR",
+"g": "RNR:US"
+},
+{
+"y": "RNST",
+"g": "RNST:US"
+},
+{
+"y": "ROAD",
+"g": "ROAD:US"
+},
+{
+"y": "ROCK",
+"g": "ROCK:US"
+},
+{
+"y": "ROG",
+"g": "ROG:US"
+},
+{
+"y": "ROIV",
+"g": "ROIV:US"
+},
+{
+"y": "ROK",
+"g": "ROK:US"
+},
+{
+"y": "ROKU",
+"g": "ROKU:US"
+},
+{
+"y": "ROL",
+"g": "ROL:US"
+},
+{
+"y": "ROP",
+"g": "ROP:US"
+},
+{
+"y": "ROP.SW",
+"g": "ROP:SWX"
+},
+{
+"y": "ROST",
+"g": "ROST:US"
+},
+{
+"y": "ROVI.MC",
+"g": "ROVI:BME"
+},
+{
+"y": "RPM",
+"g": "RPM:US"
+},
+{
+"y": "RR.L",
+"g": "RR:LON"
+},
+{
+"y": "RRC",
+"g": "RRC:US"
+},
+{
+"y": "RRR",
+"g": "RRR:US"
+},
+{
+"y": "RRTL.DE",
+"g": "RRTL:ETR"
+},
+{
+"y": "RRX",
+"g": "RRX:US"
+},
+{
+"y": "RS",
+"g": "RS:US"
+},
+{
+"y": "RSG",
+"g": "RSG:US"
+},
+{
+"y": "RSI",
+"g": "RSI:US"
+},
+{
+"y": "RTO.L",
+"g": "RTO:LON"
+},
+{
+"y": "RTX",
+"g": "RTX:US"
+},
+{
+"y": "RUN",
+"g": "RUN:US"
+},
+{
+"y": "RUSHA",
+"g": "RUSHA:US"
+},
+{
+"y": "RVTY",
+"g": "RVTY:US"
+},
+{
+"y": "RWE.DE",
+"g": "RWE:ETR"
+},
+{
+"y": "RXO",
+"g": "RXO:US"
+},
+{
+"y": "RYAN",
+"g": "RYAN:US"
+},
+{
+"y": "RYN",
+"g": "RYN:US"
+},
+{
+"y": "S32.AX",
+"g": "S32:ASX"
+},
+{
+"y": "SAAB-B.ST",
+"g": "SAAB-B:STO"
+},
+{
+"y": "SAB.MC",
+"g": "SAB:BME"
+},
+{
+"y": "SABR",
+"g": "SABR:US"
+},
+{
+"y": "SAF.PA",
+"g": "SAF:EPA"
+},
+{
+"y": "SAFE",
+"g": "SAFE:US"
+},
+{
+"y": "SAFT",
+"g": "SAFT:US"
+},
+{
+"y": "SAH",
+"g": "SAH:US"
+},
+{
+"y": "SAIA",
+"g": "SAIA:US"
+},
+{
+"y": "SAIC",
+"g": "SAIC:US"
+},
+{
+"y": "SAMPO.HE",
+"g": "SAMPO:HEL"
+},
+{
+"y": "SAN.MC",
+"g": "SAN:BME"
+},
+{
+"y": "SAN.PA",
+"g": "SAN:EPA"
+},
+{
+"y": "SAND.ST",
+"g": "SAND:STO"
+},
+{
+"y": "SANM",
+"g": "SANM:US"
+},
+{
+"y": "SAP.DE",
+"g": "SAP:ETR"
+},
+{
+"y": "SARO",
+"g": "SARO:US"
+},
+{
+"y": "SAX.DE",
+"g": "SAX:ETR"
+},
+{
+"y": "SB=F",
+"g": "SBW00:NYBOT"
+},
+{
+"y": "SBAC",
+"g": "SBAC:US"
+},
+{
+"y": "SBCF",
+"g": "SBCF:US"
+},
+{
+"y": "SBH",
+"g": "SBH:US"
+},
+{
+"y": "SBRA",
+"g": "SBRA:US"
+},
+{
+"y": "SBRY.L",
+"g": "SBRY:LON"
+},
+{
+"y": "SBSI",
+"g": "SBSI:US"
+},
+{
+"y": "SBUX",
+"g": "SBUX:US"
+},
+{
+"y": "SCA-B.ST",
+"g": "SCA-B:STO"
+},
+{
+"y": "SCG.AX",
+"g": "SCG:ASX"
+},
+{
+"y": "SCHD",
+"g": "SCHD:US"
+},
+{
+"y": "SCHL",
+"g": "SCHL:US"
+},
+{
+"y": "SCHW",
+"g": "SCHW:US"
+},
+{
+"y": "SCI",
+"g": "SCI:US"
+},
+{
+"y": "SCL",
+"g": "SCL:US"
+},
+{
+"y": "SCSC",
+"g": "SCSC:US"
+},
+{
+"y": "SCYR.MC",
+"g": "SCYR:BME"
+},
+{
+"y": "SDF.DE",
+"g": "SDF:ETR"
+},
+{
+"y": "SDGR",
+"g": "SDGR:US"
+},
+{
+"y": "SDLF.L",
+"g": "SDLF:LON"
+},
+{
+"y": "SDZ.SW",
+"g": "SDZ:SWX"
+},
+{
+"y": "SEB-A.ST",
+"g": "SEB-A:STO"
+},
+{
+"y": "SEDG",
+"g": "SEDG:US"
+},
+{
+"y": "SEI",
+"g": "SEI:US"
+},
+{
+"y": "SEIC",
+"g": "SEIC:US"
+},
+{
+"y": "SEZL",
+"g": "SEZL:US"
+},
+{
+"y": "SF",
+"g": "SF:US"
+},
+{
+"y": "SFBS",
+"g": "SFBS:US"
+},
+{
+"y": "SFM",
+"g": "SFM:US"
+},
+{
+"y": "SFNC",
+"g": "SFNC:US"
+},
+{
+"y": "SGE.L",
+"g": "SGE:LON"
+},
+{
+"y": "SGH.AX",
+"g": "SGH:ASX"
+},
+{
+"y": "SGI",
+"g": "SGI:US"
+},
+{
+"y": "SGO.PA",
+"g": "SGO:EPA"
+},
+{
+"y": "SGP.AX",
+"g": "SGP:ASX"
+},
+{
+"y": "SGRO.L",
+"g": "SGRO:LON"
+},
+{
+"y": "SHAK",
+"g": "SHAK:US"
+},
+{
+"y": "SHB-A.ST",
+"g": "SHB-A:STO"
+},
+{
+"y": "SHC",
+"g": "SHC:US"
+},
+{
+"y": "SHEL.L",
+"g": "SHEL:LON"
+},
+{
+"y": "SHELL.AS",
+"g": "SHELL:AMS"
+},
+{
+"y": "SHEN",
+"g": "SHEN:US"
+},
+{
+"y": "SHIB-USD",
+"g": "SHIB-USD"
+},
+{
+"y": "SHL.DE",
+"g": "SHL:ETR"
+},
+{
+"y": "SHO",
+"g": "SHO:US"
+},
+{
+"y": "SHOO",
+"g": "SHOO:US"
+},
+{
+"y": "SHW",
+"g": "SHW:US"
+},
+{
+"y": "SHY",
+"g": "SHY:US"
+},
+{
+"y": "SI=F",
+"g": "SIW00:COMEX"
+},
+{
+"y": "SIE.DE",
+"g": "SIE:ETR"
+},
+{
+"y": "SIG",
+"g": "SIG:US"
+},
+{
+"y": "SIG.AX",
+"g": "SIG:ASX"
+},
+{
+"y": "SIGI",
+"g": "SIGI:US"
+},
+{
+"y": "SIKA.SW",
+"g": "SIKA:SWX"
+},
+{
+"y": "SIL",
+"g": "SIL:US"
+},
+{
+"y": "SIRI",
+"g": "SIRI:US"
+},
+{
+"y": "SITM",
+"g": "SITM:US"
+},
+{
+"y": "SJM",
+"g": "SJM:US"
+},
+{
+"y": "SKA-B.ST",
+"g": "SKA-B:STO"
+},
+{
+"y": "SKF-B.ST",
+"g": "SKF-B:STO"
+},
+{
+"y": "SKT",
+"g": "SKT:US"
+},
+{
+"y": "SKY",
+"g": "SKY:US"
+},
+{
+"y": "SKYD",
+"g": "SKYD:US"
+},
+{
+"y": "SKYW",
+"g": "SKYW:US"
+},
+{
+"y": "SLAB",
+"g": "SLAB:US"
+},
+{
+"y": "SLB",
+"g": "SLB:US"
+},
+{
+"y": "SLG",
+"g": "SLG:US"
+},
+{
+"y": "SLGN",
+"g": "SLGN:US"
+},
+{
+"y": "SLHN.SW",
+"g": "SLHN:SWX"
+},
+{
+"y": "SLM",
+"g": "SLM:US"
+},
+{
+"y": "SLR.MC",
+"g": "SLR:BME"
+},
+{
+"y": "SLV",
+"g": "SLV:US"
+},
+{
+"y": "SLVM",
+"g": "SLVM:US"
+},
+{
+"y": "SM",
+"g": "SM:US"
+},
+{
+"y": "SMCI",
+"g": "SMCI:US"
+},
+{
+"y": "SMG",
+"g": "SMG:US"
+},
+{
+"y": "SMH",
+"g": "SMH:US"
+},
+{
+"y": "SMIN.L",
+"g": "SMIN:LON"
+},
+{
+"y": "SMP",
+"g": "SMP:US"
+},
+{
+"y": "SMPL",
+"g": "SMPL:US"
+},
+{
+"y": "SMT.L",
+"g": "SMT:LON"
+},
+{
+"y": "SMTC",
+"g": "SMTC:US"
+},
+{
+"y": "SN",
+"g": "SN:US"
+},
+{
+"y": "SN.L",
+"g": "SN:LON"
+},
+{
+"y": "SNA",
+"g": "SNA:US"
+},
+{
+"y": "SNDK",
+"g": "SNDK:US"
+},
+{
+"y": "SNDR",
+"g": "SNDR:US"
+},
+{
+"y": "SNEX",
+"g": "SNEX:US"
+},
+{
+"y": "SNPS",
+"g": "SNPS:US"
+},
+{
+"y": "SNX",
+"g": "SNX:US"
+},
+{
+"y": "SO",
+"g": "SO:US"
+},
+{
+"y": "SOL-USD",
+"g": "SOL-USD"
+},
+{
+"y": "SOL.AX",
+"g": "SOL:ASX"
+},
+{
+"y": "SOLS",
+"g": "SOLS:US"
+},
+{
+"y": "SOLV",
+"g": "SOLV:US"
+},
+{
+"y": "SON",
+"g": "SON:US"
+},
+{
+"y": "SONO",
+"g": "SONO:US"
+},
+{
+"y": "SOXL",
+"g": "SOXL:US"
+},
+{
+"y": "SOXX",
+"g": "SOXX:US"
+},
+{
+"y": "SPG",
+"g": "SPG:US"
+},
+{
+"y": "SPGI",
+"g": "SPGI:US"
+},
+{
+"y": "SPHR",
+"g": "SPHR:US"
+},
+{
+"y": "SPM.MI",
+"g": "SPM:BIT"
+},
+{
+"y": "SPNT",
+"g": "SPNT:US"
+},
+{
+"y": "SPSC",
+"g": "SPSC:US"
+},
+{
+"y": "SPX.L",
+"g": "SPX:LON"
+},
+{
+"y": "SPXC",
+"g": "SPXC:US"
+},
+{
+"y": "SPY",
+"g": "SPY:US"
+},
+{
+"y": "SQQQ",
+"g": "SQQQ:US"
+},
+{
+"y": "SR",
+"g": "SR:US"
+},
+{
+"y": "SRE",
+"g": "SRE:US"
+},
+{
+"y": "SREN.SW",
+"g": "SREN:SWX"
+},
+{
+"y": "SRG.MI",
+"g": "SRG:BIT"
+},
+{
+"y": "SRPT",
+"g": "SRPT:US"
+},
+{
+"y": "SSB",
+"g": "SSB:US"
+},
+{
+"y": "SSD",
+"g": "SSD:US"
+},
+{
+"y": "SSE.L",
+"g": "SSE:LON"
+},
+{
+"y": "ST",
+"g": "ST:US"
+},
+{
+"y": "STAA",
+"g": "STAA:US"
+},
+{
+"y": "STAG",
+"g": "STAG:US"
+},
+{
+"y": "STAN.L",
+"g": "STAN:LON"
+},
+{
+"y": "STBA",
+"g": "STBA:US"
+},
+{
+"y": "STC",
+"g": "STC:US"
+},
+{
+"y": "STE",
+"g": "STE:US"
+},
+{
+"y": "STEP",
+"g": "STEP:US"
+},
+{
+"y": "STERV.HE",
+"g": "STERV:HEL"
+},
+{
+"y": "STJ.L",
+"g": "STJ:LON"
+},
+{
+"y": "STLAM.MI",
+"g": "STLAM:BIT"
+},
+{
+"y": "STLAP.PA",
+"g": "STLAP:EPA"
+},
+{
+"y": "STLD",
+"g": "STLD:US"
+},
+{
+"y": "STM.DE",
+"g": "STM:ETR"
+},
+{
+"y": "STMMI.MI",
+"g": "STMMI:BIT"
+},
+{
+"y": "STMPA.PA",
+"g": "STMPA:EPA"
+},
+{
+"y": "STO.AX",
+"g": "STO:ASX"
+},
+{
+"y": "STRA",
+"g": "STRA:US"
+},
+{
+"y": "STRL",
+"g": "STRL:US"
+},
+{
+"y": "STT",
+"g": "STT:US"
+},
+{
+"y": "STWD",
+"g": "STWD:US"
+},
+{
+"y": "STX",
+"g": "STX:US"
+},
+{
+"y": "STZ",
+"g": "STZ:US"
+},
+{
+"y": "SU.PA",
+"g": "SU:EPA"
+},
+{
+"y": "SUI",
+"g": "SUI:US"
+},
+{
+"y": "SUI-USD",
+"g": "SUI-USD"
+},
+{
+"y": "SUN.AX",
+"g": "SUN:ASX"
+},
+{
+"y": "SUPN",
+"g": "SUPN:US"
+},
+{
+"y": "SVT.L",
+"g": "SVT:LON"
+},
+{
+"y": "SW",
+"g": "SW:US"
+},
+{
+"y": "SWED-A.ST",
+"g": "SWED-A:STO"
+},
+{
+"y": "SWK",
+"g": "SWK:US"
+},
+{
+"y": "SWKS",
+"g": "SWKS:US"
+},
+{
+"y": "SWX",
+"g": "SWX:US"
+},
+{
+"y": "SXI",
+"g": "SXI:US"
+},
+{
+"y": "SXT",
+"g": "SXT:US"
+},
+{
+"y": "SY1.DE",
+"g": "SY1:ETR"
+},
+{
+"y": "SYF",
+"g": "SYF:US"
+},
+{
+"y": "SYK",
+"g": "SYK:US"
+},
+{
+"y": "SYNA",
+"g": "SYNA:US"
+},
+{
+"y": "SYY",
+"g": "SYY:US"
+},
+{
+"y": "T",
+"g": "T:US"
+},
+{
+"y": "TALO",
+"g": "TALO:US"
+},
+{
+"y": "TAN",
+"g": "TAN:US"
+},
+{
+"y": "TBBK",
+"g": "TBBK:US"
+},
+{
+"y": "TCBI",
+"g": "TCBI:US"
+},
+{
+"y": "TCL.AX",
+"g": "TCL:ASX"
+},
+{
+"y": "TDC",
+"g": "TDC:US"
+},
+{
+"y": "TDG",
+"g": "TDG:US"
+},
+{
+"y": "TDS",
+"g": "TDS:US"
+},
+{
+"y": "TDW",
+"g": "TDW:US"
+},
+{
+"y": "TDY",
+"g": "TDY:US"
+},
+{
+"y": "TECH",
+"g": "TECH:US"
+},
+{
+"y": "TEF.MC",
+"g": "TEF:BME"
+},
+{
+"y": "TEG.DE",
+"g": "TEG:ETR"
+},
+{
+"y": "TEL",
+"g": "TEL:US"
+},
+{
+"y": "TEL2-B.ST",
+"g": "TEL2-B:STO"
+},
+{
+"y": "TELIA.ST",
+"g": "TELIA:STO"
+},
+{
+"y": "TEN.MI",
+"g": "TEN:BIT"
+},
+{
+"y": "TER",
+"g": "TER:US"
+},
+{
+"y": "TESB.BR",
+"g": "TESB:EBR"
+},
+{
+"y": "TEX",
+"g": "TEX:US"
+},
+{
+"y": "TFC",
+"g": "TFC:US"
+},
+{
+"y": "TFIN",
+"g": "TFIN:US"
+},
+{
+"y": "TFX",
+"g": "TFX:US"
+},
+{
+"y": "TGT",
+"g": "TGT:US"
+},
+{
+"y": "TGTX",
+"g": "TGTX:US"
+},
+{
+"y": "THC",
+"g": "THC:US"
+},
+{
+"y": "THG",
+"g": "THG:US"
+},
+{
+"y": "THO",
+"g": "THO:US"
+},
+{
+"y": "THR.BR",
+"g": "THR:EBR"
+},
+{
+"y": "THRM",
+"g": "THRM:US"
+},
+{
+"y": "TIETO.HE",
+"g": "TIETO:HEL"
+},
+{
+"y": "TILE",
+"g": "TILE:US"
+},
+{
+"y": "TIT.MI",
+"g": "TIT:BIT"
+},
+{
+"y": "TJX",
+"g": "TJX:US"
+},
+{
+"y": "TKA.DE",
+"g": "TKA:ETR"
+},
+{
+"y": "TKO",
+"g": "TKO:US"
+},
+{
+"y": "TKR",
+"g": "TKR:US"
+},
+{
+"y": "TLN",
+"g": "TLN:US"
+},
+{
+"y": "TLS.AX",
+"g": "TLS:ASX"
+},
+{
+"y": "TLT",
+"g": "TLT:US"
+},
+{
+"y": "TLX.DE",
+"g": "TLX:ETR"
+},
+{
+"y": "TMDX",
+"g": "TMDX:US"
+},
+{
+"y": "TMO",
+"g": "TMO:US"
+},
+{
+"y": "TMP",
+"g": "TMP:US"
+},
+{
+"y": "TMUS",
+"g": "TMUS:US"
+},
+{
+"y": "TMV.DE",
+"g": "TMV:ETR"
+},
+{
+"y": "TNC",
+"g": "TNC:US"
+},
+{
+"y": "TNDM",
+"g": "TNDM:US"
+},
+{
+"y": "TNL",
+"g": "TNL:US"
+},
+{
+"y": "TOL",
+"g": "TOL:US"
+},
+{
+"y": "TON-USD",
+"g": "TON-USD"
+},
+{
+"y": "TOST",
+"g": "TOST:US"
+},
+{
+"y": "TPC",
+"g": "TPC:US"
+},
+{
+"y": "TPL",
+"g": "TPL:US"
+},
+{
+"y": "TPR",
+"g": "TPR:US"
+},
+{
+"y": "TPRO.MI",
+"g": "TPRO:BIT"
+},
+{
+"y": "TQQQ",
+"g": "TQQQ:US"
+},
+{
+"y": "TR",
+"g": "TR:US"
+},
+{
+"y": "TREX",
+"g": "TREX:US"
+},
+{
+"y": "TRGP",
+"g": "TRGP:US"
+},
+{
+"y": "TRIP",
+"g": "TRIP:US"
+},
+{
+"y": "TRMB",
+"g": "TRMB:US"
+},
+{
+"y": "TRMK",
+"g": "TRMK:US"
+},
+{
+"y": "TRN",
+"g": "TRN:US"
+},
+{
+"y": "TRN.MI",
+"g": "TRN:BIT"
+},
+{
+"y": "TRNO",
+"g": "TRNO:US"
+},
+{
+"y": "TROW",
+"g": "TROW:US"
+},
+{
+"y": "TRST",
+"g": "TRST:US"
+},
+{
+"y": "TRU",
+"g": "TRU:US"
+},
+{
+"y": "TRUP",
+"g": "TRUP:US"
+},
+{
+"y": "TRV",
+"g": "TRV:US"
+},
+{
+"y": "TRX-USD",
+"g": "TRX-USD"
+},
+{
+"y": "TRYG.CO",
+"g": "TRYG:CPH"
+},
+{
+"y": "TSCO",
+"g": "TSCO:US"
+},
+{
+"y": "TSCO.L",
+"g": "TSCO:LON"
+},
+{
+"y": "TSLA",
+"g": "TSLA:US"
+},
+{
+"y": "TSN",
+"g": "TSN:US"
+},
+{
+"y": "TT",
+"g": "TT:US"
+},
+{
+"y": "TTC",
+"g": "TTC:US"
+},
+{
+"y": "TTE.PA",
+"g": "TTE:EPA"
+},
+{
+"y": "TTEK",
+"g": "TTEK:US"
+},
+{
+"y": "TTMI",
+"g": "TTMI:US"
+},
+{
+"y": "TTWO",
+"g": "TTWO:US"
+},
+{
+"y": "TUI1.DE",
+"g": "TUI1:ETR"
+},
+{
+"y": "TWLO",
+"g": "TWLO:US"
+},
+{
+"y": "TXN",
+"g": "TXN:US"
+},
+{
+"y": "TXNM",
+"g": "TXNM:US"
+},
+{
+"y": "TXRH",
+"g": "TXRH:US"
+},
+{
+"y": "TXT",
+"g": "TXT:US"
+},
+{
+"y": "TYL",
+"g": "TYL:US"
+},
+{
+"y": "TYRES.HE",
+"g": "TYRES:HEL"
+},
+{
+"y": "UA",
+"g": "UA:US"
+},
+{
+"y": "UAA",
+"g": "UAA:US"
+},
+{
+"y": "UAL",
+"g": "UAL:US"
+},
+{
+"y": "UBER",
+"g": "UBER:US"
+},
+{
+"y": "UBSG.SW",
+"g": "UBSG:SWX"
+},
+{
+"y": "UBSI",
+"g": "UBSI:US"
+},
+{
+"y": "UCB",
+"g": "UCB:US"
+},
+{
+"y": "UCG.MI",
+"g": "UCG:BIT"
+},
+{
+"y": "UCTT",
+"g": "UCTT:US"
+},
+{
+"y": "UDR",
+"g": "UDR:US"
+},
+{
+"y": "UE",
+"g": "UE:US"
+},
+{
+"y": "UFCS",
+"g": "UFCS:US"
+},
+{
+"y": "UFPI",
+"g": "UFPI:US"
+},
+{
+"y": "UFPT",
+"g": "UFPT:US"
+},
+{
+"y": "UGI",
+"g": "UGI:US"
+},
+{
+"y": "UHS",
+"g": "UHS:US"
+},
+{
+"y": "ULS",
+"g": "ULS:US"
+},
+{
+"y": "ULTA",
+"g": "ULTA:US"
+},
+{
+"y": "ULVR.L",
+"g": "ULVR:LON"
+},
+{
+"y": "UMBF",
+"g": "UMBF:US"
+},
+{
+"y": "UMG.AS",
+"g": "UMG:AMS"
+},
+{
+"y": "UNA.AS",
+"g": "UNA:AMS"
+},
+{
+"y": "UNF",
+"g": "UNF:US"
+},
+{
+"y": "UNFI",
+"g": "UNFI:US"
+},
+{
+"y": "UNG",
+"g": "UNG:US"
+},
+{
+"y": "UNH",
+"g": "UNH:US"
+},
+{
+"y": "UNI-USD",
+"g": "UNI-USD"
+},
+{
+"y": "UNI.MC",
+"g": "UNI:BME"
+},
+{
+"y": "UNI.MI",
+"g": "UNI:BIT"
+},
+{
+"y": "UNIT",
+"g": "UNIT:US"
+},
+{
+"y": "UNM",
+"g": "UNM:US"
+},
+{
+"y": "UNP",
+"g": "UNP:US"
+},
+{
+"y": "UPBD",
+"g": "UPBD:US"
+},
+{
+"y": "UPM.HE",
+"g": "UPM:HEL"
+},
+{
+"y": "UPS",
+"g": "UPS:US"
+},
+{
+"y": "UPWK",
+"g": "UPWK:US"
+},
+{
+"y": "URA",
+"g": "URA:US"
+},
+{
+"y": "URBN",
+"g": "URBN:US"
+},
+{
+"y": "URI",
+"g": "URI:US"
+},
+{
+"y": "URW.PA",
+"g": "URW:EPA"
+},
+{
+"y": "USB",
+"g": "USB:US"
+},
+{
+"y": "USFD",
+"g": "USFD:US"
+},
+{
+"y": "USLM",
+"g": "USLM:US"
+},
+{
+"y": "USO",
+"g": "USO:US"
+},
+{
+"y": "USPH",
+"g": "USPH:US"
+},
+{
+"y": "UTDI.DE",
+"g": "UTDI:ETR"
+},
+{
+"y": "UTHR",
+"g": "UTHR:US"
+},
+{
+"y": "UTI",
+"g": "UTI:US"
+},
+{
+"y": "UTL",
+"g": "UTL:US"
+},
+{
+"y": "UU.L",
+"g": "UU:LON"
+},
+{
+"y": "UVV",
+"g": "UVV:US"
+},
+{
+"y": "UVXY",
+"g": "UVXY:US"
+},
+{
+"y": "V",
+"g": "V:US"
+},
+{
+"y": "VAC",
+"g": "VAC:US"
+},
+{
+"y": "VAL",
+"g": "VAL:US"
+},
+{
+"y": "VALMT.HE",
+"g": "VALMT:HEL"
+},
+{
+"y": "VAS.AX",
+"g": "VAS:ASX"
+},
+{
+"y": "VC",
+"g": "VC:US"
+},
+{
+"y": "VCEL",
+"g": "VCEL:US"
+},
+{
+"y": "VCTR",
+"g": "VCTR:US"
+},
+{
+"y": "VCYT",
+"g": "VCYT:US"
+},
+{
+"y": "VEA",
+"g": "VEA:US"
+},
+{
+"y": "VECO",
+"g": "VECO:US"
+},
+{
+"y": "VEEV",
+"g": "VEEV:US"
+},
+{
+"y": "VET-USD",
+"g": "VET-USD"
+},
+{
+"y": "VFC",
+"g": "VFC:US"
+},
+{
+"y": "VGK",
+"g": "VGK:US"
+},
+{
+"y": "VGNT",
+"g": "VGNT:US"
+},
+{
+"y": "VIAV",
+"g": "VIAV:US"
+},
+{
+"y": "VICI",
+"g": "VICI:US"
+},
+{
+"y": "VICR",
+"g": "VICR:US"
+},
+{
+"y": "VIE.PA",
+"g": "VIE:EPA"
+},
+{
+"y": "VIR",
+"g": "VIR:US"
+},
+{
+"y": "VIRT",
+"g": "VIRT:US"
+},
+{
+"y": "VLO",
+"g": "VLO:US"
+},
+{
+"y": "VLTO",
+"g": "VLTO:US"
+},
+{
+"y": "VLY",
+"g": "VLY:US"
+},
+{
+"y": "VMC",
+"g": "VMC:US"
+},
+{
+"y": "VMI",
+"g": "VMI:US"
+},
+{
+"y": "VMRK",
+"g": "VMRK:US"
+},
+{
+"y": "VNA.DE",
+"g": "VNA:ETR"
+},
+{
+"y": "VNO",
+"g": "VNO:US"
+},
+{
+"y": "VNOM",
+"g": "VNOM:US"
+},
+{
+"y": "VNQ",
+"g": "VNQ:US"
+},
+{
+"y": "VNT",
+"g": "VNT:US"
+},
+{
+"y": "VOD.L",
+"g": "VOD:LON"
+},
+{
+"y": "VOLV-B.ST",
+"g": "VOLV-B:STO"
+},
+{
+"y": "VOO",
+"g": "VOO:US"
+},
+{
+"y": "VOW3.DE",
+"g": "VOW3:ETR"
+},
+{
+"y": "VOYA",
+"g": "VOYA:US"
+},
+{
+"y": "VRRM",
+"g": "VRRM:US"
+},
+{
+"y": "VRSK",
+"g": "VRSK:US"
+},
+{
+"y": "VRSN",
+"g": "VRSN:US"
+},
+{
+"y": "VRT",
+"g": "VRT:US"
+},
+{
+"y": "VRTS",
+"g": "VRTS:US"
+},
+{
+"y": "VRTX",
+"g": "VRTX:US"
+},
+{
+"y": "VSAT",
+"g": "VSAT:US"
+},
+{
+"y": "VSEC",
+"g": "VSEC:US"
+},
+{
+"y": "VSH",
+"g": "VSH:US"
+},
+{
+"y": "VSNT",
+"g": "VSNT:US"
+},
+{
+"y": "VST",
+"g": "VST:US"
+},
+{
+"y": "VSTS",
+"g": "VSTS:US"
+},
+{
+"y": "VSXY",
+"g": "VSXY:US"
+},
+{
+"y": "VTI",
+"g": "VTI:US"
+},
+{
+"y": "VTOL",
+"g": "VTOL:US"
+},
+{
+"y": "VTR",
+"g": "VTR:US"
+},
+{
+"y": "VTRS",
+"g": "VTRS:US"
+},
+{
+"y": "VVV",
+"g": "VVV:US"
+},
+{
+"y": "VVX",
+"g": "VVX:US"
+},
+{
+"y": "VWO",
+"g": "VWO:US"
+},
+{
+"y": "VWS.CO",
+"g": "VWS:CPH"
+},
+{
+"y": "VXX",
+"g": "VXX:US"
+},
+{
+"y": "VYLR",
+"g": "VYLR:US"
+},
+{
+"y": "VYX",
+"g": "VYX:US"
+},
+{
+"y": "VZ",
+"g": "VZ:US"
+},
+{
+"y": "WAB",
+"g": "WAB:US"
+},
+{
+"y": "WABC",
+"g": "WABC:US"
+},
+{
+"y": "WAF.DE",
+"g": "WAF:ETR"
+},
+{
+"y": "WAFD",
+"g": "WAFD:US"
+},
+{
+"y": "WAL",
+"g": "WAL:US"
+},
+{
+"y": "WAT",
+"g": "WAT:US"
+},
+{
+"y": "WAY",
+"g": "WAY:US"
+},
+{
+"y": "WBC.AX",
+"g": "WBC:ASX"
+},
+{
+"y": "WCC",
+"g": "WCC:US"
+},
+{
+"y": "WCH.DE",
+"g": "WCH:ETR"
+},
+{
+"y": "WD",
+"g": "WD:US"
+},
+{
+"y": "WDAY",
+"g": "WDAY:US"
+},
+{
+"y": "WDC",
+"g": "WDC:US"
+},
+{
+"y": "WDFC",
+"g": "WDFC:US"
+},
+{
+"y": "WDS.AX",
+"g": "WDS:ASX"
+},
+{
+"y": "WEC",
+"g": "WEC:US"
+},
+{
+"y": "WEIR.L",
+"g": "WEIR:LON"
+},
+{
+"y": "WELL",
+"g": "WELL:US"
+},
+{
+"y": "WEN",
+"g": "WEN:US"
+},
+{
+"y": "WERN",
+"g": "WERN:US"
+},
+{
+"y": "WES.AX",
+"g": "WES:ASX"
+},
+{
+"y": "WEX",
+"g": "WEX:US"
+},
+{
+"y": "WFC",
+"g": "WFC:US"
+},
+{
+"y": "WFRD",
+"g": "WFRD:US"
+},
+{
+"y": "WGO",
+"g": "WGO:US"
+},
+{
+"y": "WH",
+"g": "WH:US"
+},
+{
+"y": "WHD",
+"g": "WHD:US"
+},
+{
+"y": "WHR",
+"g": "WHR:US"
+},
+{
+"y": "WINA",
+"g": "WINA:US"
+},
+{
+"y": "WING",
+"g": "WING:US"
+},
+{
+"y": "WKC",
+"g": "WKC:US"
+},
+{
+"y": "WKL.AS",
+"g": "WKL:AMS"
+},
+{
+"y": "WLK",
+"g": "WLK:US"
+},
+{
+"y": "WLY",
+"g": "WLY:US"
+},
+{
+"y": "WM",
+"g": "WM:US"
+},
+{
+"y": "WMB",
+"g": "WMB:US"
+},
+{
+"y": "WMG",
+"g": "WMG:US"
+},
+{
+"y": "WMS",
+"g": "WMS:US"
+},
+{
+"y": "WMT",
+"g": "WMT:US"
+},
+{
+"y": "WOR",
+"g": "WOR:US"
+},
+{
+"y": "WOW.AX",
+"g": "WOW:ASX"
+},
+{
+"y": "WPC",
+"g": "WPC:US"
+},
+{
+"y": "WPP.L",
+"g": "WPP:LON"
+},
+{
+"y": "WRB",
+"g": "WRB:US"
+},
+{
+"y": "WRBY",
+"g": "WRBY:US"
+},
+{
+"y": "WRLD",
+"g": "WRLD:US"
+},
+{
+"y": "WRT1V.HE",
+"g": "WRT1V:HEL"
+},
+{
+"y": "WS",
+"g": "WS:US"
+},
+{
+"y": "WSBC",
+"g": "WSBC:US"
+},
+{
+"y": "WSC",
+"g": "WSC:US"
+},
+{
+"y": "WSFS",
+"g": "WSFS:US"
+},
+{
+"y": "WSM",
+"g": "WSM:US"
+},
+{
+"y": "WSO",
+"g": "WSO:US"
+},
+{
+"y": "WST",
+"g": "WST:US"
+},
+{
+"y": "WT",
+"g": "WT:US"
+},
+{
+"y": "WTB.L",
+"g": "WTB:LON"
+},
+{
+"y": "WTFC",
+"g": "WTFC:US"
+},
+{
+"y": "WTRG",
+"g": "WTRG:US"
+},
+{
+"y": "WTS",
+"g": "WTS:US"
+},
+{
+"y": "WTW",
+"g": "WTW:US"
+},
+{
+"y": "WU",
+"g": "WU:US"
+},
+{
+"y": "WWD",
+"g": "WWD:US"
+},
+{
+"y": "WWW",
+"g": "WWW:US"
+},
+{
+"y": "WY",
+"g": "WY:US"
+},
+{
+"y": "WYNN",
+"g": "WYNN:US"
+},
+{
+"y": "XBI",
+"g": "XBI:US"
+},
+{
+"y": "XEL",
+"g": "XEL:US"
+},
+{
+"y": "XHR",
+"g": "XHR:US"
+},
+{
+"y": "XLB",
+"g": "XLB:US"
+},
+{
+"y": "XLC",
+"g": "XLC:US"
+},
+{
+"y": "XLE",
+"g": "XLE:US"
+},
+{
+"y": "XLF",
+"g": "XLF:US"
+},
+{
+"y": "XLI",
+"g": "XLI:US"
+},
+{
+"y": "XLK",
+"g": "XLK:US"
+},
+{
+"y": "XLM-USD",
+"g": "XLM-USD"
+},
+{
+"y": "XLP",
+"g": "XLP:US"
+},
+{
+"y": "XLRE",
+"g": "XLRE:US"
+},
+{
+"y": "XLU",
+"g": "XLU:US"
+},
+{
+"y": "XLV",
+"g": "XLV:US"
+},
+{
+"y": "XLY",
+"g": "XLY:US"
+},
+{
+"y": "XMR-USD",
+"g": "XMR-USD"
+},
+{
+"y": "XNCR",
+"g": "XNCR:US"
+},
+{
+"y": "XOM",
+"g": "XOM:US"
+},
+{
+"y": "XPEL",
+"g": "XPEL:US"
+},
+{
+"y": "XPO",
+"g": "XPO:US"
+},
+{
+"y": "XRAY",
+"g": "XRAY:US"
+},
+{
+"y": "XRO.AX",
+"g": "XRO:ASX"
+},
+{
+"y": "XRP-USD",
+"g": "XRP-USD"
+},
+{
+"y": "XYL",
+"g": "XYL:US"
+},
+{
+"y": "XYZ",
+"g": "XYZ:US"
+},
+{
+"y": "XYZ.AX",
+"g": "XYZ:ASX"
+},
+{
+"y": "YELP",
+"g": "YELP:US"
+},
+{
+"y": "YETI",
+"g": "YETI:US"
+},
+{
+"y": "YOU",
+"g": "YOU:US"
+},
+{
+"y": "YUM",
+"g": "YUM:US"
+},
+{
+"y": "ZAL.DE",
+"g": "ZAL:ETR"
+},
+{
+"y": "ZBH",
+"g": "ZBH:US"
+},
+{
+"y": "ZBRA",
+"g": "ZBRA:US"
+},
+{
+"y": "ZC=F",
+"g": "ZCW00:CBOT"
+},
+{
+"y": "ZD",
+"g": "ZD:US"
+},
+{
+"y": "ZEAL.CO",
+"g": "ZEAL:CPH"
+},
+{
+"y": "ZION",
+"g": "ZION:US"
+},
+{
+"y": "ZS=F",
+"g": "ZSW00:CBOT"
+},
+{
+"y": "ZTS",
+"g": "ZTS:US"
+},
+{
+"y": "ZURN.SW",
+"g": "ZURN:SWX"
+},
+{
+"y": "ZW=F",
+"g": "ZWW00:CBOT"
+},
+{
+"y": "ZWS",
+"g": "ZWS:US"
+},
+{
+"y": "^AEX",
+"g": "AEX:INDEXEURO"
+},
+{
+"y": "^AXJO",
+"g": "XJO:INDEXASX"
+},
+{
+"y": "^BSESN",
+"g": "SENSEX:INDEXBOM"
+},
+{
+"y": "^BVSP",
+"g": "IBOV:INDEXBVMF"
+},
+{
+"y": "^DJI",
+"g": ".DJI:INDEXDJX"
+},
+{
+"y": "^FCHI",
+"g": "PX1:INDEXEURO"
+},
+{
+"y": "^FTSE",
+"g": "UKX:INDEXFTSE"
+},
+{
+"y": "^GDAXI",
+"g": "DAX:INDEXDB"
+},
+{
+"y": "^GSPC",
+"g": ".INX:INDEXSP"
+},
+{
+"y": "^GSPTSE",
+"g": "OSPTX:INDEXTSI"
+},
+{
+"y": "^HSI",
+"g": "HSI:INDEXHANGSENG"
+},
+{
+"y": "^IBEX",
+"g": "IB:INDEXBME"
+},
+{
+"y": "^IXIC",
+"g": ".IXIC:INDEXNASDAQ"
+},
+{
+"y": "^KS11",
+"g": "KOSPI:KRX"
+},
+{
+"y": "^N225",
+"g": "NI225:INDEXNIKKEI"
+},
+{
+"y": "^NDX",
+"g": "NDX:INDEXNASDAQ"
+},
+{
+"y": "^NSEI",
+"g": "NIFTY_50:INDEXNSE"
+},
+{
+"y": "^RUT",
+"g": "RUT:INDEXRUSSELL"
+},
+{
+"y": "^SSMI",
+"g": "SMI:INDEXSWX"
+},
+{
+"y": "^STOXX",
+"g": "SXXP:INDEXSTOXX"
+},
+{
+"y": "^STOXX50E",
+"g": "SX5E:INDEXSTOXX"
+},
+{
+"y": "^VIX",
+"g": "VIX:INDEXCBOE"
+},
+{
+"y": "\u221212-6%.L",
+"g": "\u221212-6%:LON"
+},
+{
+"y": "\u221215-6%.L",
+"g": "\u221215-6%:LON"
+},
+{
+"y": "\u221219-7%.L",
+"g": "\u221219-7%:LON"
+},
+{
+"y": "\u221227-27%.L",
+"g": "\u221227-27%:LON"
+},
+{
+"y": "\u22124-65%.L",
+"g": "\u22124-65%:LON"
+},
+{
+"y": "\u221240-32%.L",
+"g": "\u221240-32%:LON"
+},
+{
+"y": "\u22126-2%.L",
+"g": "\u22126-2%:LON"
+},
+{
+"y": "\u22127-64%.L",
+"g": "\u22127-64%:LON"
+},
+{
+"y": "\u22129-29%.L",
+"g": "\u22129-29%:LON"
+}
+]
