@@ -1,4 +1,5 @@
 """Stahuje kurzy všech titulů hry Burzovní souboj a zapisuje je do prices.json.
+# spuštění před tahem
 
 Zdroje: Yahoo Finance (chart API) pro světové akcie, indexy, komodity, krypto a měny,
 pse.cz pro pražské akcie. Spouští GitHub Actions každých 15 minut.
