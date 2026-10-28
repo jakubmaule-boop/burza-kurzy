@@ -140,4 +140,7 @@ for e in symbols:
 res = {"at": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "count": len(quotes), "total": len(symbols),
        "quotes": quotes, "fx": fx, "errors": errors[:40] + errors[-40:]}
 json.dump(res, open("prices.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0, sort_keys=True)
+game = {"at": res["at"], "fx": fx,
+        "quotes": {k: {"p": v["p"], "at": v["at"], "t": ("PSE" if v["src"] == "pse" else "Yahoo") + " " + v["at"][:16].replace("T", " ") + " UTC"} for k, v in quotes.items()}}
+json.dump(game, open("game_update.json", "w", encoding="utf-8"), ensure_ascii=False, sort_keys=True)
 print(f"{len(quotes)}/{len(symbols)} quotes, {len(fx)} fx, {len(errors)} errors")
