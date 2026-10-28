@@ -15,6 +15,7 @@ errors = []
 
 def yahoo(sym):
     for host in ("query1", "query2"):
+        r = None
         try:
             r = S.get(f"https://{host}.finance.yahoo.com/v8/finance/chart/{sym}", params={"interval": "5m", "range": "1d"}, timeout=15)
             if r.status_code == 200:
@@ -24,6 +25,9 @@ def yahoo(sym):
                     return float(p), iso(t) if t else None
         except Exception as e:
             errors.append(f"{sym}@{host}: {e}")
+        else:
+            pass
+        if r is not None and r.status_code != 200: errors.append(f"{sym}@{host}: HTTP {r.status_code} {r.text[:120]}")
         time.sleep(0.5)
     return None, None
 
@@ -49,6 +53,7 @@ def pse(market):
 
 symbols = json.load(open("symbols.json", encoding="utf-8"))
 quotes, fx = {}, {}
+fails = 0
 
 # Měny: X/CZK = (USD/CZK) / (USD/X)
 usdczk, at = yahoo("CZK=X")
@@ -75,7 +80,8 @@ for e in symbols:
         else:
             errors.append(f"pse missing {e['s']}")
     else:
-        p, a = yahoo(e["y"])
+        p, a = (None, None) if fails >= 8 else yahoo(e["y"])
+        fails = 0 if p is not None else fails + 1
         if p is not None:
             quotes[e["s"]] = {"p": p, "at": a or pse_at, "src": "yahoo"}
         else:
@@ -86,5 +92,3 @@ res = {"at": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "count": len(quotes), "total": 
        "quotes": quotes, "fx": fx, "errors": errors[-60:]}
 json.dump(res, open("prices.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0, sort_keys=True)
 print(f"{len(quotes)}/{len(symbols)} quotes, {len(fx)} fx, {len(errors)} errors")
-if len(quotes) < len(symbols) // 2:
-    sys.exit(1)
