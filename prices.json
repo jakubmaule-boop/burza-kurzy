@@ -1,0 +1,175 @@
+{
+"at": "2026-10-28T21:03:21Z",
+"count": 21,
+"errors": [
+"yahoo missing TMUS (TMUS)",
+"yahoo missing BNP (BNP.PA)",
+"yahoo missing OREAL (OR.PA)",
+"yahoo missing RMS (RMS.PA)",
+"yahoo missing AIR (AIR.PA)",
+"yahoo missing SAF (SAF.PA)",
+"yahoo missing ITX (ITX.MC)",
+"yahoo missing ALV (ALV.DE)",
+"yahoo missing ENR (ENR.DE)",
+"yahoo missing MBG (MBG.DE)",
+"yahoo missing BMW (BMW.DE)",
+"yahoo missing VOW3 (VOW3.DE)",
+"yahoo missing P911 (P911.DE)",
+"yahoo missing BAS (BAS.DE)",
+"yahoo missing DTE (DTE.DE)",
+"yahoo missing PDD (PDD)",
+"yahoo missing BIDU (BIDU)",
+"yahoo missing INFY (INFY)",
+"yahoo missing HDB (HDB)",
+"yahoo missing SE (SE)",
+"yahoo missing NIO (NIO)",
+"yahoo missing SONY (6758.T)",
+"yahoo missing NINTENDO (7974.T)",
+"yahoo missing SOFTBANK (9984.T)",
+"yahoo missing KEYENCE (6861.T)",
+"yahoo missing MUFG (8306.T)",
+"yahoo missing TEL (8035.T)",
+"yahoo missing UNIQLO (9983.T)",
+"yahoo missing TENCENT (0700.HK)",
+"yahoo missing BABA (9988.HK)",
+"yahoo missing BYD (1211.HK)",
+"yahoo missing XIAOMI (1810.HK)",
+"yahoo missing MEITUAN (3690.HK)",
+"yahoo missing AIA (1299.HK)",
+"yahoo missing SAMSUNG (005930.KS)",
+"yahoo missing HYNIX (000660.KS)",
+"yahoo missing HYUNDAI (005380.KS)",
+"yahoo missing NESN (NESN.SW)",
+"yahoo missing ROG (RO.SW)",
+"yahoo missing BAES (BA.L)",
+"yahoo missing SPX (^GSPC)",
+"yahoo missing NDX (^IXIC)",
+"yahoo missing DJI (^DJI)",
+"yahoo missing DAX (^GDAXI)",
+"yahoo missing SX5E (^STOXX50E)",
+"yahoo missing FTSE (^FTSE)",
+"yahoo missing N225 (^N225)",
+"yahoo missing GOLD (GC=F)",
+"yahoo missing SILVER (SI=F)",
+"yahoo missing WTI (CL=F)",
+"yahoo missing BRENT (BZ=F)",
+"yahoo missing NATGAS (NG=F)",
+"yahoo missing COPPER (HG=F)",
+"yahoo missing BTC (BTC-USD)",
+"yahoo missing ETH (ETH-USD)",
+"yahoo missing SOL (SOL-USD)",
+"yahoo missing XRP (XRP-USD)",
+"yahoo missing DOGE (DOGE-USD)",
+"yahoo missing X_TTWO (TTWO)",
+"yahoo missing X_MRVL (MRVL)"
+],
+"fx": {},
+"quotes": {
+"BEZVA": {
+"at": "2026-10-28T21:03:21Z",
+"p": 380.0,
+"src": "pse"
+},
+"CEZ": {
+"at": "2026-10-28T21:03:21Z",
+"p": 1390.0,
+"src": "pse"
+},
+"COLT": {
+"at": "2026-10-28T21:03:21Z",
+"p": 840.0,
+"src": "pse"
+},
+"DSPW": {
+"at": "2026-10-28T21:03:21Z",
+"p": 408.0,
+"src": "pse"
+},
+"E4U": {
+"at": "2026-10-28T21:03:21Z",
+"p": 186.0,
+"src": "pse"
+},
+"ERSTE": {
+"at": "2026-10-28T21:03:21Z",
+"p": 2584.0,
+"src": "pse"
+},
+"FILLAM": {
+"at": "2026-10-28T21:03:21Z",
+"p": 67.0,
+"src": "pse"
+},
+"FIXD": {
+"at": "2026-10-28T21:03:21Z",
+"p": 50.0,
+"src": "pse"
+},
+"GEVOR": {
+"at": "2026-10-28T21:03:21Z",
+"p": 177.0,
+"src": "pse"
+},
+"HARDW": {
+"at": "2026-10-28T21:03:21Z",
+"p": 8.25,
+"src": "pse"
+},
+"KARO": {
+"at": "2026-10-28T21:03:21Z",
+"p": 139.0,
+"src": "pse"
+},
+"KOFOL": {
+"at": "2026-10-28T21:03:21Z",
+"p": 503.0,
+"src": "pse"
+},
+"KOMB": {
+"at": "2026-10-28T21:03:21Z",
+"p": 1007.0,
+"src": "pse"
+},
+"MONET": {
+"at": "2026-10-28T21:03:21Z",
+"p": 193.9,
+"src": "pse"
+},
+"PEN": {
+"at": "2026-10-28T21:03:21Z",
+"p": 6.1,
+"src": "pse"
+},
+"PILUL": {
+"at": "2026-10-28T21:03:21Z",
+"p": 91.0,
+"src": "pse"
+},
+"PRABOS": {
+"at": "2026-10-28T21:03:21Z",
+"p": 250.0,
+"src": "pse"
+},
+"PRIMOCO": {
+"at": "2026-10-28T21:03:21Z",
+"p": 640.0,
+"src": "pse"
+},
+"SABF": {
+"at": "2026-10-28T21:03:21Z",
+"p": 1080.0,
+"src": "pse"
+},
+"TABAK": {
+"at": "2026-10-28T21:03:21Z",
+"p": 17200.0,
+"src": "pse"
+},
+"VIG": {
+"at": "2026-10-28T21:03:21Z",
+"p": 1720.0,
+"src": "pse"
+}
+},
+"total": 181
+}
