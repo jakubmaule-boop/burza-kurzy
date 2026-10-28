@@ -1,0 +1,929 @@
+[
+{
+"s": "AAPL",
+"c": "USD",
+"y": "AAPL"
+},
+{
+"s": "MSFT",
+"c": "USD",
+"y": "MSFT"
+},
+{
+"s": "NVDA",
+"c": "USD",
+"y": "NVDA"
+},
+{
+"s": "AMZN",
+"c": "USD",
+"y": "AMZN"
+},
+{
+"s": "GOOGL",
+"c": "USD",
+"y": "GOOGL"
+},
+{
+"s": "META",
+"c": "USD",
+"y": "META"
+},
+{
+"s": "TSLA",
+"c": "USD",
+"y": "TSLA"
+},
+{
+"s": "NFLX",
+"c": "USD",
+"y": "NFLX"
+},
+{
+"s": "AMD",
+"c": "USD",
+"y": "AMD"
+},
+{
+"s": "JPM",
+"c": "USD",
+"y": "JPM"
+},
+{
+"s": "V",
+"c": "USD",
+"y": "V"
+},
+{
+"s": "KO",
+"c": "USD",
+"y": "KO"
+},
+{
+"s": "XOM",
+"c": "USD",
+"y": "XOM"
+},
+{
+"s": "LLY",
+"c": "USD",
+"y": "LLY"
+},
+{
+"s": "BRKB",
+"c": "USD",
+"y": "BRK-B"
+},
+{
+"s": "CSG",
+"c": "EUR",
+"y": "CSG.AS"
+},
+{
+"s": "ASML",
+"c": "EUR",
+"y": "ASML.AS"
+},
+{
+"s": "SAP",
+"c": "EUR",
+"y": "SAP.DE"
+},
+{
+"s": "RHM",
+"c": "EUR",
+"y": "RHM.DE"
+},
+{
+"s": "SIE",
+"c": "EUR",
+"y": "SIE.DE"
+},
+{
+"s": "MC",
+"c": "EUR",
+"y": "MC.PA"
+},
+{
+"s": "CEZ",
+"c": "CZK",
+"pse": "ČEZ",
+"m": "prime"
+},
+{
+"s": "KOMB",
+"c": "CZK",
+"pse": "KOMERČNÍ BANKA",
+"m": "prime"
+},
+{
+"s": "MONET",
+"c": "CZK",
+"pse": "MONETA MONEY BANK",
+"m": "prime"
+},
+{
+"s": "DSPW",
+"c": "CZK",
+"pse": "DOOSAN ŠKODA POWER",
+"m": "prime"
+},
+{
+"s": "COLT",
+"c": "CZK",
+"pse": "COLTCZ",
+"m": "prime"
+},
+{
+"s": "ERSTE",
+"c": "CZK",
+"pse": "ERSTE GROUP BANK",
+"m": "prime"
+},
+{
+"s": "KOFOL",
+"c": "CZK",
+"pse": "KOFOLA ČS",
+"m": "prime"
+},
+{
+"s": "VIG",
+"c": "CZK",
+"pse": "VIG",
+"m": "prime"
+},
+{
+"s": "PRIMOCO",
+"c": "CZK",
+"pse": "PRIMOCO UAV",
+"m": "prime"
+},
+{
+"s": "GEVOR",
+"c": "CZK",
+"pse": "GEVORKYAN",
+"m": "prime"
+},
+{
+"s": "KARO",
+"c": "CZK",
+"pse": "KARO LEATHER",
+"m": "prime"
+},
+{
+"s": "TABAK",
+"c": "CZK",
+"pse": "PHILIP MORRIS ČR",
+"m": "standard"
+},
+{
+"s": "SABF",
+"c": "CZK",
+"pse": "SAB FINANCE",
+"m": "standard"
+},
+{
+"s": "E4U",
+"c": "CZK",
+"pse": "E4U",
+"m": "standard"
+},
+{
+"s": "PEN",
+"c": "CZK",
+"pse": "PHOTON ENERGY",
+"m": "standard"
+},
+{
+"s": "PILUL",
+"c": "CZK",
+"pse": "PILULKA LÉKÁRNY",
+"m": "start"
+},
+{
+"s": "BEZVA",
+"c": "CZK",
+"pse": "BEZVAVLASY",
+"m": "start"
+},
+{
+"s": "PRABOS",
+"c": "CZK",
+"pse": "PRABOS PLUS",
+"m": "start"
+},
+{
+"s": "FIXD",
+"c": "CZK",
+"pse": "FIXED.ZONE",
+"m": "start"
+},
+{
+"s": "ATOM",
+"c": "CZK",
+"pse": "ATOMTRACE",
+"m": "start"
+},
+{
+"s": "HARDW",
+"c": "CZK",
+"pse": "HARDWARIO",
+"m": "start"
+},
+{
+"s": "FILLAM",
+"c": "CZK",
+"pse": "FILLAMENTUM",
+"m": "start"
+},
+{
+"s": "TSM",
+"c": "USD",
+"y": "TSM"
+},
+{
+"s": "ORCL",
+"c": "USD",
+"y": "ORCL"
+},
+{
+"s": "CRM",
+"c": "USD",
+"y": "CRM"
+},
+{
+"s": "NOW",
+"c": "USD",
+"y": "NOW"
+},
+{
+"s": "IBM",
+"c": "USD",
+"y": "IBM"
+},
+{
+"s": "SNOW",
+"c": "USD",
+"y": "SNOW"
+},
+{
+"s": "MA",
+"c": "USD",
+"y": "MA"
+},
+{
+"s": "BAC",
+"c": "USD",
+"y": "BAC"
+},
+{
+"s": "WFC",
+"c": "USD",
+"y": "WFC"
+},
+{
+"s": "MS",
+"c": "USD",
+"y": "MS"
+},
+{
+"s": "GS",
+"c": "USD",
+"y": "GS"
+},
+{
+"s": "C",
+"c": "USD",
+"y": "C"
+},
+{
+"s": "BLK",
+"c": "USD",
+"y": "BLK"
+},
+{
+"s": "AXP",
+"c": "USD",
+"y": "AXP"
+},
+{
+"s": "SPGI",
+"c": "USD",
+"y": "SPGI"
+},
+{
+"s": "MCO",
+"c": "USD",
+"y": "MCO"
+},
+{
+"s": "HSBC",
+"c": "USD",
+"y": "HSBC"
+},
+{
+"s": "UBS",
+"c": "USD",
+"y": "UBS"
+},
+{
+"s": "NVO",
+"c": "USD",
+"y": "NVO"
+},
+{
+"s": "JNJ",
+"c": "USD",
+"y": "JNJ"
+},
+{
+"s": "UNH",
+"c": "USD",
+"y": "UNH"
+},
+{
+"s": "MRK",
+"c": "USD",
+"y": "MRK"
+},
+{
+"s": "PFE",
+"c": "USD",
+"y": "PFE"
+},
+{
+"s": "ABBV",
+"c": "USD",
+"y": "ABBV"
+},
+{
+"s": "NVS",
+"c": "USD",
+"y": "NVS"
+},
+{
+"s": "TMO",
+"c": "USD",
+"y": "TMO"
+},
+{
+"s": "DHR",
+"c": "USD",
+"y": "DHR"
+},
+{
+"s": "MDT",
+"c": "USD",
+"y": "MDT"
+},
+{
+"s": "WMT",
+"c": "USD",
+"y": "WMT"
+},
+{
+"s": "PG",
+"c": "USD",
+"y": "PG"
+},
+{
+"s": "UL",
+"c": "USD",
+"y": "UL"
+},
+{
+"s": "MCD",
+"c": "USD",
+"y": "MCD"
+},
+{
+"s": "NKE",
+"c": "USD",
+"y": "NKE"
+},
+{
+"s": "UBER",
+"c": "USD",
+"y": "UBER"
+},
+{
+"s": "GE",
+"c": "USD",
+"y": "GE"
+},
+{
+"s": "CAT",
+"c": "USD",
+"y": "CAT"
+},
+{
+"s": "DE",
+"c": "USD",
+"y": "DE"
+},
+{
+"s": "BA",
+"c": "USD",
+"y": "BA"
+},
+{
+"s": "LMT",
+"c": "USD",
+"y": "LMT"
+},
+{
+"s": "RTX",
+"c": "USD",
+"y": "RTX"
+},
+{
+"s": "GD",
+"c": "USD",
+"y": "GD"
+},
+{
+"s": "NOC",
+"c": "USD",
+"y": "NOC"
+},
+{
+"s": "TM",
+"c": "USD",
+"y": "TM"
+},
+{
+"s": "RACE",
+"c": "USD",
+"y": "RACE"
+},
+{
+"s": "UNP",
+"c": "USD",
+"y": "UNP"
+},
+{
+"s": "UPS",
+"c": "USD",
+"y": "UPS"
+},
+{
+"s": "CVX",
+"c": "USD",
+"y": "CVX"
+},
+{
+"s": "SHEL",
+"c": "USD",
+"y": "SHEL"
+},
+{
+"s": "TTE",
+"c": "USD",
+"y": "TTE"
+},
+{
+"s": "BP",
+"c": "USD",
+"y": "BP"
+},
+{
+"s": "BHP",
+"c": "USD",
+"y": "BHP"
+},
+{
+"s": "RIO",
+"c": "USD",
+"y": "RIO"
+},
+{
+"s": "FCX",
+"c": "USD",
+"y": "FCX"
+},
+{
+"s": "VZ",
+"c": "USD",
+"y": "VZ"
+},
+{
+"s": "T",
+"c": "USD",
+"y": "T"
+},
+{
+"s": "AVGO",
+"c": "USD",
+"y": "AVGO"
+},
+{
+"s": "QCOM",
+"c": "USD",
+"y": "QCOM"
+},
+{
+"s": "INTC",
+"c": "USD",
+"y": "INTC"
+},
+{
+"s": "TXN",
+"c": "USD",
+"y": "TXN"
+},
+{
+"s": "ARM",
+"c": "USD",
+"y": "ARM"
+},
+{
+"s": "MU",
+"c": "USD",
+"y": "MU"
+},
+{
+"s": "AMAT",
+"c": "USD",
+"y": "AMAT"
+},
+{
+"s": "LRCX",
+"c": "USD",
+"y": "LRCX"
+},
+{
+"s": "ADBE",
+"c": "USD",
+"y": "ADBE"
+},
+{
+"s": "CSCO",
+"c": "USD",
+"y": "CSCO"
+},
+{
+"s": "PLTR",
+"c": "USD",
+"y": "PLTR"
+},
+{
+"s": "CRWD",
+"c": "USD",
+"y": "CRWD"
+},
+{
+"s": "PANW",
+"c": "USD",
+"y": "PANW"
+},
+{
+"s": "AZN",
+"c": "USD",
+"y": "AZN"
+},
+{
+"s": "SNY",
+"c": "USD",
+"y": "SNY"
+},
+{
+"s": "ISRG",
+"c": "USD",
+"y": "ISRG"
+},
+{
+"s": "COST",
+"c": "USD",
+"y": "COST"
+},
+{
+"s": "PEP",
+"c": "USD",
+"y": "PEP"
+},
+{
+"s": "SBUX",
+"c": "USD",
+"y": "SBUX"
+},
+{
+"s": "BKNG",
+"c": "USD",
+"y": "BKNG"
+},
+{
+"s": "ABNB",
+"c": "USD",
+"y": "ABNB"
+},
+{
+"s": "HON",
+"c": "USD",
+"y": "HON"
+},
+{
+"s": "LIN",
+"c": "USD",
+"y": "LIN"
+},
+{
+"s": "TMUS",
+"c": "USD",
+"y": "TMUS"
+},
+{
+"s": "BNP",
+"c": "EUR",
+"y": "BNP.PA"
+},
+{
+"s": "OREAL",
+"c": "EUR",
+"y": "OR.PA"
+},
+{
+"s": "RMS",
+"c": "EUR",
+"y": "RMS.PA"
+},
+{
+"s": "AIR",
+"c": "EUR",
+"y": "AIR.PA"
+},
+{
+"s": "SAF",
+"c": "EUR",
+"y": "SAF.PA"
+},
+{
+"s": "ITX",
+"c": "EUR",
+"y": "ITX.MC"
+},
+{
+"s": "ALV",
+"c": "EUR",
+"y": "ALV.DE"
+},
+{
+"s": "ENR",
+"c": "EUR",
+"y": "ENR.DE"
+},
+{
+"s": "MBG",
+"c": "EUR",
+"y": "MBG.DE"
+},
+{
+"s": "BMW",
+"c": "EUR",
+"y": "BMW.DE"
+},
+{
+"s": "VOW3",
+"c": "EUR",
+"y": "VOW3.DE"
+},
+{
+"s": "P911",
+"c": "EUR",
+"y": "P911.DE"
+},
+{
+"s": "BAS",
+"c": "EUR",
+"y": "BAS.DE"
+},
+{
+"s": "DTE",
+"c": "EUR",
+"y": "DTE.DE"
+},
+{
+"s": "PDD",
+"c": "USD",
+"y": "PDD"
+},
+{
+"s": "BIDU",
+"c": "USD",
+"y": "BIDU"
+},
+{
+"s": "INFY",
+"c": "USD",
+"y": "INFY"
+},
+{
+"s": "HDB",
+"c": "USD",
+"y": "HDB"
+},
+{
+"s": "SE",
+"c": "USD",
+"y": "SE"
+},
+{
+"s": "NIO",
+"c": "USD",
+"y": "NIO"
+},
+{
+"s": "SONY",
+"c": "JPY",
+"y": "6758.T"
+},
+{
+"s": "NINTENDO",
+"c": "JPY",
+"y": "7974.T"
+},
+{
+"s": "SOFTBANK",
+"c": "JPY",
+"y": "9984.T"
+},
+{
+"s": "KEYENCE",
+"c": "JPY",
+"y": "6861.T"
+},
+{
+"s": "MUFG",
+"c": "JPY",
+"y": "8306.T"
+},
+{
+"s": "TEL",
+"c": "JPY",
+"y": "8035.T"
+},
+{
+"s": "UNIQLO",
+"c": "JPY",
+"y": "9983.T"
+},
+{
+"s": "TENCENT",
+"c": "HKD",
+"y": "0700.HK"
+},
+{
+"s": "BABA",
+"c": "HKD",
+"y": "9988.HK"
+},
+{
+"s": "BYD",
+"c": "HKD",
+"y": "1211.HK"
+},
+{
+"s": "XIAOMI",
+"c": "HKD",
+"y": "1810.HK"
+},
+{
+"s": "MEITUAN",
+"c": "HKD",
+"y": "3690.HK"
+},
+{
+"s": "AIA",
+"c": "HKD",
+"y": "1299.HK"
+},
+{
+"s": "SAMSUNG",
+"c": "KRW",
+"y": "005930.KS"
+},
+{
+"s": "HYNIX",
+"c": "KRW",
+"y": "000660.KS"
+},
+{
+"s": "HYUNDAI",
+"c": "KRW",
+"y": "005380.KS"
+},
+{
+"s": "NESN",
+"c": "CHF",
+"y": "NESN.SW"
+},
+{
+"s": "ROG",
+"c": "CHF",
+"y": "RO.SW"
+},
+{
+"s": "BAES",
+"c": "GBX",
+"y": "BA.L"
+},
+{
+"s": "SPX",
+"c": "USD",
+"y": "^GSPC"
+},
+{
+"s": "NDX",
+"c": "USD",
+"y": "^IXIC"
+},
+{
+"s": "DJI",
+"c": "USD",
+"y": "^DJI"
+},
+{
+"s": "DAX",
+"c": "EUR",
+"y": "^GDAXI"
+},
+{
+"s": "SX5E",
+"c": "EUR",
+"y": "^STOXX50E"
+},
+{
+"s": "FTSE",
+"c": "GBP",
+"y": "^FTSE"
+},
+{
+"s": "N225",
+"c": "JPY",
+"y": "^N225"
+},
+{
+"s": "GOLD",
+"c": "USD",
+"y": "GC=F"
+},
+{
+"s": "SILVER",
+"c": "USD",
+"y": "SI=F"
+},
+{
+"s": "WTI",
+"c": "USD",
+"y": "CL=F"
+},
+{
+"s": "BRENT",
+"c": "USD",
+"y": "BZ=F"
+},
+{
+"s": "NATGAS",
+"c": "USD",
+"y": "NG=F"
+},
+{
+"s": "COPPER",
+"c": "USD",
+"y": "HG=F"
+},
+{
+"s": "BTC",
+"c": "USD",
+"y": "BTC-USD"
+},
+{
+"s": "ETH",
+"c": "USD",
+"y": "ETH-USD"
+},
+{
+"s": "SOL",
+"c": "USD",
+"y": "SOL-USD"
+},
+{
+"s": "XRP",
+"c": "USD",
+"y": "XRP-USD"
+},
+{
+"s": "DOGE",
+"c": "USD",
+"y": "DOGE-USD"
+},
+{
+"s": "X_TTWO",
+"c": "USD",
+"y": "TTWO"
+},
+{
+"s": "X_MRVL",
+"c": "USD",
+"y": "MRVL"
+}
+]
