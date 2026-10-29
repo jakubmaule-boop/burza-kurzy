@@ -1,98 +1,38 @@
 {
-"at": "2026-10-29T00:51:38Z",
-"count": 159,
+"at": "2026-10-29T06:44:22Z",
+"count": 180,
 "errors": [
-"pse prime #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5852b620>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse prime #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa95f10>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse prime #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa95be0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa961b0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa95b50>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa960f0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa97350>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa972c0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa958e0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse missing CEZ",
-"pse missing KOMB",
-"pse missing MONET",
-"pse missing DSPW",
-"pse missing COLT",
-"pse missing ERSTE",
-"pse missing KOFOL",
-"pse missing VIG",
-"pse missing PRIMOCO",
-"pse missing GEVOR",
-"pse missing KARO",
-"pse missing TABAK",
-"pse missing SABF",
-"pse missing E4U",
-"pse missing PEN",
-"pse missing PILUL",
-"pse missing BEZVA",
-"pse missing PRABOS",
-"pse missing FIXD",
 "pse missing ATOM",
-"pse missing HARDW",
-"pse missing FILLAM",
-"pse prime #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5852b620>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse prime #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa95f10>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse prime #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa95be0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa961b0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa95b50>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa960f0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa97350>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa972c0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7fbf5aa958e0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse missing CEZ",
-"pse missing KOMB",
-"pse missing MONET",
-"pse missing DSPW",
-"pse missing COLT",
-"pse missing ERSTE",
-"pse missing KOFOL",
-"pse missing VIG",
-"pse missing PRIMOCO",
-"pse missing GEVOR",
-"pse missing KARO",
-"pse missing TABAK",
-"pse missing SABF",
-"pse missing E4U",
-"pse missing PEN",
-"pse missing PILUL",
-"pse missing BEZVA",
-"pse missing PRABOS",
-"pse missing FIXD",
-"pse missing ATOM",
-"pse missing HARDW",
-"pse missing FILLAM"
+"pse missing ATOM"
 ],
 "fx": {
 "CHF": {
-"at": "2026-10-29T00:45:00Z",
-"p": 26.368944474296175
+"at": "2026-10-29T06:30:00Z",
+"p": 26.38635508724566
 },
 "EUR": {
-"at": "2026-10-29T00:45:00Z",
-"p": 24.363869315903685
+"at": "2026-10-29T06:30:00Z",
+"p": 24.364233997945615
 },
 "GBP": {
-"at": "2026-10-29T00:45:00Z",
-"p": 29.110120416464248
+"at": "2026-10-29T06:30:00Z",
+"p": 29.11316653185325
 },
 "HKD": {
-"at": "2026-10-29T00:45:00Z",
-"p": 2.7868469391420834
+"at": "2026-10-29T06:30:00Z",
+"p": 2.787154472967802
 },
 "JPY": {
-"at": "2026-10-29T00:45:00Z",
-"p": 0.13847210649818256
+"at": "2026-10-29T06:30:00Z",
+"p": 0.13856912331844376
 },
 "KRW": {
-"at": "2026-10-29T00:45:00Z",
-"p": 0.016356325138627014
+"at": "2026-10-29T06:30:00Z",
+"p": 0.016363030717807536
 },
 "USD": {
-"at": "2026-10-29T00:45:00Z",
-"p": 21.8617000579834
+"at": "2026-10-29T06:30:00Z",
+"p": 21.866899490356445
 }
 },
 "quotes": {
@@ -103,7 +43,7 @@
 },
 "ABBV": {
 "at": "2026-10-28T19:45:00Z",
-"p": 286.3599853515625,
+"p": 286.4200134277344,
 "src": "yahoo"
 },
 "ABNB": {
@@ -117,8 +57,8 @@
 "src": "yahoo"
 },
 "AIA": {
-"at": "2026-10-28T08:00:00Z",
-"p": 70.9000015258789,
+"at": "2026-10-29T06:15:00Z",
+"p": 72.1500015258789,
 "src": "yahoo"
 },
 "AIR": {
@@ -177,8 +117,8 @@
 "src": "yahoo"
 },
 "BABA": {
-"at": "2026-10-28T08:00:00Z",
-"p": 98.9000015258789,
+"at": "2026-10-29T06:15:00Z",
+"p": 96.55000305175781,
 "src": "yahoo"
 },
 "BAC": {
@@ -195,6 +135,11 @@
 "at": "2026-10-28T16:15:00Z",
 "p": 52.7400016784668,
 "src": "yahoo"
+},
+"BEZVA": {
+"at": "2026-10-29T06:44:22Z",
+"p": 380.0,
+"src": "pse"
 },
 "BHP": {
 "at": "2026-10-28T19:45:00Z",
@@ -232,8 +177,8 @@
 "src": "yahoo"
 },
 "BRENT": {
-"at": "2026-10-29T00:30:00Z",
-"p": 110.9000015258789,
+"at": "2026-10-29T06:30:00Z",
+"p": 110.30999755859375,
 "src": "yahoo"
 },
 "BRKB": {
@@ -242,13 +187,13 @@
 "src": "yahoo"
 },
 "BTC": {
-"at": "2026-10-29T00:45:00Z",
-"p": 81069.2265625,
+"at": "2026-10-29T06:30:00Z",
+"p": 79886.53125,
 "src": "yahoo"
 },
 "BYD": {
-"at": "2026-10-28T08:00:00Z",
-"p": 70.44999694824219,
+"at": "2026-10-29T06:15:00Z",
+"p": 69.3499984741211,
 "src": "yahoo"
 },
 "C": {
@@ -261,9 +206,19 @@
 "p": 714.625,
 "src": "yahoo"
 },
+"CEZ": {
+"at": "2026-10-29T06:44:22Z",
+"p": 1390.0,
+"src": "pse"
+},
+"COLT": {
+"at": "2026-10-29T06:44:22Z",
+"p": 840.0,
+"src": "pse"
+},
 "COPPER": {
-"at": "2026-10-29T00:30:00Z",
-"p": 6.678999900817871,
+"at": "2026-10-29T06:30:00Z",
+"p": 6.627999782562256,
 "src": "yahoo"
 },
 "COST": {
@@ -278,7 +233,7 @@
 },
 "CRWD": {
 "at": "2026-10-28T19:45:00Z",
-"p": 266.7300109863281,
+"p": 266.69000244140625,
 "src": "yahoo"
 },
 "CSCO": {
@@ -317,29 +272,54 @@
 "src": "yahoo"
 },
 "DOGE": {
-"at": "2026-10-29T00:45:00Z",
-"p": 0.07947999984025955,
+"at": "2026-10-29T06:30:00Z",
+"p": 0.07810000330209732,
 "src": "yahoo"
+},
+"DSPW": {
+"at": "2026-10-29T06:44:22Z",
+"p": 408.0,
+"src": "pse"
 },
 "DTE": {
 "at": "2026-10-28T16:15:00Z",
 "p": 25.110000610351562,
 "src": "yahoo"
 },
+"E4U": {
+"at": "2026-10-29T06:44:22Z",
+"p": 186.0,
+"src": "pse"
+},
 "ENR": {
 "at": "2026-10-28T16:15:00Z",
 "p": 133.25999450683594,
 "src": "yahoo"
 },
+"ERSTE": {
+"at": "2026-10-29T06:44:22Z",
+"p": 2584.0,
+"src": "pse"
+},
 "ETH": {
-"at": "2026-10-29T00:45:00Z",
-"p": 2354.14990234375,
+"at": "2026-10-29T06:30:00Z",
+"p": 2310.39990234375,
 "src": "yahoo"
 },
 "FCX": {
 "at": "2026-10-28T19:45:00Z",
 "p": 66.58999633789062,
 "src": "yahoo"
+},
+"FILLAM": {
+"at": "2026-10-29T06:44:22Z",
+"p": 67.0,
+"src": "pse"
+},
+"FIXD": {
+"at": "2026-10-29T06:44:22Z",
+"p": 50.0,
+"src": "pse"
 },
 "FTSE": {
 "at": "2026-10-28T16:15:00Z",
@@ -356,9 +336,14 @@
 "p": 301.3500061035156,
 "src": "yahoo"
 },
+"GEVOR": {
+"at": "2026-10-29T06:44:22Z",
+"p": 177.0,
+"src": "pse"
+},
 "GOLD": {
-"at": "2026-10-29T00:30:00Z",
-"p": 4051.699951171875,
+"at": "2026-10-29T06:30:00Z",
+"p": 4039.10009765625,
 "src": "yahoo"
 },
 "GOOGL": {
@@ -368,8 +353,13 @@
 },
 "GS": {
 "at": "2026-10-28T19:45:00Z",
-"p": 926.1900024414062,
+"p": 926.530029296875,
 "src": "yahoo"
+},
+"HARDW": {
+"at": "2026-10-29T06:44:22Z",
+"p": 8.25,
+"src": "pse"
 },
 "HDB": {
 "at": "2026-10-28T19:45:00Z",
@@ -387,13 +377,13 @@
 "src": "yahoo"
 },
 "HYNIX": {
-"at": "2026-10-29T00:30:00Z",
-"p": 1571000.0,
+"at": "2026-10-29T05:45:00Z",
+"p": 1537000.0,
 "src": "yahoo"
 },
 "HYUNDAI": {
-"at": "2026-10-29T00:30:00Z",
-"p": 290750.0,
+"at": "2026-10-29T05:45:00Z",
+"p": 292000.0,
 "src": "yahoo"
 },
 "IBM": {
@@ -408,7 +398,7 @@
 },
 "INTC": {
 "at": "2026-10-28T19:45:00Z",
-"p": 95.5199966430664,
+"p": 95.51000213623047,
 "src": "yahoo"
 },
 "ISRG": {
@@ -431,8 +421,13 @@
 "p": 339.489990234375,
 "src": "yahoo"
 },
+"KARO": {
+"at": "2026-10-29T06:44:22Z",
+"p": 139.0,
+"src": "pse"
+},
 "KEYENCE": {
-"at": "2026-10-29T00:30:00Z",
+"at": "2026-10-29T06:15:00Z",
 "p": 77640.0,
 "src": "yahoo"
 },
@@ -440,6 +435,16 @@
 "at": "2026-10-28T19:45:00Z",
 "p": 91.86000061035156,
 "src": "yahoo"
+},
+"KOFOL": {
+"at": "2026-10-29T06:44:22Z",
+"p": 503.0,
+"src": "pse"
+},
+"KOMB": {
+"at": "2026-10-29T06:44:22Z",
+"p": 1007.0,
+"src": "pse"
 },
 "LIN": {
 "at": "2026-10-28T19:45:00Z",
@@ -492,14 +497,19 @@
 "src": "yahoo"
 },
 "MEITUAN": {
-"at": "2026-10-28T08:00:00Z",
-"p": 71.19999694824219,
+"at": "2026-10-29T06:15:00Z",
+"p": 70.25,
 "src": "yahoo"
 },
 "META": {
 "at": "2026-10-28T19:45:00Z",
 "p": 612.489990234375,
 "src": "yahoo"
+},
+"MONET": {
+"at": "2026-10-29T06:44:22Z",
+"p": 193.9,
+"src": "pse"
 },
 "MRK": {
 "at": "2026-10-28T19:45:00Z",
@@ -513,7 +523,7 @@
 },
 "MSFT": {
 "at": "2026-10-28T19:45:00Z",
-"p": 531.72998046875,
+"p": 530.8300170898438,
 "src": "yahoo"
 },
 "MU": {
@@ -522,18 +532,18 @@
 "src": "yahoo"
 },
 "MUFG": {
-"at": "2026-10-29T00:30:00Z",
-"p": 3436.0,
+"at": "2026-10-29T06:15:00Z",
+"p": 3455.0,
 "src": "yahoo"
 },
 "N225": {
-"at": "2026-10-29T00:30:00Z",
-"p": 64471.3515625,
+"at": "2026-10-29T06:15:00Z",
+"p": 64580.640625,
 "src": "yahoo"
 },
 "NATGAS": {
-"at": "2026-10-29T00:30:00Z",
-"p": 3.010999917984009,
+"at": "2026-10-29T06:30:00Z",
+"p": 3.0299999713897705,
 "src": "yahoo"
 },
 "NDX": {
@@ -552,8 +562,8 @@
 "src": "yahoo"
 },
 "NINTENDO": {
-"at": "2026-10-29T00:30:00Z",
-"p": 8182.0,
+"at": "2026-10-29T06:15:00Z",
+"p": 8223.0,
 "src": "yahoo"
 },
 "NIO": {
@@ -593,7 +603,7 @@
 },
 "ORCL": {
 "at": "2026-10-28T19:45:00Z",
-"p": 144.39999389648438,
+"p": 144.3000030517578,
 "src": "yahoo"
 },
 "OREAL": {
@@ -616,6 +626,11 @@
 "p": 77.46499633789062,
 "src": "yahoo"
 },
+"PEN": {
+"at": "2026-10-29T06:44:22Z",
+"p": 6.1,
+"src": "pse"
+},
 "PEP": {
 "at": "2026-10-28T19:45:00Z",
 "p": 132.6699981689453,
@@ -631,14 +646,29 @@
 "p": 158.36500549316406,
 "src": "yahoo"
 },
+"PILUL": {
+"at": "2026-10-29T06:44:22Z",
+"p": 91.0,
+"src": "pse"
+},
 "PLTR": {
 "at": "2026-10-28T19:45:00Z",
-"p": 196.82000732421875,
+"p": 196.80999755859375,
 "src": "yahoo"
+},
+"PRABOS": {
+"at": "2026-10-29T06:44:22Z",
+"p": 250.0,
+"src": "pse"
+},
+"PRIMOCO": {
+"at": "2026-10-29T06:44:22Z",
+"p": 640.0,
+"src": "pse"
 },
 "QCOM": {
 "at": "2026-10-28T19:45:00Z",
-"p": 182.99000549316406,
+"p": 182.9199981689453,
 "src": "yahoo"
 },
 "RACE": {
@@ -671,14 +701,19 @@
 "p": 196.11000061035156,
 "src": "yahoo"
 },
+"SABF": {
+"at": "2026-10-29T06:44:22Z",
+"p": 1080.0,
+"src": "pse"
+},
 "SAF": {
 "at": "2026-10-28T16:15:00Z",
 "p": 272.6000061035156,
 "src": "yahoo"
 },
 "SAMSUNG": {
-"at": "2026-10-29T00:30:00Z",
-"p": 246500.0,
+"at": "2026-10-29T05:45:00Z",
+"p": 232000.0,
 "src": "yahoo"
 },
 "SAP": {
@@ -707,8 +742,8 @@
 "src": "yahoo"
 },
 "SILVER": {
-"at": "2026-10-29T00:30:00Z",
-"p": 53.65999984741211,
+"at": "2026-10-29T06:30:00Z",
+"p": 52.72999954223633,
 "src": "yahoo"
 },
 "SNOW": {
@@ -722,18 +757,18 @@
 "src": "yahoo"
 },
 "SOFTBANK": {
-"at": "2026-10-29T00:30:00Z",
-"p": 4680.0,
+"at": "2026-10-29T06:15:00Z",
+"p": 4757.0,
 "src": "yahoo"
 },
 "SOL": {
-"at": "2026-10-29T00:45:00Z",
-"p": 101.87999725341797,
+"at": "2026-10-29T06:30:00Z",
+"p": 99.91000366210938,
 "src": "yahoo"
 },
 "SONY": {
-"at": "2026-10-29T00:30:00Z",
-"p": 3928.0,
+"at": "2026-10-29T06:15:00Z",
+"p": 3925.0,
 "src": "yahoo"
 },
 "SPGI": {
@@ -756,14 +791,19 @@
 "p": 20.725000381469727,
 "src": "yahoo"
 },
+"TABAK": {
+"at": "2026-10-29T06:44:22Z",
+"p": 17200.0,
+"src": "pse"
+},
 "TEL": {
-"at": "2026-10-29T00:30:00Z",
-"p": 9835.0,
+"at": "2026-10-29T06:15:00Z",
+"p": 9973.0,
 "src": "yahoo"
 },
 "TENCENT": {
-"at": "2026-10-28T08:00:00Z",
-"p": 387.6000061035156,
+"at": "2026-10-29T06:15:00Z",
+"p": 379.79998779296875,
 "src": "yahoo"
 },
 "TM": {
@@ -778,12 +818,12 @@
 },
 "TMUS": {
 "at": "2026-10-28T19:45:00Z",
-"p": 148.24000549316406,
+"p": 148.3800048828125,
 "src": "yahoo"
 },
 "TSLA": {
 "at": "2026-10-28T19:45:00Z",
-"p": 404.4599914550781,
+"p": 404.4100036621094,
 "src": "yahoo"
 },
 "TSM": {
@@ -822,8 +862,8 @@
 "src": "yahoo"
 },
 "UNIQLO": {
-"at": "2026-10-29T00:30:00Z",
-"p": 73270.0,
+"at": "2026-10-29T06:15:00Z",
+"p": 73650.0,
 "src": "yahoo"
 },
 "UNP": {
@@ -838,8 +878,13 @@
 },
 "V": {
 "at": "2026-10-28T19:45:00Z",
-"p": 401.0400085449219,
+"p": 401.05999755859375,
 "src": "yahoo"
+},
+"VIG": {
+"at": "2026-10-29T06:44:22Z",
+"p": 1720.0,
+"src": "pse"
 },
 "VOW3": {
 "at": "2026-10-28T16:15:00Z",
@@ -862,13 +907,13 @@
 "src": "yahoo"
 },
 "WTI": {
-"at": "2026-10-29T00:30:00Z",
-"p": 102.08999633789062,
+"at": "2026-10-29T06:30:00Z",
+"p": 101.44999694824219,
 "src": "yahoo"
 },
 "XIAOMI": {
-"at": "2026-10-28T08:00:00Z",
-"p": 25.6200008392334,
+"at": "2026-10-29T06:15:00Z",
+"p": 25.899999618530273,
 "src": "yahoo"
 },
 "XOM": {
@@ -877,8 +922,8 @@
 "src": "yahoo"
 },
 "XRP": {
-"at": "2026-10-29T00:45:00Z",
-"p": 1.3212000131607056,
+"at": "2026-10-29T06:30:00Z",
+"p": 1.2913999557495117,
 "src": "yahoo"
 },
 "X_MRVL": {
