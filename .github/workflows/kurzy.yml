@@ -1,7 +1,9 @@
 name: Kurzy
+# Jeden běh drží smyčku ~5 h 40 min (stahuje každých 10 minut) a na konci spustí sám sebe znovu.
+# Plánovač je jen záloha, kdyby se řetěz přerušil (GitHub spouští plánované běhy nespolehlivě).
 on:
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "17 */2 * * *"
     - cron: "3 4 * * 1"
   push:
     branches: [main]
@@ -9,30 +11,44 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: kurzy
   cancel-in-progress: false
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install requests yfinance pandas lxml
-      - name: Extra seznam (týdně)
-        if: github.event_name != 'schedule' || github.event.schedule == '3 4 * * 1' || hashFiles('extra.json') == ''
-        run: python build_extra.py
-      - run: python fetch.py
+      - name: Extra seznam
+        if: github.event_name == 'push' || github.event.schedule == '3 4 * * 1' || hashFiles('extra.json') == ''
+        run: python build_extra.py || true
+      - name: Smyčka stahování
         env:
-          FORCE_EXTRA: ${{ github.event_name != 'schedule' && '1' || '' }}
-      - name: Commit
+          FORCE_EXTRA: ${{ github.event_name == 'push' && '1' || '' }}
         run: |
           git config user.name "kurzy-bot"
           git config user.email "kurzy-bot@users.noreply.github.com"
-          for f in prices.json game_update.json all.json extra.json extra_log.json; do [ -f "$f" ] && git add "$f"; done
-          git commit -m "kurzy $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
-          git pull --rebase -X ours || true
-          git push
+          end=$(( $(date +%s) + 340*60 ))
+          while [ $(date +%s) -lt $end ]; do
+            start=$(date +%s)
+            git pull -q --rebase -X theirs || git rebase --abort || true
+            python fetch.py || echo "fetch selhal"
+            for f in prices.json game_update.json all.json extra.json extra_log.json; do [ -f "$f" ] && git add "$f"; done
+            if git commit -qm "kurzy $(date -u +%Y-%m-%dT%H:%MZ)"; then
+              git pull -q --rebase -X ours || true
+              git push -q || echo "push selhal"
+            fi
+            unset FORCE_EXTRA
+            sleep $(( 600 - ($(date +%s) - start) > 30 ? 600 - ($(date +%s) - start) : 30 ))
+          done
+      - name: Spustit další kolo
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run kurzy.yml --ref main
