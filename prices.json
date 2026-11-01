@@ -1,9 +1,25 @@
 {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "count": 180,
 "errors": [
 "pse missing ATOM",
-"pse missing ATOM"
+"DHR@query1: HTTP 429 Too Many Requests\r\n",
+"DHR@query2: HTTP 429 Too Many Requests\r\n",
+"stooq dhr.us: 404 '<meta charset=utf-8><title>Stooq</title><center style=font-family:arial;margin-t'",
+"yahoo missing DHR (DHR)",
+"INFY@query1: HTTP 429 Too Many Requests\r\n",
+"INFY@query2: HTTP 429 Too Many Requests\r\n",
+"stooq infy.us: 404 '<meta charset=utf-8><title>Stooq</title><center style=font-family:arial;margin-t'",
+"yahoo missing INFY (INFY)",
+"pse missing ATOM",
+"DHR@query1: HTTP 429 Too Many Requests\r\n",
+"DHR@query2: HTTP 429 Too Many Requests\r\n",
+"stooq dhr.us: 404 '<meta charset=utf-8><title>Stooq</title><center style=font-family:arial;margin-t'",
+"yahoo missing DHR (DHR)",
+"INFY@query1: HTTP 429 Too Many Requests\r\n",
+"INFY@query2: HTTP 429 Too Many Requests\r\n",
+"stooq infy.us: 404 '<meta charset=utf-8><title>Stooq</title><center style=font-family:arial;margin-t'",
+"yahoo missing INFY (INFY)"
 ],
 "fx": {
 "CHF": {
@@ -137,7 +153,7 @@
 "src": "yahoo"
 },
 "BEZVA": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 350.0,
 "src": "pse"
 },
@@ -187,8 +203,8 @@
 "src": "yahoo"
 },
 "BTC": {
-"at": "2026-10-31T23:45:00Z",
-"p": 77417.2734375,
+"at": "2026-11-01T00:00:00Z",
+"p": 77386.8984375,
 "src": "yahoo"
 },
 "BYD": {
@@ -207,12 +223,12 @@
 "src": "yahoo"
 },
 "CEZ": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 1366.0,
 "src": "pse"
 },
 "COLT": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 850.0,
 "src": "pse"
 },
@@ -272,12 +288,12 @@
 "src": "yahoo"
 },
 "DOGE": {
-"at": "2026-10-31T23:45:00Z",
-"p": 0.07558000087738037,
+"at": "2026-11-01T00:00:00Z",
+"p": 0.07546000182628632,
 "src": "yahoo"
 },
 "DSPW": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 390.0,
 "src": "pse"
 },
@@ -287,7 +303,7 @@
 "src": "yahoo"
 },
 "E4U": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 145.0,
 "src": "pse"
 },
@@ -297,13 +313,13 @@
 "src": "yahoo"
 },
 "ERSTE": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 2625.0,
 "src": "pse"
 },
 "ETH": {
-"at": "2026-10-31T23:45:00Z",
-"p": 2252.02001953125,
+"at": "2026-11-01T00:00:00Z",
+"p": 2252.389892578125,
 "src": "yahoo"
 },
 "FCX": {
@@ -312,12 +328,12 @@
 "src": "yahoo"
 },
 "FILLAM": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 67.0,
 "src": "pse"
 },
 "FIXD": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 40.0,
 "src": "pse"
 },
@@ -337,7 +353,7 @@
 "src": "yahoo"
 },
 "GEVOR": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 176.0,
 "src": "pse"
 },
@@ -357,7 +373,7 @@
 "src": "yahoo"
 },
 "HARDW": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 8.3,
 "src": "pse"
 },
@@ -422,7 +438,7 @@
 "src": "yahoo"
 },
 "KARO": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 137.5,
 "src": "pse"
 },
@@ -437,12 +453,12 @@
 "src": "yahoo"
 },
 "KOFOL": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 501.0,
 "src": "pse"
 },
 "KOMB": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 993.5,
 "src": "pse"
 },
@@ -507,7 +523,7 @@
 "src": "yahoo"
 },
 "MONET": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 193.8,
 "src": "pse"
 },
@@ -627,7 +643,7 @@
 "src": "yahoo"
 },
 "PEN": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 6.0,
 "src": "pse"
 },
@@ -647,7 +663,7 @@
 "src": "yahoo"
 },
 "PILUL": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 86.0,
 "src": "pse"
 },
@@ -657,12 +673,12 @@
 "src": "yahoo"
 },
 "PRABOS": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 250.0,
 "src": "pse"
 },
 "PRIMOCO": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 634.0,
 "src": "pse"
 },
@@ -702,7 +718,7 @@
 "src": "yahoo"
 },
 "SABF": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 1080.0,
 "src": "pse"
 },
@@ -762,8 +778,8 @@
 "src": "yahoo"
 },
 "SOL": {
-"at": "2026-10-31T23:45:00Z",
-"p": 95.26000213623047,
+"at": "2026-11-01T00:00:00Z",
+"p": 95.30000305175781,
 "src": "yahoo"
 },
 "SONY": {
@@ -792,7 +808,7 @@
 "src": "yahoo"
 },
 "TABAK": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 17280.0,
 "src": "pse"
 },
@@ -882,7 +898,7 @@
 "src": "yahoo"
 },
 "VIG": {
-"at": "2026-10-31T23:55:01Z",
+"at": "2026-11-01T00:05:02Z",
 "p": 1700.0,
 "src": "pse"
 },
@@ -922,8 +938,8 @@
 "src": "yahoo"
 },
 "XRP": {
-"at": "2026-10-31T23:45:00Z",
-"p": 1.2496000528335571,
+"at": "2026-11-01T00:00:00Z",
+"p": 1.2491999864578247,
 "src": "yahoo"
 },
 "X_MRVL": {
