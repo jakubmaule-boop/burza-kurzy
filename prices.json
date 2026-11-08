@@ -1,17 +1,9 @@
 {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "count": 180,
 "errors": [
 "pse missing ATOM",
-"NG=F@query1: HTTP 429 Too Many Requests\r\n",
-"NG=F@query2: HTTP 429 Too Many Requests\r\n",
-"stooq ng.f: HTTPSConnectionPool(host='stooq.com', port=443): Max retries exceeded with url: /q/l/?s=ng.f&f=sd2t2c&h=&e=csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='stooq.com', port=443) at 0x7c320e470b90>, 'Connection to stooq.com timed out. (connect timeout=15)'))",
-"yahoo missing NATGAS (NG=F)",
-"pse missing ATOM",
-"NG=F@query1: HTTP 429 Too Many Requests\r\n",
-"NG=F@query2: HTTP 429 Too Many Requests\r\n",
-"stooq ng.f: HTTPSConnectionPool(host='stooq.com', port=443): Max retries exceeded with url: /q/l/?s=ng.f&f=sd2t2c&h=&e=csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='stooq.com', port=443) at 0x7c320e470b90>, 'Connection to stooq.com timed out. (connect timeout=15)'))",
-"yahoo missing NATGAS (NG=F)"
+"pse missing ATOM"
 ],
 "fx": {
 "CHF": {
@@ -145,7 +137,7 @@
 "src": "yahoo"
 },
 "BEZVA": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 350.0,
 "src": "pse"
 },
@@ -195,8 +187,8 @@
 "src": "yahoo"
 },
 "BTC": {
-"at": "2026-11-08T13:15:00Z",
-"p": 75949.796875,
+"at": "2026-11-08T13:30:00Z",
+"p": 75885.5625,
 "src": "yahoo"
 },
 "BYD": {
@@ -215,12 +207,12 @@
 "src": "yahoo"
 },
 "CEZ": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 1340.0,
 "src": "pse"
 },
 "COLT": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 832.0,
 "src": "pse"
 },
@@ -280,12 +272,12 @@
 "src": "yahoo"
 },
 "DOGE": {
-"at": "2026-11-08T13:15:00Z",
-"p": 0.07128000259399414,
+"at": "2026-11-08T13:30:00Z",
+"p": 0.07124999910593033,
 "src": "yahoo"
 },
 "DSPW": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 398.5,
 "src": "pse"
 },
@@ -295,7 +287,7 @@
 "src": "yahoo"
 },
 "E4U": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 149.0,
 "src": "pse"
 },
@@ -305,13 +297,13 @@
 "src": "yahoo"
 },
 "ERSTE": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 2739.0,
 "src": "pse"
 },
 "ETH": {
-"at": "2026-11-08T13:15:00Z",
-"p": 2238.47998046875,
+"at": "2026-11-08T13:30:00Z",
+"p": 2237.780029296875,
 "src": "yahoo"
 },
 "FCX": {
@@ -320,12 +312,12 @@
 "src": "yahoo"
 },
 "FILLAM": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 67.0,
 "src": "pse"
 },
 "FIXD": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 45.0,
 "src": "pse"
 },
@@ -345,7 +337,7 @@
 "src": "yahoo"
 },
 "GEVOR": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 173.0,
 "src": "pse"
 },
@@ -365,7 +357,7 @@
 "src": "yahoo"
 },
 "HARDW": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 8.75,
 "src": "pse"
 },
@@ -430,7 +422,7 @@
 "src": "yahoo"
 },
 "KARO": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 137.0,
 "src": "pse"
 },
@@ -445,12 +437,12 @@
 "src": "yahoo"
 },
 "KOFOL": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 500.0,
 "src": "pse"
 },
 "KOMB": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 995.0,
 "src": "pse"
 },
@@ -515,7 +507,7 @@
 "src": "yahoo"
 },
 "MONET": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 188.8,
 "src": "pse"
 },
@@ -635,7 +627,7 @@
 "src": "yahoo"
 },
 "PEN": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 5.3,
 "src": "pse"
 },
@@ -655,7 +647,7 @@
 "src": "yahoo"
 },
 "PILUL": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 82.0,
 "src": "pse"
 },
@@ -665,12 +657,12 @@
 "src": "yahoo"
 },
 "PRABOS": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 232.0,
 "src": "pse"
 },
 "PRIMOCO": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 646.0,
 "src": "pse"
 },
@@ -710,7 +702,7 @@
 "src": "yahoo"
 },
 "SABF": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 1070.0,
 "src": "pse"
 },
@@ -770,8 +762,8 @@
 "src": "yahoo"
 },
 "SOL": {
-"at": "2026-11-08T13:15:00Z",
-"p": 89.5,
+"at": "2026-11-08T13:30:00Z",
+"p": 89.44000244140625,
 "src": "yahoo"
 },
 "SONY": {
@@ -800,7 +792,7 @@
 "src": "yahoo"
 },
 "TABAK": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 17280.0,
 "src": "pse"
 },
@@ -890,7 +882,7 @@
 "src": "yahoo"
 },
 "VIG": {
-"at": "2026-11-08T13:27:00Z",
+"at": "2026-11-08T13:37:01Z",
 "p": 1744.0,
 "src": "pse"
 },
@@ -930,8 +922,8 @@
 "src": "yahoo"
 },
 "XRP": {
-"at": "2026-11-08T13:15:00Z",
-"p": 1.1653000116348267,
+"at": "2026-11-08T13:30:00Z",
+"p": 1.1634999513626099,
 "src": "yahoo"
 },
 "X_MRVL": {
