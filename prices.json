@@ -1,84 +1,38 @@
 {
-"at": "2026-11-17T13:21:54Z",
+"at": "2026-11-17T13:31:55Z",
 "count": 180,
 "errors": [
-"pse prime #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7585597866c0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse prime #1: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/prime-market",
-"pse prime #2: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/prime-market",
-"pse standard #0: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/standard-market",
-"pse standard #1: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/standard-market",
-"pse standard #2: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/standard-market",
-"pse start #0: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/start-market",
-"pse start #1: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/start-market",
-"pse missing CEZ",
-"pse missing KOMB",
-"pse missing MONET",
-"pse missing DSPW",
-"pse missing COLT",
-"pse missing ERSTE",
-"pse missing KOFOL",
-"pse missing VIG",
-"pse missing PRIMOCO",
-"pse missing GEVOR",
-"pse missing KARO",
-"pse missing TABAK",
-"pse missing SABF",
-"pse missing E4U",
-"pse missing PEN",
 "pse missing ATOM",
-"pse prime #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7585597866c0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse prime #1: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/prime-market",
-"pse prime #2: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/prime-market",
-"pse standard #0: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/standard-market",
-"pse standard #1: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/standard-market",
-"pse standard #2: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/standard-market",
-"pse start #0: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/start-market",
-"pse start #1: 500 Server Error: Internal Server Error for url: https://www.pse.cz/en/market-data/shares/start-market",
-"pse missing CEZ",
-"pse missing KOMB",
-"pse missing MONET",
-"pse missing DSPW",
-"pse missing COLT",
-"pse missing ERSTE",
-"pse missing KOFOL",
-"pse missing VIG",
-"pse missing PRIMOCO",
-"pse missing GEVOR",
-"pse missing KARO",
-"pse missing TABAK",
-"pse missing SABF",
-"pse missing E4U",
-"pse missing PEN",
 "pse missing ATOM"
 ],
 "fx": {
 "CHF": {
-"at": "2026-11-17T13:15:00Z",
-"p": 26.401550972572394
+"at": "2026-11-17T13:30:00Z",
+"p": 26.39808946473331
 },
 "EUR": {
-"at": "2026-11-17T13:15:00Z",
-"p": 24.39380326498021
+"at": "2026-11-17T13:30:00Z",
+"p": 24.384887315202846
 },
 "GBP": {
-"at": "2026-11-17T13:15:00Z",
-"p": 29.27166212739632
+"at": "2026-11-17T13:30:00Z",
+"p": 29.274082327425557
 },
 "HKD": {
-"at": "2026-11-17T13:15:00Z",
-"p": 2.829536800486045
+"at": "2026-11-17T13:30:00Z",
+"p": 2.829409666239025
 },
 "JPY": {
-"at": "2026-11-17T13:15:00Z",
-"p": 0.1393236140310726
+"at": "2026-11-17T13:30:00Z",
+"p": 0.13926266940131762
 },
 "KRW": {
-"at": "2026-11-17T13:15:00Z",
-"p": 0.016610775257848903
+"at": "2026-11-17T13:30:00Z",
+"p": 0.01660595334177834
 },
 "USD": {
-"at": "2026-11-17T13:15:00Z",
-"p": 22.2007999420166
+"at": "2026-11-17T13:30:00Z",
+"p": 22.200000762939453
 }
 },
 "quotes": {
@@ -108,13 +62,13 @@
 "src": "yahoo"
 },
 "AIR": {
-"at": "2026-11-17T13:00:00Z",
-"p": 204.60000610351562,
+"at": "2026-11-17T13:15:00Z",
+"p": 204.25,
 "src": "yahoo"
 },
 "ALV": {
-"at": "2026-11-17T13:00:00Z",
-"p": 469.79998779296875,
+"at": "2026-11-17T13:15:00Z",
+"p": 469.29998779296875,
 "src": "yahoo"
 },
 "AMAT": {
@@ -138,8 +92,8 @@
 "src": "yahoo"
 },
 "ASML": {
-"at": "2026-11-17T13:00:00Z",
-"p": 1289.4000244140625,
+"at": "2026-11-17T13:15:00Z",
+"p": 1290.0,
 "src": "yahoo"
 },
 "AVGO": {
@@ -173,17 +127,17 @@
 "src": "yahoo"
 },
 "BAES": {
-"at": "2026-11-17T13:00:00Z",
-"p": 1878.0,
+"at": "2026-11-17T13:15:00Z",
+"p": 1873.5,
 "src": "yahoo"
 },
 "BAS": {
-"at": "2026-11-17T13:00:00Z",
-"p": 53.16999816894531,
+"at": "2026-11-17T13:15:00Z",
+"p": 53.119998931884766,
 "src": "yahoo"
 },
 "BEZVA": {
-"at": "2026-11-17T13:21:54Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 350.0,
 "src": "pse"
 },
@@ -208,13 +162,13 @@
 "src": "yahoo"
 },
 "BMW": {
-"at": "2026-11-17T13:00:00Z",
+"at": "2026-11-17T13:15:00Z",
 "p": 56.70000076293945,
 "src": "yahoo"
 },
 "BNP": {
-"at": "2026-11-17T13:00:00Z",
-"p": 94.66999816894531,
+"at": "2026-11-17T13:15:00Z",
+"p": 94.61000061035156,
 "src": "yahoo"
 },
 "BP": {
@@ -223,8 +177,8 @@
 "src": "yahoo"
 },
 "BRENT": {
-"at": "2026-11-17T13:00:00Z",
-"p": 93.13999938964844,
+"at": "2026-11-17T13:15:00Z",
+"p": 93.5999984741211,
 "src": "yahoo"
 },
 "BRKB": {
@@ -233,8 +187,8 @@
 "src": "yahoo"
 },
 "BTC": {
-"at": "2026-11-17T13:15:00Z",
-"p": 64904.4296875,
+"at": "2026-11-17T13:30:00Z",
+"p": 64881.08984375,
 "src": "yahoo"
 },
 "BYD": {
@@ -253,18 +207,18 @@
 "src": "yahoo"
 },
 "CEZ": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 1336.0,
 "src": "pse"
 },
 "COLT": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 807.0,
 "src": "pse"
 },
 "COPPER": {
-"at": "2026-11-17T13:00:00Z",
-"p": 5.980999946594238,
+"at": "2026-11-17T13:15:00Z",
+"p": 5.968500137329102,
 "src": "yahoo"
 },
 "COST": {
@@ -288,8 +242,8 @@
 "src": "yahoo"
 },
 "CSG": {
-"at": "2026-11-17T13:00:00Z",
-"p": 9.359000205993652,
+"at": "2026-11-17T13:15:00Z",
+"p": 9.34000015258789,
 "src": "yahoo"
 },
 "CVX": {
@@ -298,8 +252,8 @@
 "src": "yahoo"
 },
 "DAX": {
-"at": "2026-11-17T13:00:00Z",
-"p": 26338.119140625,
+"at": "2026-11-17T13:15:00Z",
+"p": 26330.150390625,
 "src": "yahoo"
 },
 "DE": {
@@ -318,38 +272,38 @@
 "src": "yahoo"
 },
 "DOGE": {
-"at": "2026-11-17T13:15:00Z",
-"p": 0.0595100000500679,
+"at": "2026-11-17T13:30:00Z",
+"p": 0.059369999915361404,
 "src": "yahoo"
 },
 "DSPW": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 391.0,
 "src": "pse"
 },
 "DTE": {
-"at": "2026-11-17T13:00:00Z",
-"p": 27.020000457763672,
+"at": "2026-11-17T13:15:00Z",
+"p": 27.010000228881836,
 "src": "yahoo"
 },
 "E4U": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 139.0,
 "src": "pse"
 },
 "ENR": {
-"at": "2026-11-17T13:00:00Z",
-"p": 127.9000015258789,
+"at": "2026-11-17T13:15:00Z",
+"p": 127.72000122070312,
 "src": "yahoo"
 },
 "ERSTE": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 2858.0,
 "src": "pse"
 },
 "ETH": {
-"at": "2026-11-17T13:15:00Z",
-"p": 1817.1600341796875,
+"at": "2026-11-17T13:30:00Z",
+"p": 1818.6700439453125,
 "src": "yahoo"
 },
 "FCX": {
@@ -358,18 +312,18 @@
 "src": "yahoo"
 },
 "FILLAM": {
-"at": "2026-11-17T13:21:54Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 70.0,
 "src": "pse"
 },
 "FIXD": {
-"at": "2026-11-17T13:21:54Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 37.6,
 "src": "pse"
 },
 "FTSE": {
-"at": "2026-11-17T13:00:00Z",
-"p": 10773.1396484375,
+"at": "2026-11-17T13:15:00Z",
+"p": 10767.4599609375,
 "src": "yahoo"
 },
 "GD": {
@@ -383,13 +337,13 @@
 "src": "yahoo"
 },
 "GEVOR": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 170.0,
 "src": "pse"
 },
 "GOLD": {
-"at": "2026-11-17T13:00:00Z",
-"p": 3860.300048828125,
+"at": "2026-11-17T13:15:00Z",
+"p": 3857.60009765625,
 "src": "yahoo"
 },
 "GOOGL": {
@@ -403,7 +357,7 @@
 "src": "yahoo"
 },
 "HARDW": {
-"at": "2026-11-17T13:21:54Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 8.3,
 "src": "pse"
 },
@@ -453,8 +407,8 @@
 "src": "yahoo"
 },
 "ITX": {
-"at": "2026-11-17T13:00:00Z",
-"p": 59.779998779296875,
+"at": "2026-11-17T13:15:00Z",
+"p": 59.79999923706055,
 "src": "yahoo"
 },
 "JNJ": {
@@ -468,7 +422,7 @@
 "src": "yahoo"
 },
 "KARO": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 138.0,
 "src": "pse"
 },
@@ -483,12 +437,12 @@
 "src": "yahoo"
 },
 "KOFOL": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 494.5,
 "src": "pse"
 },
 "KOMB": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 1012.0,
 "src": "pse"
 },
@@ -518,13 +472,13 @@
 "src": "yahoo"
 },
 "MBG": {
-"at": "2026-11-17T13:00:00Z",
-"p": 40.11000061035156,
+"at": "2026-11-17T13:15:00Z",
+"p": 40.119998931884766,
 "src": "yahoo"
 },
 "MC": {
-"at": "2026-11-17T13:00:00Z",
-"p": 395.8500061035156,
+"at": "2026-11-17T13:15:00Z",
+"p": 395.75,
 "src": "yahoo"
 },
 "MCD": {
@@ -553,7 +507,7 @@
 "src": "yahoo"
 },
 "MONET": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 185.9,
 "src": "pse"
 },
@@ -588,8 +542,8 @@
 "src": "yahoo"
 },
 "NATGAS": {
-"at": "2026-11-17T13:00:00Z",
-"p": 3.1549999713897705,
+"at": "2026-11-17T13:15:00Z",
+"p": 3.131999969482422,
 "src": "yahoo"
 },
 "NDX": {
@@ -598,8 +552,8 @@
 "src": "yahoo"
 },
 "NESN": {
-"at": "2026-11-17T13:00:00Z",
-"p": 87.19000244140625,
+"at": "2026-11-17T13:15:00Z",
+"p": 87.12999725341797,
 "src": "yahoo"
 },
 "NFLX": {
@@ -653,12 +607,12 @@
 "src": "yahoo"
 },
 "OREAL": {
-"at": "2026-11-17T13:00:00Z",
-"p": 447.45001220703125,
+"at": "2026-11-17T13:15:00Z",
+"p": 447.04998779296875,
 "src": "yahoo"
 },
 "P911": {
-"at": "2026-11-17T13:00:00Z",
+"at": "2026-11-17T13:15:00Z",
 "p": 43.59000015258789,
 "src": "yahoo"
 },
@@ -673,7 +627,7 @@
 "src": "yahoo"
 },
 "PEN": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 5.4,
 "src": "pse"
 },
@@ -693,7 +647,7 @@
 "src": "yahoo"
 },
 "PILUL": {
-"at": "2026-11-17T13:21:54Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 72.6,
 "src": "pse"
 },
@@ -703,12 +657,12 @@
 "src": "yahoo"
 },
 "PRABOS": {
-"at": "2026-11-17T13:21:54Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 232.0,
 "src": "pse"
 },
 "PRIMOCO": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 626.0,
 "src": "pse"
 },
@@ -723,8 +677,8 @@
 "src": "yahoo"
 },
 "RHM": {
-"at": "2026-11-17T13:00:00Z",
-"p": 763.7999877929688,
+"at": "2026-11-17T13:15:00Z",
+"p": 761.5,
 "src": "yahoo"
 },
 "RIO": {
@@ -733,13 +687,13 @@
 "src": "yahoo"
 },
 "RMS": {
-"at": "2026-11-17T13:00:00Z",
-"p": 1288.0,
+"at": "2026-11-17T13:15:00Z",
+"p": 1285.0,
 "src": "yahoo"
 },
 "ROG": {
 "at": "2026-11-17T13:00:00Z",
-"p": 411.79998779296875,
+"p": 412.20001220703125,
 "src": "yahoo"
 },
 "RTX": {
@@ -748,13 +702,13 @@
 "src": "yahoo"
 },
 "SABF": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 1070.0,
 "src": "pse"
 },
 "SAF": {
-"at": "2026-11-17T13:00:00Z",
-"p": 307.6000061035156,
+"at": "2026-11-17T13:15:00Z",
+"p": 307.5,
 "src": "yahoo"
 },
 "SAMSUNG": {
@@ -763,8 +717,8 @@
 "src": "yahoo"
 },
 "SAP": {
-"at": "2026-11-17T13:00:00Z",
-"p": 206.89999389648438,
+"at": "2026-11-17T13:15:00Z",
+"p": 207.0500030517578,
 "src": "yahoo"
 },
 "SBUX": {
@@ -783,13 +737,13 @@
 "src": "yahoo"
 },
 "SIE": {
-"at": "2026-11-17T13:00:00Z",
+"at": "2026-11-17T13:15:00Z",
 "p": 274.0,
 "src": "yahoo"
 },
 "SILVER": {
-"at": "2026-11-17T13:00:00Z",
-"p": 47.57500076293945,
+"at": "2026-11-17T13:15:00Z",
+"p": 47.45500183105469,
 "src": "yahoo"
 },
 "SNOW": {
@@ -808,8 +762,8 @@
 "src": "yahoo"
 },
 "SOL": {
-"at": "2026-11-17T13:15:00Z",
-"p": 73.98999786376953,
+"at": "2026-11-17T13:30:00Z",
+"p": 73.77999877929688,
 "src": "yahoo"
 },
 "SONY": {
@@ -828,8 +782,8 @@
 "src": "yahoo"
 },
 "SX5E": {
-"at": "2026-11-17T13:00:00Z",
-"p": 6285.41015625,
+"at": "2026-11-17T13:15:00Z",
+"p": 6281.9501953125,
 "src": "yahoo"
 },
 "T": {
@@ -838,7 +792,7 @@
 "src": "yahoo"
 },
 "TABAK": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 17020.0,
 "src": "pse"
 },
@@ -928,13 +882,13 @@
 "src": "yahoo"
 },
 "VIG": {
-"at": "2026-11-17T12:11:55Z",
+"at": "2026-11-17T13:31:55Z",
 "p": 1902.0,
 "src": "pse"
 },
 "VOW3": {
 "at": "2026-11-17T13:00:00Z",
-"p": 66.73999786376953,
+"p": 66.77999877929688,
 "src": "yahoo"
 },
 "VZ": {
@@ -953,8 +907,8 @@
 "src": "yahoo"
 },
 "WTI": {
-"at": "2026-11-17T13:00:00Z",
-"p": 86.37000274658203,
+"at": "2026-11-17T13:15:00Z",
+"p": 86.69999694824219,
 "src": "yahoo"
 },
 "XIAOMI": {
@@ -968,8 +922,8 @@
 "src": "yahoo"
 },
 "XRP": {
-"at": "2026-11-17T13:15:00Z",
-"p": 0.9760000109672546,
+"at": "2026-11-17T13:30:00Z",
+"p": 0.9746999740600586,
 "src": "yahoo"
 },
 "X_MRVL": {
