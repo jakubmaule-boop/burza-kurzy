@@ -1,16 +1,16 @@
 {
-"at": "2026-11-17T21:52:44Z",
+"at": "2026-11-17T22:02:44Z",
 "count": 180,
 "errors": [
-"pse prime #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d4679280>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse prime #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d4679340>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse prime #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d467a1e0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d467a300>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d467a1b0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d467bbf0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477e6f525d0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d22c0a10>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d22c0bc0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse prime #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086ef2be870>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse prime #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf92300>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse prime #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf92f00>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse standard #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf60bc0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse standard #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf61280>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse standard #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf63650>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse start #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf61220>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse start #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf63230>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse start #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf633b0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
 "pse missing CEZ",
 "pse missing KOMB",
 "pse missing MONET",
@@ -33,15 +33,15 @@
 "pse missing ATOM",
 "pse missing HARDW",
 "pse missing FILLAM",
-"pse prime #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d4679280>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse prime #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d4679340>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse prime #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d467a1e0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d467a300>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d467a1b0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse standard #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d467bbf0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477e6f525d0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d22c0a10>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
-"pse start #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7477d22c0bc0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse prime #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086ef2be870>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse prime #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf92300>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse prime #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/prime-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf92f00>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse standard #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf60bc0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse standard #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf61280>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse standard #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/standard-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf63650>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse start #0: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf61220>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse start #1: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf63230>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
+"pse start #2: HTTPSConnectionPool(host='www.pse.cz', port=443): Max retries exceeded with url: /en/market-data/shares/start-market (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pse.cz', port=443) at 0x7086edf633b0>, 'Connection to www.pse.cz timed out. (connect timeout=30)'))",
 "pse missing CEZ",
 "pse missing KOMB",
 "pse missing MONET",
@@ -67,32 +67,32 @@
 ],
 "fx": {
 "CHF": {
-"at": "2026-11-17T21:45:00Z",
-"p": 26.333386494572697
+"at": "2026-11-17T22:00:00Z",
+"p": 26.341347043678457
 },
 "EUR": {
-"at": "2026-11-17T21:45:00Z",
-"p": 24.352514281112523
+"at": "2026-11-17T22:00:00Z",
+"p": 24.342278553374577
 },
 "GBP": {
-"at": "2026-11-17T21:45:00Z",
-"p": 29.2340813258205
+"at": "2026-11-17T22:00:00Z",
+"p": 29.241095548008285
 },
 "HKD": {
-"at": "2026-11-17T21:45:00Z",
-"p": 2.8210195117871963
+"at": "2026-11-17T22:00:00Z",
+"p": 2.820872337664745
 },
 "JPY": {
-"at": "2026-11-17T21:45:00Z",
-"p": 0.1388913344838561
+"at": "2026-11-17T22:00:00Z",
+"p": 0.13890406258466373
 },
 "KRW": {
-"at": "2026-11-17T21:45:00Z",
-"p": 0.016588225964661706
+"at": "2026-11-17T22:00:00Z",
+"p": 0.01656810113590953
 },
 "USD": {
-"at": "2026-11-17T21:45:00Z",
-"p": 22.134000778198242
+"at": "2026-11-17T22:00:00Z",
+"p": 22.131999969482422
 }
 },
 "quotes": {
@@ -237,8 +237,8 @@
 "src": "yahoo"
 },
 "BRENT": {
-"at": "2026-11-17T21:30:00Z",
-"p": 93.08999633789062,
+"at": "2026-11-17T21:45:00Z",
+"p": 93.12000274658203,
 "src": "yahoo"
 },
 "BRKB": {
@@ -247,8 +247,8 @@
 "src": "yahoo"
 },
 "BTC": {
-"at": "2026-11-17T21:45:00Z",
-"p": 64206.30078125,
+"at": "2026-11-17T22:00:00Z",
+"p": 64251.19921875,
 "src": "yahoo"
 },
 "BYD": {
@@ -277,8 +277,8 @@
 "src": "pse"
 },
 "COPPER": {
-"at": "2026-11-17T21:30:00Z",
-"p": 6.000999927520752,
+"at": "2026-11-17T21:45:00Z",
+"p": 5.994500160217285,
 "src": "yahoo"
 },
 "COST": {
@@ -332,8 +332,8 @@
 "src": "yahoo"
 },
 "DOGE": {
-"at": "2026-11-17T21:45:00Z",
-"p": 0.05922999978065491,
+"at": "2026-11-17T22:00:00Z",
+"p": 0.059220001101493835,
 "src": "yahoo"
 },
 "DSPW": {
@@ -362,8 +362,8 @@
 "src": "pse"
 },
 "ETH": {
-"at": "2026-11-17T21:45:00Z",
-"p": 1802.719970703125,
+"at": "2026-11-17T22:00:00Z",
+"p": 1802.0699462890625,
 "src": "yahoo"
 },
 "FCX": {
@@ -402,8 +402,8 @@
 "src": "pse"
 },
 "GOLD": {
-"at": "2026-11-17T21:30:00Z",
-"p": 3852.89990234375,
+"at": "2026-11-17T21:45:00Z",
+"p": 3851.89990234375,
 "src": "yahoo"
 },
 "GOOGL": {
@@ -602,8 +602,8 @@
 "src": "yahoo"
 },
 "NATGAS": {
-"at": "2026-11-17T21:30:00Z",
-"p": 3.194000005722046,
+"at": "2026-11-17T21:45:00Z",
+"p": 3.197999954223633,
 "src": "yahoo"
 },
 "NDX": {
@@ -802,8 +802,8 @@
 "src": "yahoo"
 },
 "SILVER": {
-"at": "2026-11-17T21:30:00Z",
-"p": 47.314998626708984,
+"at": "2026-11-17T21:45:00Z",
+"p": 47.28499984741211,
 "src": "yahoo"
 },
 "SNOW": {
@@ -822,8 +822,8 @@
 "src": "yahoo"
 },
 "SOL": {
-"at": "2026-11-17T21:45:00Z",
-"p": 73.33000183105469,
+"at": "2026-11-17T22:00:00Z",
+"p": 73.44000244140625,
 "src": "yahoo"
 },
 "SONY": {
@@ -967,8 +967,8 @@
 "src": "yahoo"
 },
 "WTI": {
-"at": "2026-11-17T21:30:00Z",
-"p": 85.70999908447266,
+"at": "2026-11-17T21:45:00Z",
+"p": 85.66999816894531,
 "src": "yahoo"
 },
 "XIAOMI": {
@@ -982,8 +982,8 @@
 "src": "yahoo"
 },
 "XRP": {
-"at": "2026-11-17T21:45:00Z",
-"p": 0.968500018119812,
+"at": "2026-11-17T22:00:00Z",
+"p": 0.9681000113487244,
 "src": "yahoo"
 },
 "X_MRVL": {
